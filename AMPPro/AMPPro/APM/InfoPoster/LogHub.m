@@ -41,12 +41,11 @@
 //    accessKeyID： 阿里云提供；
 //    accessKeySecret阿里云提供；
     
-//    self.client = [[LogClient alloc] initWithApp: @"https://cn-shanghai.log.aliyuncs.com" accessKeyID:@"LTAIBuBdH57wOD68" accessKeySecret:@"nGgqs0QnJ6KI4g5wLBsbppoo2KQbG4" projectName:@"wag-mobile"];
+  
 
     return self;
 }
 
-//  self.client = [[LogClient alloc] initWithApp: @"cn-shanghai.log.aliyuncs.com" accessKeyID:@"LTAIBuBdH57wOD68" accessKeySecret:@"nGgqs0QnJ6KI4g5wLBsbppoo2KQbG4" projectName:@"wag-mobile"];
 
 -(void)createLoghubClient:(NSString*) endPoint accessKeyID:(NSString *)ak accessKeySecret: (NSString *)as projectName: (NSString *)name
 {
