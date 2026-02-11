@@ -25,24 +25,16 @@
 ## 文件结构
 
 ```
-~/docsvault/financial-monitor/
+financial-monitor/
 ├── 金融日报-2026-02-10.md
 ├── latest.md
 └── README.md
 ```
 
-## Cron 调度
-
-| 任务 | 时间 | 脚本 |
-|------|------|------|
-| 早间 | 08:00 | v3 |
-| 午间 | 12:00 | v3 |
-| 晚间 | 20:00 | v3 |
-
 ## 运行
 
 ```bash
-node /Users/mbot/clawd/scripts/financial-monitor-v3.js
+node financial-monitor-v3.js
 ```
 
 ## 输出示例
