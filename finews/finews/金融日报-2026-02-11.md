@@ -1,6 +1,6 @@
-# 金融日报 - 2026-02-14
+# 金融日报 - 2026-02-11
 
-> 生成时间：2026/2/14 18:00:08
+> 生成时间：2026/2/11 18:00:08
 > 数据源：RSS 1 | 浏览器 0/3
 
 ---
@@ -88,14 +88,14 @@
 
 ### BBC Business
 
-- Head of Dubai-based ports giant quits after Epstein links revealed → [原文](https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&amp;at_campaign=rss)
-- Andrew facing claim he shared Treasury document with banking contact → [原文](https://www.bbc.com/news/articles/cddn6yyr66yo?at_medium=RSS&amp;at_campaign=rss)
-- Heathrow not crowded but people walk in 'wrong place', says boss → [原文](https://www.bbc.com/news/articles/c4g52q0pl5yo?at_medium=RSS&amp;at_campaign=rss)
-- Amazon's Ring ends deal with surveillance firm after backlash → [原文](https://www.bbc.com/news/articles/cwy8dxz1g7zo?at_medium=RSS&amp;at_campaign=rss)
-- Inflation eases in US as prices for used cars fall → [原文](https://www.bbc.com/news/articles/cd6z05p56xyo?at_medium=RSS&amp;at_campaign=rss)
-- Get a grip: Robotics firms struggle to develop hands → [原文](https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&amp;at_campaign=rss)
-- Hello Kitty designer steps down after 46 years → [原文](https://www.bbc.com/news/articles/cpv8nmr97rwo?at_medium=RSS&amp;at_campaign=rss)
-- Rain and politics driving up half-term holiday bookings, travel agents say → [原文](https://www.bbc.com/news/articles/c3ew90z9jezo?at_medium=RSS&amp;at_campaign=rss)
+- 'Fear and alienation': Senior Co-op staff complain of 'toxic' culture at the top → [原文](https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&amp;at_campaign=rss)
+- Disney advert banned for showing 'disturbing' severed body → [原文](https://www.bbc.com/news/articles/ce8n132681no?at_medium=RSS&amp;at_campaign=rss)
+- Wrapped helps Spotify add users despite artists' criticism over fees → [原文](https://www.bbc.com/news/articles/cwy8lg9lkj3o?at_medium=RSS&amp;at_campaign=rss)
+- Ford says it took an extra $900m tariff hit last year → [原文](https://www.bbc.com/news/articles/cdjmepg4pzlo?at_medium=RSS&amp;at_campaign=rss)
+- US consumer spending slowed in December - Is it a warning for the economy? → [原文](https://www.bbc.com/news/articles/cg7e8ven7r7o?at_medium=RSS&amp;at_campaign=rss)
+- Why food fraud persists, even with improving tech → [原文](https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&amp;at_campaign=rss)
+- BP steps up cost cutting as profits slide → [原文](https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&amp;at_campaign=rss)
+- Wegovy maker sues rival over 'knock-off' weight-loss drugs → [原文](https://www.bbc.com/news/articles/cddn4z54qe8o?at_medium=RSS&amp;at_campaign=rss)
 
 
 
