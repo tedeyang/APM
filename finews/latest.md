@@ -1,6 +1,6 @@
 # 金融日报 - 2026-02-21
 
-> 生成时间：2026/2/21 00:15:08
+> 生成时间：2026/2/21 18:00:17
 > 数据源：RSS 1 | 浏览器 0/3
 
 ---
@@ -88,14 +88,14 @@
 
 ### BBC Business
 
-- Supreme Court strikes down Trump's sweeping global tariffs → [原文](https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&amp;at_campaign=rss)
+- Trump brings in new 10% tariff as Supreme Court rejects his global import taxes → [原文](https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&amp;at_campaign=rss)
+- Uncertainty for UK firms after US tariff ruling, experts say → [原文](https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&amp;at_campaign=rss)
+- Trump tariffs ripped up global trade order. What now? → [原文](https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&amp;at_campaign=rss)
 - KFC, Nando's, and others ditch chicken welfare pledge → [原文](https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&amp;at_campaign=rss)
 - Higher tax helped UK government reach record January surplus → [原文](https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&amp;at_campaign=rss)
-- New Year's sport supplement buying adds to January retail sales surge → [原文](https://www.bbc.com/news/articles/c78x7jwjg4no?at_medium=RSS&amp;at_campaign=rss)
-- Lobbying firm co-founded by Mandelson goes into administration → [原文](https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&amp;at_campaign=rss)
 - How do you modernise mango farming? → [原文](https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&amp;at_campaign=rss)
-- US economy slows in final months after turbulent year → [原文](https://www.bbc.com/news/articles/c0rj5lly78xo?at_medium=RSS&amp;at_campaign=rss)
-- Asos co-founder dies after Thailand apartment block fall → [原文](https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&amp;at_campaign=rss)
+- Lobbying firm co-founded by Mandelson goes into administration → [原文](https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&amp;at_campaign=rss)
+- UK agrees drone defence plan with four EU allies → [原文](https://www.bbc.com/news/articles/c875jj3y475o?at_medium=RSS&amp;at_campaign=rss)
 
 
 
