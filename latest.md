@@ -1,6 +1,6 @@
 # 金融日报 - 2026-03-07
 
-> 生成时间：2026/3/7 09:04:51
+> 生成时间：2026/3/7 12:12:54
 > 数据源：RSS 1 | 浏览器 3/3
 
 ---
@@ -31,28 +31,27 @@
 ### 财新
 > 来源: [财新](https://www.caixin.com/)
 
-- 李小加谈RWA：代币化不能降低真实世界底层资产风险 — https://finance.caixin.com/2026-03-06/102420020.html
 - 短线交易监管新规发布 明确董监高持股计算口径 — https://finance.caixin.com/2026-03-07/102420431.html
 - 创业板将增设新上市标准 更加精准、更为包容 — https://finance.caixin.com/2026-03-06/102420387.html
 - 潘功胜：地缘政治裂变为全球金融治理变革创造了新动力 — https://finance.caixin.com/2026-03-06/102420312.html
 - 吴清：完善中国特色稳市机制建设 — https://finance.caixin.com/2026-03-06/102420279.html
 - 潘功胜：密切关注评估外部冲击影响 及时弱化阻断风险传染 — https://finance.caixin.com/2026-03-06/102420256.html
+- 李小加谈RWA：代币化不能降低真实世界底层资产风险 — https://finance.caixin.com/2026-03-06/102420020.html
 - 政府工作报告：创新结构性货币政策工具、适当增加规模 降低融资中间费用 — https://finance.caixin.com/2026-03-05/102419642.html
-- 政府工作报告：2026年拟发3000亿元特别国债补大行资本 充实中小机构风险处置资源和手段 — https://finance.caixin.com/2026-03-05/102419633.html
-- 中金：伊朗冲突加速中东资金增配中国资产 — https://finance.caixin.com/2026-03-05/102419572.html
+- 李小加谈RWA：代币化不能降低真实世界底层资产风险（要闻重复条）— https://finance.caixin.com/2026-03-06/102420020.html
 
 ### 华尔街见闻
 > 来源: [华尔街见闻](https://www.wallstreetcn.com/news)
 
+- 别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机” — https://wallstreetcn.com/articles/3766940
+- 连续16个月增持！中国2月末黄金储备环比增加3万盎司 — https://wallstreetcn.com/articles/3766943
 - 美国私募信贷危机扩散！“全球最大资管”也被迫“限制赎回”旗下私募信贷基金 — https://wallstreetcn.com/articles/3766937
-- 华尔街见闻早餐FM-Radio | 2026年3月7日 — https://wallstreetcn.com/articles/3766936
 - 融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫 — https://wallstreetcn.com/articles/3766935
 - 非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨 — https://wallstreetcn.com/articles/3766902
 - 特朗普保海湾航运第一步：美国推出200亿美元海运再保险工具 — https://wallstreetcn.com/articles/3766934
 - 特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番” — https://wallstreetcn.com/articles/3766927
-- 彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍 — https://wallstreetcn.com/articles/3766932
 - 油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近 — https://wallstreetcn.com/articles/3766933
-- 能源金属之后，农产品正悄然接棒新一轮大宗商品行情 — https://wallstreetcn.com/articles/3766918
+- 彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍 — https://wallstreetcn.com/articles/3766932
 
 ### Reuters 中国
 > 来源: [Reuters 中国](https://www.reuters.com/news/helipad/china)
@@ -63,6 +62,7 @@
 - China to build 'birth-friendly society', refine social security system — https://www.reuters.com/business/healthcare-pharmaceuticals/china-build-birth-friendly-society-refine-social-security-system-2026-03-05/
 - China boosts defence spending 7% in drive to modernise by 2035 — https://www.reuters.com/world/china/chinas-defence-spending-rise-7-2026-vs-72-set-2025-2026-03-05/
 - US suspects China in breach of FBI surveillance network, WSJ reports — https://www.reuters.com/sustainability/boards-policy-regulation/us-suspects-china-breach-fbi-surveillance-network-wsj-reports-2026-03-06/
+- Boeing close to 500-jet order ahead of Trump-Xi summit, Bloomberg News reports — https://www.reuters.com/business/aerospace-defense/boeing-close-500-jet-order-with-trump-xi-summit-bloomberg-news-reports-2026-03-06/
 - ASIA GOLD Pricey gold keeps Indian buyers away; China demand steady — https://www.reuters.com/world/china/asia-gold-pricey-gold-keeps-indian-buyers-away-china-demand-steady-2026-03-06/
 
 
