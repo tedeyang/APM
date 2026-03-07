@@ -1,6 +1,6 @@
 # 金融日报 - 2026-03-07
 
-> 生成时间：2026/3/7 12:12:54
+> 生成时间：2026/3/7 12:21:24
 > 数据源：RSS 1 | 浏览器 3/3
 
 ---
@@ -9,19 +9,17 @@
 
 ### 高热度
 
-| 主题 | 标题 | 市场影响 |
-|------|------|----------|
-| **人民币国际化** | 中行伦敦成第二家人民币清算行 | 利好银行、跨境支付 |
-| **中美贸易** | BYD起诉美国政府 | 关注贸易摩擦升级风险 |
-| **港股回暖** | 南向通资金持仓翻倍 | 内房股估值修复机会 |
+- [融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫](https://wallstreetcn.com/articles/3766935)（来源：[华尔街见闻](https://www.wallstreetcn.com/news)）
+- [油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近](https://wallstreetcn.com/articles/3766933)（来源：[华尔街见闻](https://www.wallstreetcn.com/news)）
+- [别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”](https://wallstreetcn.com/articles/3766940)（来源：[华尔街见闻](https://www.wallstreetcn.com/news)）
 
 ### 中热度
 
-| 主题 | 标题 | 市场影响 |
-|------|------|----------|
-| 电动车 | Nio召回24万辆汽车 | 行业质量标准提升 |
-| 数字人民币 | 智能合约应用于工资发放 | 支付场景扩展 |
-| 中植系 | 破产清算范围扩大 | 风险出清进行中 |
+- [特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”](https://wallstreetcn.com/articles/3766927)（来源：[华尔街见闻](https://www.wallstreetcn.com/news)）
+- [短线交易监管新规发布 明确董监高持股计算口径](https://finance.caixin.com/2026-03-07/102420431.html)（来源：[财新](https://www.caixin.com/)）
+- [非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨](https://wallstreetcn.com/articles/3766902)（来源：[华尔街见闻](https://www.wallstreetcn.com/news)）
+- [Flight paths squeezed as Iran conflict closes more airspace](https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&amp;at_campaign=rss)（来源：[BBC Business](https://www.bbc.com/news/business)）
+
 
 ---
 
