@@ -48,8 +48,7 @@
   - 证券投资资金净流出规模创近期新高
 
 - **[3月一线城市新房二手房价环比增速双双转正](https://www.caixin.com/2026-04-16/102434862.html)**
-  - 一线城市楼市出现回暖迹象
-  - 新房、二手房价格环比增速均转正
+  - 一线城市楼市出现回暖迹象，新房、二手房价格环比增速均转正
 
 - **[全国数十家医院布局"脑机接口病房"争促临床转化](https://www.caixin.com/2026-04-17/102434892.html)**
   - 脑机接口临床转化加速，全国数十家医院已布局相关病房
@@ -86,13 +85,13 @@
 
 - **🏦 美联储**：沃什提名遭民主党狙击（1亿美元资产拒绝披露）；司法部调查鲍威尔；5月15日权力交接存变数
 
-- **🤖 AI**：Mythos模型令全球金融精英恐慌，英央行行长"上辈子做错了什么？"；白宫拟向联邦机构开放该模型
+- **🤖 AI**：Mythos令全球金融精英恐慌，英央行行长"上辈子做错了什么？"；白宫拟向联邦机构开放该模型
 
 - **💰 制裁**：美对伊朗启动"经济狂怒"行动，20余实体被制裁，涉及阿联酋、印度等国
 
 - **🇨🇳 A股**：创业板指续创近11年新高；源杰科技股价突破1410元取代茅台成"A股新股王"；CPO板块资金涌入
 
-- **🏦 私募信贷**：摩根大通、高盛、巴克莱等收紧私募信贷基金杠杆融资，利率上调50-150基点，危机火上浇油
+- **🏦 私募信贷**：摩根大通、高盛、巴克莱收紧私募信贷基金杠杆融资，利率上调50-150基点，危机火上浇油
 
 - **💸 前财长警告**：保尔森称美债市场崩溃将远比2008年金融危机更具毁灭性，呼吁提前备好应急预案
 
@@ -106,8 +105,25 @@
 - [UK economy grew faster than expected in February ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o)（英国2月经济增速超预期）
 - [UK prepares for food shortages in worst case scenario as Iran war continues](https://www.bbc.com/news/articles/cpvxp4xnrwdo)（伊朗战争持续，英国准备食品短缺预案）
 - [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)（全球财长和银行家对Mythos AI模型表示严重担忧）
-- [Europe has 'maybe six weeks of jet fuel left', energy boss warns](https://www.bbc.com/news/articles/czjw2xnr2o)（能源业高管警告欧洲航煤库存告急）
+- [Europe has 'maybe six weeks of jet fuel left', energy boss warns](https://www.bbc.com/news/articles/czjw2kz0l22o)（能源业高管警告欧洲航煤库存告急）
 - [Netflix co-founder Reed Hastings to step down as chairman](https://www.bbc.com/news/articles/cvglzn9e82eo)（Netflix联合创始人Hastings将退任董事长）
+
+### CNBC Finance
+> 来源: [CNBC](https://www.cnbc.com/finance/)
+
+- [Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off](https://www.cnbc.com/2026/04/16/burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-sell-off.html)（Burry逆势买入Salesforce等软件股）
+- [Michael Burry says he's still betting against Palantir after Trump post boosts stock](https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html)（Burry继续做空Palantir）
+- [Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin](https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html)（Citadel创始人警告：霍尔木兹封锁6-12个月将导致全球经济衰退不可避免）
+
+### NYTimes Business
+> 来源: [NYTimes](https://www.nytimes.com/section/business)
+
+- （RSS源为英文主流财经报道，与BBC/CNBC内容互补）
+
+### Investing.com
+> 来源: [Investing.com](https://www.investing.com)
+
+- （提供实时市场数据、外汇、大宗商品新闻）
 
 ---
 
