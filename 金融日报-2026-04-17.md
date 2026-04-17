@@ -1,29 +1,29 @@
 # 金融日报 - 2026-04-17
 
-> 生成时间：2026/4/17 10:15（补跑，手动整合）
-> 数据源：华尔街见闻（浏览器实时抓取）、财新（浏览器历史快照）
+> 生成时间：2026/4/17 10:38:21
+> 数据源：RSS 5 | 浏览器 0
+> ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
 ---
 
 ## 🎯 今日焦点
 
-### 高热度
+### 高热度（TOP 5）
 
-- [特朗普宣布以黎停火10日，称考虑前往巴基斯坦签署美伊和平协议](https://international.caixin.com/2026-04-17/102434907.html)（来源：[财新](https://www.caixin.com/)）
-- [密集游说特朗普，美国石油巨头不想看到"霍尔木兹海峡收费先例"](https://wallstreetcn.com/articles/3770205)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [IEA警告：欧洲航空燃油还有六周告罄](https://wallstreetcn.com/articles/3770206)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [美股7000点之上："今日无战事"](https://wallstreetcn.com/member/articles/3770082)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [Mythos令全球金融精英陷恐慌与困惑，英央行行长：上辈子做错了什么？](https://wallstreetcn.com/articles/3770197)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [台积电一季度净利大增58% 上调全年展望并称AI需求极其强劲](https://www.caixin.com/2026-04-16/102434842.html)（来源：[财新](https://www.caixin.com/)）
+- [T早报｜中国日均词元调用量突破140万亿；阿里发布世界模型HappyOyster；台积电一季度净利同比增近六成](https://www.caixin.com/2026-04-17/102434913.html)（来源：[财新（手动编辑）](https://www.caixin.com/)）
+- [贵州茅台首次年收入和净利润双负增长 2025全年分红比例提高4个百分点](https://www.caixin.com/2026-04-17/102434887.html)（来源：[财新（手动编辑）](https://www.caixin.com/)）
+- [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss)（来源：[BBC Business](https://www.bbc.com/news/business)）
+- [Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks](https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html)（来源：[CNBC Finance](https://www.cnbc.com/finance/)）
+- [特朗普宣布以黎停火10日，称考虑前往巴基斯坦签署美伊和平协议](https://international.caixin.com/2026-04-17/102434907.html)（来源：[财新（手动编辑）](https://www.caixin.com/)）
 
-### 中热度
+### 中热度（TOP 5-10）
 
-- [伊朗战争打到今天，已经有12个国家"撑不住了"，印度认为破坏和疫情"一样大"](https://wallstreetcn.com/articles/3770203)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [白宫拟向联邦机构开放Anthropic强力AI模型Mythos访问权限](https://wallstreetcn.com/articles/3770181)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [贵州茅台首次年收入和净利润双负增长 2025全年分红比例提高4个百分点](https://www.caixin.com/2026-04-17/102434887.html)（来源：[财新](https://www.caixin.com/)）
-- [受美伊冲突影响 3月中国证券投资资金净流出532亿美元](https://finance.caixin.com/2026-04-17/102434902.html)（来源：[财新](https://www.caixin.com/)）
-- [银行开始"釜底抽薪"，给美国私募信贷业危机"火上浇油"](https://wallstreetcn.com/articles/3770202)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [奈飞Q1业绩超预期增长但指引逊色，"灵魂人物"董事长将离任，盘后跳水](https://wallstreetcn.com/articles/3770192)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
+- [永辉超市2025年营收双位数下滑、亏损扩大 一季度利润恢复增长](https://www.caixin.com/2026-04-17/102434895.html)（来源：[财新（手动编辑）](https://www.caixin.com/)）
+- [UK economy grew faster than expected in February ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&amp;at_campaign=rss)（来源：[BBC Business](https://www.bbc.com/news/business)）
+- [UK prepares for food shortages in worst case scenario as Iran war continues](https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss)（来源：[BBC Business](https://www.bbc.com/news/business)）
+- [OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports](https://www.investing.com/news/stock-market-news/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information-reports-4619673)（来源：[Investing.com](https://www.investing.com)）
+- [Countries to discuss Hormuz mission for when conflict ends](https://www.investing.com/news/world-news/countries-to-discuss-hormuz-mission-for-when-conflict-ends-4619683)（来源：[Investing.com](https://www.investing.com)）
+
 
 ---
 
@@ -97,51 +97,76 @@
 
 ---
 
+
+
 ## 🌍 国际市场
 
 ### BBC Business
 > 来源: [BBC Business](https://www.bbc.com/news/business)
 
-- [UK economy grew faster than expected in February ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o)（英国2月经济增速超预期）
-- [UK prepares for food shortages in worst case scenario as Iran war continues](https://www.bbc.com/news/articles/cpvxp4xnrwdo)（伊朗战争持续，英国准备食品短缺预案）
-- [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)（全球财长和银行家对Mythos AI模型表示严重担忧）
-- [Europe has 'maybe six weeks of jet fuel left', energy boss warns](https://www.bbc.com/news/articles/czjw2kz0l22o)（能源业高管警告欧洲航煤库存告急）
-- [Netflix co-founder Reed Hastings to step down as chairman](https://www.bbc.com/news/articles/cvglzn9e82eo)（Netflix联合创始人Hastings将退任董事长）
+- Finance ministers and top bankers raise serious concerns about Mythos AI model → [原文](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss)
+- Rising value of Pokémon cards sparks smash and grab crime spree → [原文](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&amp;at_campaign=rss)
+- Netflix co-founder Reed Hastings to step down as chairman → [原文](https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&amp;at_campaign=rss)
+- No issues with UK fuel supply, says Reeves → [原文](https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&amp;at_campaign=rss)
+- Europe has 'maybe six weeks of jet fuel left', energy boss warns → [原文](https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&amp;at_campaign=rss)
+- Could a digital twin make you into a 'superworker'? → [原文](https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&amp;at_campaign=rss)
+- UK economy grew faster than expected in February ahead of Iran war → [原文](https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&amp;at_campaign=rss)
+- UK prepares for food shortages in worst case scenario as Iran war continues → [原文](https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss)
 
 ### CNBC Finance
-> 来源: [CNBC](https://www.cnbc.com/finance/)
+> 来源: [CNBC Finance](https://www.cnbc.com/finance/)
 
-- [Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off](https://www.cnbc.com/2026/04/16/burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-sell-off.html)（Burry逆势买入Salesforce等软件股）
-- [Michael Burry says he's still betting against Palantir after Trump post boosts stock](https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html)（Burry继续做空Palantir）
-- [Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin](https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html)（Citadel创始人警告：霍尔木兹封锁6-12个月将导致全球经济衰退不可避免）
+- Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off → [原文](https://www.cnbc.com/2026/04/16/burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-sell-off.html)
+- Retail traders pile into Allbirds after odd AI pivot. History shows it won&apos;t end well → [原文](https://www.cnbc.com/2026/04/16/retail-traders-pile-into-allbirds-after-odd-ai-pivot-history-shows-it-wont-end-well.html)
+- Stocks making the biggest moves premarket: PepsiCo, Taiwan Semiconductor, Voyager Technologies, PPG &amp; more → [原文](https://www.cnbc.com/2026/04/16/stocks-making-the-biggest-moves-premarket-.html)
+- Goldman Sachs bond traders stumbled as Wall Street rivals thrived: &apos;A fire is being lit under&apos; them → [原文](https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html)
+- Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post → [原文](https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html)
+- Stocks making the biggest moves premarket: Bank of America, Morgan Stanley, Robinhood &amp; more → [原文](https://www.cnbc.com/2026/04/15/stocks-making-the-biggest-moves-premarket-bac-avgo-hood.html)
+- Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion → [原文](https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html)
+- Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos; → [原文](https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html)
+
+### WSJ Markets
+> 来源: [WSJ Markets](https://www.wsj.com/market-data)
+
+- Stocks Sink in Broad AI Rout Sparked by China's DeepSeek → [原文](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)
+- Comex Gold, Silver Settle Lower → [原文](https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main)
+- DeepSeek Won't Sink U.S. AI Titans → [原文](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)
+- Financial Services Roundup: Market Talk → [原文](https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main)
+- Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat → [原文](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)
+- Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens → [原文](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)
+- Natural Gas Falls on Shifting Weather Forecasts → [原文](https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main)
+- Building-Products Distributor QXO Launches Hostile Bid for Beacon → [原文](https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main)
 
 ### NYTimes Business
-> 来源: [NYTimes](https://www.nytimes.com/section/business)
+> 来源: [NYTimes Business](https://www.nytimes.com/section/business)
 
-- （RSS源为英文主流财经报道，与BBC/CNBC内容互补）
+- Ellison Pledges at Least 30 Paramount-Warner Movies a Year → [原文](https://www.nytimes.com/2026/04/16/business/media/david-ellison-paramount-warner-movies-theaters.html)
+- What Heelys, the Sneakers With Wheels, Taught Me About Momentum as a Child → [原文](https://www.nytimes.com/2026/04/16/style/heelys-joy-friendship.html)
+- Roger Adams Dies at 71; Invented the Rolling Sneakers Known as Heelys → [原文](https://www.nytimes.com/2026/04/16/business/roger-adams-dead.html)
+- Politics News Site NOTUS to Become ‘The Star’ → [原文](https://www.nytimes.com/2026/04/16/business/media/notus-news-to-become-the-star.html)
+- Despite Cease-Fire, Iran’s Hackers Haven’t Logged Off → [原文](https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html)
+- Pentagon Seeks Help From Ford and G.M. → [原文](https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html)
+- Reed Hastings Will Leave Netflix as Board Chairman → [原文](https://www.nytimes.com/2026/04/16/business/media/reed-hastings-netflix-chair.html)
+- NPR Receives $113 Million From 2 Gifts → [原文](https://www.nytimes.com/2026/04/16/business/media/npr-133-million-donation-ballmer.html)
 
 ### Investing.com
 > 来源: [Investing.com](https://www.investing.com)
 
-- （提供实时市场数据、外汇、大宗商品新闻）
+- Analysis-China steps up Iran diplomacy while seeking smooth summit with Trump → [原文](https://www.investing.com/news/world-news/analysischina-steps-up-iran-diplomacy-while-seeking-smooth-summit-with-trump-4619686)
+- Stocks set for weekly gain, oil below $100 on peace deal hopes → [原文](https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687)
+- OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports → [原文](https://www.investing.com/news/stock-market-news/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information-reports-4619673)
+- Myanmar to free more than 4,000 prisoners in amnesty → [原文](https://www.investing.com/news/world-news/myanmar-to-free-more-than-4000-prisoners-in-amnesty-4619685)
+- Lupin unit settles antitrust lawsuit with Humana for $30 mln → [原文](https://www.investing.com/news/stock-market-news/lupin-unit-settles-antitrust-lawsuit-with-humana-for-30-mln-4619684)
+- IMF, World Bank say they are resuming dealings with Venezuela → [原文](https://www.investing.com/news/economy-news/imf-resumes-dealings-with-venezuela-after-sixyear-gap-4619616)
+- Countries to discuss Hormuz mission for when conflict ends → [原文](https://www.investing.com/news/world-news/countries-to-discuss-hormuz-mission-for-when-conflict-ends-4619683)
+- Dollar set for second weekly loss on Iran war peace hopes → [原文](https://www.investing.com/news/economy-news/dollar-set-for-second-weekly-loss-on-iran-war-peace-hopes-4619682)
+
+
 
 ---
 
-## 📊 市场数据（实时 | 10:01 AM SGT）
-
-| 品种 | 现价 | 涨跌 |
-|------|------|------|
-| 美元指数 DXY | 98.28 | +0.08% |
-| 欧元/美元 EURUSD | 1.1773 | -0.07% |
-| 美元/日元 USDJPY | 159.42 | +0.15% |
-| 现货黄金 XAUUSD | $4789.17 | -0.03% |
-| WTI原油 USCL | $93.50 | -1.26% |
-| 离岸人民币 USDCNH | 6.8238 | +0.04% |
+**标签**: #金融 #日报 #2026年
 
 ---
 
-**标签**: #金融 #日报 #2026年 #美伊战争 #AI #茅台 #台积电 #美联储
-
----
-
-*补跑生成 | 2026/4/17 手动整合华尔街见闻+财新*
+*自动化生成*
