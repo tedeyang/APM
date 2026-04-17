@@ -1,7 +1,7 @@
 # 金融日报 - 2026-04-17
 
-> 生成时间：2026/4/17 10:00
-> 数据源：手动抓取（浏览器）｜华尔街见闻、财新
+> 生成时间：2026/4/17 10:15（补跑，手动整合）
+> 数据源：华尔街见闻（浏览器实时抓取）、财新（浏览器历史快照）
 
 ---
 
@@ -14,15 +14,16 @@
 - [IEA警告：欧洲航空燃油还有六周告罄](https://wallstreetcn.com/articles/3770206)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
 - [美股7000点之上："今日无战事"](https://wallstreetcn.com/member/articles/3770082)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
 - [Mythos令全球金融精英陷恐慌与困惑，英央行行长：上辈子做错了什么？](https://wallstreetcn.com/articles/3770197)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
+- [台积电一季度净利大增58% 上调全年展望并称AI需求极其强劲](https://www.caixin.com/2026-04-16/102434842.html)（来源：[财新](https://www.caixin.com/)）
 
 ### 中热度
 
 - [伊朗战争打到今天，已经有12个国家"撑不住了"，印度认为破坏和疫情"一样大"](https://wallstreetcn.com/articles/3770203)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
 - [白宫拟向联邦机构开放Anthropic强力AI模型Mythos访问权限](https://wallstreetcn.com/articles/3770181)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
-- [台积电一季度净利大增58% 上调全年展望并称AI需求极其强劲](https://www.caixin.com/2026-04-16/102434842.html)（来源：[财新](https://www.caixin.com/)）
 - [贵州茅台首次年收入和净利润双负增长 2025全年分红比例提高4个百分点](https://www.caixin.com/2026-04-17/102434887.html)（来源：[财新](https://www.caixin.com/)）
 - [受美伊冲突影响 3月中国证券投资资金净流出532亿美元](https://finance.caixin.com/2026-04-17/102434902.html)（来源：[财新](https://www.caixin.com/)）
 - [银行开始"釜底抽薪"，给美国私募信贷业危机"火上浇油"](https://wallstreetcn.com/articles/3770202)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
+- [奈飞Q1业绩超预期增长但指引逊色，"灵魂人物"董事长将离任，盘后跳水](https://wallstreetcn.com/articles/3770192)（来源：[华尔街见闻](https://wallstreetcn.com/news)）
 
 ---
 
@@ -31,41 +32,36 @@
 ### 财新
 > 来源: [财新](https://www.caixin.com/)
 
-#### 重点新闻
+#### 头条
 
 - **[特朗普宣布以黎停火10日，称考虑前往巴基斯坦签署美伊和平协议](https://international.caixin.com/2026-04-17/102434907.html)**
   - 特朗普宣布以色列与黎巴嫩停火10日，并表示考虑前往巴基斯坦签署美伊和平协议
-  - 中东局势出现缓和信号
-
-- **[受美伊冲突影响 3月中国证券投资资金净流出532亿美元](https://finance.caixin.com/2026-04-17/102434902.html)**
-  - 美伊冲突导致避险情绪升温，3月中国资本外流压力加大
-  - 证券投资资金净流出规模创近期新高
+  - 中东局势出现缓和信号，但实质谈判仍任重道远
 
 - **[贵州茅台首次年收入和净利润双负增长 2025全年分红比例提高4个百分点](https://www.caixin.com/2026-04-17/102434887.html)**
-  - 贵州茅台上市以来首次业绩双下滑
-  - 公司提高分红比例至76%以安抚股东
+  - 贵州茅台上市以来首次年度营收和净利润双下滑
+  - 公司主动提高分红比例至76%以安抚股东
+  - 今日A股白酒板块承压，茅台一度跌超4%
 
-- **[台积电一季度净利大增58% 上调全年展望并称AI需求极其强劲](https://www.caixin.com/2026-04-16/102434842.html)**
-  - 台积电业绩超预期，AI芯片需求持续强劲
-  - 公司上调全年业绩展望
+- **[受美伊冲突影响 3月中国证券投资资金净流出532亿美元](https://finance.caixin.com/2026-04-17/102434902.html)**
+  - 美伊冲突引发避险情绪，3月中国资本外流压力明显加大
+  - 证券投资资金净流出规模创近期新高
 
 - **[3月一线城市新房二手房价环比增速双双转正](https://www.caixin.com/2026-04-16/102434862.html)**
   - 一线城市楼市出现回暖迹象
-  - 新房二手房价格环比增速均转正
+  - 新房、二手房价格环比增速均转正
 
 - **[全国数十家医院布局"脑机接口病房"争促临床转化](https://www.caixin.com/2026-04-17/102434892.html)**
-  - 脑机接口临床转化加速
-  - 多家医院布局相关病房
-
-- **[分析｜海峡封锁再进一步 对中国油气供应影响几何？](https://www.caixin.com/2026-04-17/102434939.html)**
-  - 霍尔木兹海峡封锁持续，中国油气进口面临挑战
-  - 分析称影响可控但需关注后续发展
+  - 脑机接口临床转化加速，全国数十家医院已布局相关病房
 
 - **[T早报｜中国日均词元调用量突破140万亿；阿里发布世界模型HappyOyster；台积电一季度净利同比增近六成](https://www.caixin.com/2026-04-17/102434913.html)**
-  - 中国AI发展迅速，日均词元调用量突破140万亿
+  - 中国AI发展迅猛，日均词元调用量突破140万亿
   - 阿里发布世界模型HappyOyster
+  - 台积电业绩大超预期，净利润同比增58%
 
-- **[贪腐超千万元 海南足协原主席吕建海两罪一审获刑13年](https://china.caixin.com/2026-04-16/102434822.html)**
+- **[分析｜海峡封锁再进一步 对中国油气供应影响几何？](https://www.caixin.com/2026-04-17/102434939.html)**
+  - 霍尔木兹海峡封锁持续升级，中国油气进口面临考验
+  - 分析称短期影响可控，但需持续关注
 
 - **[张小义升任上交所副总 曾任科创板首届上市委员](https://finance.caixin.com/2026-04-16/102434797.html)**
 
@@ -82,15 +78,23 @@
 
 #### 快讯摘要
 
-- **美以伊冲突持续**：霍尔木兹海峡实际关闭，VLCC油轮订单火爆
-- **美股**：标普新高，纳指十二连涨（2017年以来最长纪录），AMD涨41%连涨12天
-- **能源**：IEA警告欧洲航煤六周内耗尽；布伦特原油突破$99
-- **美联储**：沃什提名遭民主党质疑，逾1亿美元资产拒绝披露；司法部调查鲍威尔
-- **AI**：Mythos模型令全球金融精英恐慌；白宫拟向联邦机构开放该模型访问权限
-- **美伊谈判**：中东和欧洲官员认为至少需要六个月达成和平协议
-- **美制裁**：美方对伊朗启动代号"经济狂怒"行动，20余个实体被制裁
-- **AMD**：股价12连涨涨41%，服务器CPU价值重估
-- **Netflix**：Q1业绩超预期但指引逊色，联合创始人Hastings将退任董事长
+- **🔴 美以伊冲突**：霍尔木兹海峡持续封锁，VLCC油轮订单火爆（航运受益）；美伊和平协议预计至少需六个月
+
+- **📈 美股**：标普创新高，纳指十二连涨（2017年来最长），AMD 12连涨涨41%；Netflix盘后跌9%（Hastings将退任）
+
+- **⚡ 能源**：IEA警告欧洲航煤六周内耗尽（中东占欧75%进口）；布伦特突破$99
+
+- **🏦 美联储**：沃什提名遭民主党狙击（1亿美元资产拒绝披露）；司法部调查鲍威尔；5月15日权力交接存变数
+
+- **🤖 AI**：Mythos模型令全球金融精英恐慌，英央行行长"上辈子做错了什么？"；白宫拟向联邦机构开放该模型
+
+- **💰 制裁**：美对伊朗启动"经济狂怒"行动，20余实体被制裁，涉及阿联酋、印度等国
+
+- **🇨🇳 A股**：创业板指续创近11年新高；源杰科技股价突破1410元取代茅台成"A股新股王"；CPO板块资金涌入
+
+- **🏦 私募信贷**：摩根大通、高盛、巴克莱等收紧私募信贷基金杠杆融资，利率上调50-150基点，危机火上浇油
+
+- **💸 前财长警告**：保尔森称美债市场崩溃将远比2008年金融危机更具毁灭性，呼吁提前备好应急预案
 
 ---
 
@@ -102,31 +106,26 @@
 - [UK economy grew faster than expected in February ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o)（英国2月经济增速超预期）
 - [UK prepares for food shortages in worst case scenario as Iran war continues](https://www.bbc.com/news/articles/cpvxp4xnrwdo)（伊朗战争持续，英国准备食品短缺预案）
 - [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)（全球财长和银行家对Mythos AI模型表示严重担忧）
-- [Europe has 'maybe six weeks of jet fuel left', energy boss warns](https://www.bbc.com/news/articles/czjw2kz0l22o)（能源业高管警告欧洲航煤库存告急）
+- [Europe has 'maybe six weeks of jet fuel left', energy boss warns](https://www.bbc.com/news/articles/czjw2xnr2o)（能源业高管警告欧洲航煤库存告急）
 - [Netflix co-founder Reed Hastings to step down as chairman](https://www.bbc.com/news/articles/cvglzn9e82eo)（Netflix联合创始人Hastings将退任董事长）
-
-### Reuters 中国
-> 来源: [Reuters 中国](https://www.reuters.com/world/china)
-
-> （Reuters页面渲染异常，暂缺）
 
 ---
 
-## 📊 市场数据（实时）
+## 📊 市场数据（实时 | 10:01 AM SGT）
 
 | 品种 | 现价 | 涨跌 |
 |------|------|------|
-| 美元指数 DXY | 98.25 | +0.05% |
-| 欧元/美元 EURUSD | 1.1776 | -0.04% |
-| 美元/日元 USDJPY | 159.36 | +0.11% |
-| 现货黄金 XAUUSD | $4790.32 | -0.01% |
-| WTI原油 USCL | $93.31 | -1.46% |
-| 离岸人民币 USDCNH | 6.8224 | +0.02% |
+| 美元指数 DXY | 98.28 | +0.08% |
+| 欧元/美元 EURUSD | 1.1773 | -0.07% |
+| 美元/日元 USDJPY | 159.42 | +0.15% |
+| 现货黄金 XAUUSD | $4789.17 | -0.03% |
+| WTI原油 USCL | $93.50 | -1.26% |
+| 离岸人民币 USDCNH | 6.8238 | +0.04% |
 
 ---
 
-**标签**: #金融 #日报 #2026年 #美伊战争 #AI #台积电 #茅台
+**标签**: #金融 #日报 #2026年 #美伊战争 #AI #茅台 #台积电 #美联储
 
 ---
 
-*自动化生成 | 2026/4/17 补跑*
+*补跑生成 | 2026/4/17 手动整合华尔街见闻+财新*
