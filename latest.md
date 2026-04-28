@@ -1,6 +1,6 @@
 # 金融日报 - 2026-04-28
 
-> 生成时间：2026/4/28 22:41:24
+> 生成时间：2026/4/28 22:41:39
 > 数据源：RSS 5 | 浏览器 0
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -19,10 +19,10 @@
 ### 中热度（TOP 5-10）
 
 - <a href="https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html" target="_blank" rel="noopener noreferrer">What Elon Musk’s Clash With Sam Altman of OpenAI Is Really About</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
+- <a href="https://www.investing.com/news/stock-market-news/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-4641199" target="_blank" rel="noopener noreferrer">Oracle, CoreWeave lead AI selloff on OpenAI growth concerns</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
 - <a href="https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html" target="_blank" rel="noopener noreferrer">This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
 - <a href="https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html" target="_blank" rel="noopener noreferrer">Bessent defends U.S. dollar swap lines as Iran war harms global finances</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
 - <a href="https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html" target="_blank" rel="noopener noreferrer">U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://www.investing.com/news/world-news/analysisirans-guards-seize-wartime-power-blunting-supreme-leaders-role-4642058" target="_blank" rel="noopener noreferrer">Analysis-Iran’s Guards seize wartime power, blunting Supreme Leader’s role</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
 
 
 ---
@@ -86,14 +86,14 @@ _（暂无中文来源）
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/filings/form-144-schwab-charles-corp-for-28-april-93CH-4642062" target="_blank" rel="noopener noreferrer">Form 144 SCHWAB CHARLES CORP For: 28 April</a>
-- <a href="https://www.investing.com/news/earnings/ultra-clean-faces-earnings-test-as-chip-equipment-boom-builds-93CH-4642061" target="_blank" rel="noopener noreferrer">Ultra Clean faces earnings test as chip equipment boom builds</a>
-- <a href="https://www.investing.com/news/earnings/kite-realty-earnings-in-focus-as-groceryanchored-reit-reports-93CH-4642059" target="_blank" rel="noopener noreferrer">Kite Realty earnings in focus as grocery-anchored REIT reports</a>
-- <a href="https://www.investing.com/news/economic-indicators/us-consumer-confidence-unexpectedly-improves-in-april-4642032" target="_blank" rel="noopener noreferrer">US consumer confidence unexpectedly improves in April</a>
-- <a href="https://www.investing.com/news/world-news/analysisirans-guards-seize-wartime-power-blunting-supreme-leaders-role-4642058" target="_blank" rel="noopener noreferrer">Analysis-Iran’s Guards seize wartime power, blunting Supreme Leader’s role</a>
-- <a href="https://www.investing.com/news/stock-market-news/fcc-prepares-review-of-disneys-tv-licenses-semafor-reports-4642057" target="_blank" rel="noopener noreferrer">FCC prepares review of Disney’s TV licenses, Semafor reports</a>
-- <a href="https://www.investing.com/news/company-news/solidions-largest-shareholder-to-provide-bridge-financing-93CH-4642056" target="_blank" rel="noopener noreferrer">Solidion’s largest shareholder to provide bridge financing</a>
+- <a href="https://www.investing.com/news/economy-news/three-of-brazils-nine-central-bank-seats-to-be-empty-at-policy-meeting-4642039" target="_blank" rel="noopener noreferrer">Three of Brazil’s nine central bank seats to be empty at policy meeting</a>
+- <a href="https://www.investing.com/news/earnings/avantor-earnings-on-deck-as-revival-turnaround-faces-test-93CH-4642038" target="_blank" rel="noopener noreferrer">Avantor earnings on deck as Revival turnaround faces test</a>
+- <a href="https://www.investing.com/news/world-news/trump-not-happy-with-latest-iran-proposal-to-end-the-war-us-official-says-4640217" target="_blank" rel="noopener noreferrer">Trump says Iran has told him it is in a ’state of collapse’</a>
 - <a href="https://www.investing.com/news/stock-market-news/spotify-forecasts-secondquarter-profit-below-estimates-shares-fall-4640778" target="_blank" rel="noopener noreferrer">Spotify’s spending plan hurts profit outlook as Europe, North America growth lags</a>
+- <a href="https://www.investing.com/news/filings/form-13g-garmin-ltd-for-28-april-93CH-4642037" target="_blank" rel="noopener noreferrer">Form 13G Garmin Ltd For: 28 April</a>
+- <a href="https://www.investing.com/news/stock-market-news/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-4641199" target="_blank" rel="noopener noreferrer">Oracle, CoreWeave lead AI selloff on OpenAI growth concerns</a>
+- <a href="https://www.investing.com/news/filings/form-13g-intellicheck-inc-for-28-april-93CH-4642035" target="_blank" rel="noopener noreferrer">Form 13G Intellicheck Inc For: 28 April</a>
+- <a href="https://www.investing.com/news/filings/form-13g-aeye-inc-for-28-april-93CH-4642034" target="_blank" rel="noopener noreferrer">Form 13G AEye Inc For: 28 April</a>
 
 
 
