@@ -1,6 +1,6 @@
 # 金融日报 - 2026-05-18
 
-> 生成时间：2026/5/18 11:13:25
+> 生成时间：2026/5/18 11:28:55
 > 数据源：RSS 5 | 浏览器 3
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -22,7 +22,7 @@
 - <a href="https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530" target="_blank" rel="noopener noreferrer">Nvidia, retailer reports to shed light on AI boom, consumer spending</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
 - <a href="https://finance.caixin.com/2026-05-15/102444275.html" target="_blank" rel="noopener noreferrer">天风证券换将 一季度只赚22万元、营收负债双承压</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 - <a href="https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html" target="_blank" rel="noopener noreferrer">The Iran War Is Crippling One of the World’s Wealthiest Nations</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
+- <a href="https://finance.caixin.com/2026-05-13/102443756.html" target="_blank" rel="noopener noreferrer">独家｜花旗将获中国第七张外商独资券商牌照(含视频)</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 
 
 ---
@@ -143,6 +143,7 @@
 - <a href="https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/" target="_blank" rel="noopener noreferrer">China signals tariff cuts, advances in farm market access after Trump-Xi summit</a>
 
 
+
 ## 🌍 国际市场
 
 ### BBC Business
@@ -196,6 +197,7 @@
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
+- <a href="https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617" target="_blank" rel="noopener noreferrer">Asia FX weakens on Iran jitters, yuan soft after China data underwhelms</a>
 - <a href="https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601" target="_blank" rel="noopener noreferrer">China’s April new home prices fall at slowest monthly pace in a year</a>
 - <a href="https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615" target="_blank" rel="noopener noreferrer">Global bond rout deepens as inflation fears mount</a>
 - <a href="https://www.investing.com/news/stock-market-news/shein-buys-usbased-apparel-retailer-everlane-puck-news-reports-4694614" target="_blank" rel="noopener noreferrer">Shein buys US-based apparel retailer Everlane, Puck News reports</a>
@@ -203,7 +205,6 @@
 - <a href="https://www.investing.com/news/stock-market-news/chinas-cxmt-expects-revenue-to-surge-as-memory-chip-demand-soars-4694612" target="_blank" rel="noopener noreferrer">China’s CXMT expects revenue to surge as memory chip demand soars</a>
 - <a href="https://www.investing.com/news/economy-news/former-nba-player-rick-fox-tapped-for-bahamian-senate-4694610" target="_blank" rel="noopener noreferrer">Former NBA player Rick Fox tapped for Bahamian Senate</a>
 - <a href="https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570" target="_blank" rel="noopener noreferrer">Oil touches 2-week high after drone attack on UAE nuclear power plant</a>
-- <a href="https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530" target="_blank" rel="noopener noreferrer">Nvidia, retailer reports to shed light on AI boom, consumer spending</a>
 
 
 
