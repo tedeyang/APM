@@ -1,6 +1,6 @@
 # 金融日报 - 2026-05-18
 
-> 生成时间：2026/5/18 10:06:15
+> 生成时间：2026/5/18 11:13:25
 > 数据源：RSS 5 | 浏览器 3
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
+- <a href="https://wallstreetcn.com/articles/3772477" target="_blank" rel="noopener noreferrer">科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 - <a href="https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html" target="_blank" rel="noopener noreferrer">Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
 - <a href="https://finance.caixin.com/2026-05-15/102444473.html" target="_blank" rel="noopener noreferrer">衍生品交易监管升级 审慎开发结构过度复杂合约</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3772467" target="_blank" rel="noopener noreferrer">全球债市抛售潮持续蔓延，日本长债收益率跳升，油价同步走高</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3772469" target="_blank" rel="noopener noreferrer">台积电CPO布局升级加速，ABF基板供需恐再现紧张局面</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://finance.caixin.com/2026-05-15/102444275.html" target="_blank" rel="noopener noreferrer">天风证券换将 一季度只赚22万元、营收负债双承压</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3772483" target="_blank" rel="noopener noreferrer">A股三大股指震荡下跌，存储芯片爆发，恒指、恒科指均跌超1%，半导体逆势拉升</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3772473" target="_blank" rel="noopener noreferrer">美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://finance.caixin.com/2026-05-13/102443756.html" target="_blank" rel="noopener noreferrer">独家｜花旗将获中国第七张外商独资券商牌照(含视频)</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3772474" target="_blank" rel="noopener noreferrer">错过AI浪潮，印度“新兴市场明星”地位正在终结</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3772466" target="_blank" rel="noopener noreferrer">内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3772467" target="_blank" rel="noopener noreferrer">全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530" target="_blank" rel="noopener noreferrer">Nvidia, retailer reports to shed light on AI boom, consumer spending</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
+- <a href="https://finance.caixin.com/2026-05-15/102444275.html" target="_blank" rel="noopener noreferrer">天风证券换将 一季度只赚22万元、营收负债双承压</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
 - <a href="https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html" target="_blank" rel="noopener noreferrer">The Iran War Is Crippling One of the World’s Wealthiest Nations</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html" target="_blank" rel="noopener noreferrer">Which Countries Are Profiting From the Iran War Oil Shock</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
 
 
 ---
@@ -119,23 +119,48 @@
 - <a href="https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/" target="_blank" rel="noopener noreferrer">Taiwan won't be sacrificed, US arms sales a commitment, president responds to Trump</a>
 
 
+### 财新（新增）
+> 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
+
+- <a href="https://finance.caixin.com/2026-05-18/102444877.html" target="_blank" rel="noopener noreferrer">今日开盘：两市双双低开 沪指跌幅 0.37%</a>
+- <a href="https://finance.caixin.com/2026-05-15/102444161.html" target="_blank" rel="noopener noreferrer">今日开盘：小幅低开 沪指跌幅0.09%</a>
+
+### 华尔街见闻（新增）
+> 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
+
+- <a href="https://wallstreetcn.com/articles/3772483" target="_blank" rel="noopener noreferrer">A股三大股指震荡下跌，存储芯片爆发，恒指、恒科指均跌超1%，半导体逆势拉升</a>
+- <a href="https://wallstreetcn.com/articles/3772477" target="_blank" rel="noopener noreferrer">科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫</a>
+- <a href="https://wallstreetcn.com/articles/3772475" target="_blank" rel="noopener noreferrer">美股CTA买入骤降，标普500一旦跌3%或引发千亿美元抛售潮</a>
+- <a href="https://wallstreetcn.com/articles/3772482" target="_blank" rel="noopener noreferrer">中国1-4月份城镇固定资产投资下降1.6%，高技术产业投资增长6.1%</a>
+- <a href="https://wallstreetcn.com/articles/3772473" target="_blank" rel="noopener noreferrer">美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500</a>
+
+### Reuters 中国（新增）
+> 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
+
+- <a href="https://www.reuters.com/world/china/chinas-cxmt-expects-revenue-surge-memory-chip-demand-soars-2026-05-18/" target="_blank" rel="noopener noreferrer">China's CXMT expects revenue to surge as memory chip demand soars</a>
+- <a href="https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/" target="_blank" rel="noopener noreferrer">China's economy slows in April as output, retail sales sharply undershoot forecasts</a>
+- <a href="https://www.reuters.com/business/aerospace-defense/china-has-agreed-address-us-concerns-over-rare-earth-shortages-says-white-house-2026-05-18/" target="_blank" rel="noopener noreferrer">China has agreed to address US concerns over rare earth shortages, says White House</a>
+- <a href="https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/" target="_blank" rel="noopener noreferrer">China signals tariff cuts, advances in farm market access after Trump-Xi summit</a>
+
+
 ## 🌍 国际市场
 
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
+- <a href="https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks</a>
 - <a href="https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">HS2 failings blamed on high-speed focus and political pressure</a>
 - <a href="https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to</a>
 - <a href="https://www.bbc.com/news/articles/c302vjqz563o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Swatch stores close for second day after crowds</a>
 - <a href="https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'They took £20,000 I didn't owe': Parents hit by child maintenance errors</a>
-- <a href="https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">UK borrowing costs rise and pound falls as leadership drama continues</a>
 - <a href="https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Why does Amazon have no Western rivals?</a>
+- <a href="https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">UK borrowing costs rise and pound falls as leadership drama continues</a>
 - <a href="https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">British Gas pays £20m over prepayment meter force-fitting scandal</a>
-- <a href="https://www.bbc.com/news/articles/ce8p4ywypx8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Beckhams become billionaires as Oasis make rich list for first time</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
+- <a href="https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html" target="_blank" rel="noopener noreferrer">White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts</a>
 - <a href="https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html" target="_blank" rel="noopener noreferrer">One of the market&apos;s hottest stock themes is buying everything AI can&apos;t replace</a>
 - <a href="https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html" target="_blank" rel="noopener noreferrer">AI-related layoffs a boost for stocks? Not necessarily</a>
 - <a href="https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html" target="_blank" rel="noopener noreferrer">Kevin Warsh comes into the Fed facing a big &apos;family fight&apos; over cutting interest rates</a>
@@ -143,7 +168,6 @@
 - <a href="https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html" target="_blank" rel="noopener noreferrer">Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines</a>
 - <a href="https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html" target="_blank" rel="noopener noreferrer">&apos;Biggest bottleneck in the AI buildup&apos; fuels DRAM ETF to record</a>
 - <a href="https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html" target="_blank" rel="noopener noreferrer">NFL wants certain trading contracts banned from prediction markets like &apos;first play of game,&apos; injuries</a>
-- <a href="https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-midday-cbrs-msft-now-pzza.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John&apos;s &amp; more</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -172,14 +196,14 @@
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/politics-news/trumpbacked-faith-event-features-conservative-christians-as-critics-decry-blurring-of-churchstate-lines-4694517" target="_blank" rel="noopener noreferrer">Trump-backed faith event features conservative Christians as critics decry blurring of church-state lines</a>
-- <a href="https://www.investing.com/news/stock-market-news/samsung-electronics-and-its-south-korean-union-resume-pay-talks-as-strike-risks-loom-4694590" target="_blank" rel="noopener noreferrer">Samsung Electronics, South Korean union resume pay talks as strike looms at chip giant</a>
-- <a href="https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601" target="_blank" rel="noopener noreferrer">China new home prices fall at slowest monthly pace in a year in April</a>
-- <a href="https://www.investing.com/news/stock-market-news/recruit-holdings-shares-surge-20-on-upbeat-fy-outlook-driven-by-indeed-4694600" target="_blank" rel="noopener noreferrer">Recruit Holdings shares surge ~20% on upbeat FY outlook driven by Indeed</a>
-- <a href="https://www.investing.com/news/world-news/us-assesses-drone-threat-from-cuba-axios-reports-4694529" target="_blank" rel="noopener noreferrer">Cuba accuses US of fabrication after Axios report alleging drone threat</a>
-- <a href="https://www.investing.com/news/economy-news/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity-4694580" target="_blank" rel="noopener noreferrer">G7 finance chiefs seek to tackle imbalances as trade strains unity</a>
-- <a href="https://www.investing.com/news/stock-market-news/arm-holdings-to-face-us-antitrust-probe-over-chip-tech-bloomberg-news-reports-4694599" target="_blank" rel="noopener noreferrer">Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports</a>
-- <a href="https://www.investing.com/news/general-news/new-yorks-long-island-rail-road-strike-halts-busiest-us-commuter-line-4694598" target="_blank" rel="noopener noreferrer">New York’s Long Island Rail Road strike halts busiest US commuter line</a>
+- <a href="https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601" target="_blank" rel="noopener noreferrer">China’s April new home prices fall at slowest monthly pace in a year</a>
+- <a href="https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615" target="_blank" rel="noopener noreferrer">Global bond rout deepens as inflation fears mount</a>
+- <a href="https://www.investing.com/news/stock-market-news/shein-buys-usbased-apparel-retailer-everlane-puck-news-reports-4694614" target="_blank" rel="noopener noreferrer">Shein buys US-based apparel retailer Everlane, Puck News reports</a>
+- <a href="https://www.investing.com/news/stock-market-news/singapores-april-nonoil-exports-climb-245-in-april-beat-expectations-93CH-4694613" target="_blank" rel="noopener noreferrer">Singapore’s April non-oil exports climb 24.5% in April, beat expectations</a>
+- <a href="https://www.investing.com/news/stock-market-news/chinas-cxmt-expects-revenue-to-surge-as-memory-chip-demand-soars-4694612" target="_blank" rel="noopener noreferrer">China’s CXMT expects revenue to surge as memory chip demand soars</a>
+- <a href="https://www.investing.com/news/economy-news/former-nba-player-rick-fox-tapped-for-bahamian-senate-4694610" target="_blank" rel="noopener noreferrer">Former NBA player Rick Fox tapped for Bahamian Senate</a>
+- <a href="https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570" target="_blank" rel="noopener noreferrer">Oil touches 2-week high after drone attack on UAE nuclear power plant</a>
+- <a href="https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530" target="_blank" rel="noopener noreferrer">Nvidia, retailer reports to shed light on AI boom, consumer spending</a>
 
 
 
