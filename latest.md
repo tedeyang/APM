@@ -1,7 +1,7 @@
-# 金融日报 - 2026-05-28
+# 金融日报 - 2026-05-29
 
-> 生成时间：2026/5/28 09:02:09
-> 数据源：RSS 5 | 浏览器 3
+> 生成时间：2026/5/29 09:01:33
+> 数据源：RSS 5 | 浏览器 2
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
 ---
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://wallstreetcn.com/articles/3773275" target="_blank" rel="noopener noreferrer">特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3773295" target="_blank" rel="noopener noreferrer">Anthropic营收超越OpenAI至少35%，IPO竞赛格局生变</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 - <a href="https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html" target="_blank" rel="noopener noreferrer">Traders are skeptical of Iran timeline for Strait of Hormuz reopening</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
-- <a href="https://www.reuters.com/world/china/cosco-products-tanker-leaving-strait-hormuz-oil-traffic-still-limited-2026-05-27/" target="_blank" rel="noopener noreferrer">COSCO products tanker leaving Strait of Hormuz, oil traffic still limited</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
-- <a href="https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html" target="_blank" rel="noopener noreferrer">Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://wallstreetcn.com/articles/3773389" target="_blank" rel="noopener noreferrer">18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773393" target="_blank" rel="noopener noreferrer">戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773406" target="_blank" rel="noopener noreferrer">美伊协议进展：媒体称框架已定待双方元首批准，万斯称“核问题还要谈”，伊朗称“还没同意”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-05-27/102447909.html" target="_blank" rel="noopener noreferrer">香港银行同步加强内地客监管 有中资行已暂停新用户开投资账户(含视频)</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://wallstreetcn.com/articles/3773289" target="_blank" rel="noopener noreferrer">“铜关税”交易归来，全球铜市再现“抢运美国”潮</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Champion ethical hacker warns AI tools like Mythos will make competing harder</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.investing.com/news/commodities-news/exclusiveus-carries-out-new-strikes-in-iran-against-military-site-official-says-4713440" target="_blank" rel="noopener noreferrer">Exclusive-US carries out new strikes in Iran against a military site and drones, official says</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
-- <a href="https://finance.caixin.com/2026-05-27/102447909.html" target="_blank" rel="noopener noreferrer">香港银行同步加强内地客监管 有中资行已暂停新用户开投资账户</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3773196" target="_blank" rel="noopener noreferrer">美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773313" target="_blank" rel="noopener noreferrer">美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html" target="_blank" rel="noopener noreferrer">Taiwan chip stocks climb after Nvidia announces $150 billion spending plans</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices fall after report of breakthrough in US-Iran talks</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
+- <a href="https://finance.caixin.com/2026-05-27/102447761.html" target="_blank" rel="noopener noreferrer">渣打中国行长鲁静：人民币在全球货币体系中的地位仍被低估</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3773401" target="_blank" rel="noopener noreferrer">iOS 27爆料：苹果“彻底重做”Siri，系统级整合AI</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 
 ---
@@ -32,37 +32,26 @@
 ### 财新
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
-- <a href="https://finance.caixin.com/2026-05-27/102447909.html" target="_blank" rel="noopener noreferrer">香港银行同步加强内地客监管 有中资行已暂停新用户开投资账户</a>
 - <a href="https://finance.caixin.com/2026-05-28/102448379.html" target="_blank" rel="noopener noreferrer">市场火热 4月底公募基金规模冲上39万亿元</a>
+- <a href="https://finance.caixin.com/2026-05-29/102448729.html" target="_blank" rel="noopener noreferrer">中信证券欲在港定增160亿 全部加注国际业务</a>
+- <a href="https://finance.caixin.com/2026-05-29/102448724.html" target="_blank" rel="noopener noreferrer">市场热议：人民币国际化核心瓶颈仍在资本项目开放</a>
 - <a href="https://finance.caixin.com/2026-05-27/102448259.html" target="_blank" rel="noopener noreferrer">私募规模再创新高至23.46万亿元 5天一家新晋百亿</a>
+- <a href="https://finance.caixin.com/2026-05-27/102447909.html" target="_blank" rel="noopener noreferrer">香港银行同步加强内地客监管 有中资行已暂停新用户开投资账户(含视频)</a>
 - <a href="https://finance.caixin.com/2026-05-27/102447902.html" target="_blank" rel="noopener noreferrer">涉嫌协助规避对俄制裁 孙宇晨相关的火币HTX被英国制裁</a>
-- <a href="https://finance.caixin.com/2026-05-27/102447894.html" target="_blank" rel="noopener noreferrer">半导体板块频现股东高位减持 兆易创新实控人朱一明本月减持接近1%</a>
-- <a href="https://finance.caixin.com/2026-05-27/102447877.html" target="_blank" rel="noopener noreferrer">渣打中国行长鲁静：人民币在全球货币体系中的地位仍被低估</a>
-- <a href="https://finance.caixin.com/2026-05-26/102447666.html" target="_blank" rel="noopener noreferrer">朱江涛接任招商证券董事长 新总裁仍在选聘中</a>
-- <a href="https://finance.caixin.com/2026-05-26/102447647.html" target="_blank" rel="noopener noreferrer">QDII额度受限 投资海外基金溢价率集体抬升</a>
+- <a href="https://finance.caixin.com/2026-05-27/102447894.html" target="_blank" rel="noopener noreferrer">半导体板块频现股东高位减持 兆易创新实控人朱一明本月减持接近1%(含视频)</a>
+- <a href="https://finance.caixin.com/2026-05-27/102447761.html" target="_blank" rel="noopener noreferrer">渣打中国行长鲁静：人民币在全球货币体系中的地位仍被低估</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3773296" target="_blank" rel="noopener noreferrer">人民日报专访何庭波：华为比同行更早遇到这堵“墙”</a>
-- <a href="https://wallstreetcn.com/articles/3773295" target="_blank" rel="noopener noreferrer">Anthropic营收超越OpenAI至少35%，IPO竞赛格局生变</a>
-- <a href="https://wallstreetcn.com/articles/3773291" target="_blank" rel="noopener noreferrer">“ASIC巨头”Marvell季度营收创纪录、连续上调指引，CEO称数据中心业务“着火了”</a>
-- <a href="https://wallstreetcn.com/articles/3773287" target="_blank" rel="noopener noreferrer">金主也缺钱了！阿布扎比主权基金抛售数十亿美元美股持仓</a>
-- <a href="https://wallstreetcn.com/member/articles/3773209" target="_blank" rel="noopener noreferrer">几内亚铝土管制来袭？铝价或进入超级周期</a>
-- <a href="https://wallstreetcn.com/articles/3773275" target="_blank" rel="noopener noreferrer">特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”</a>
-- <a href="https://wallstreetcn.com/articles/3773289" target="_blank" rel="noopener noreferrer">“铜关税”交易归来，全球铜市再现“抢运美国”潮</a>
-- <a href="https://wallstreetcn.com/articles/3773196" target="_blank" rel="noopener noreferrer">美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%</a>
-
-### Reuters 中国
-> 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
-
-- <a href="https://www.reuters.com/business/world-at-work/job-ad-shepherds-goes-viral-china-exposing-labour-market-strains-2026-05-27/" target="_blank" rel="noopener noreferrer">Job ad for shepherds goes viral in China, exposing labour market strains</a>
-- <a href="https://www.reuters.com/world/china/cosco-products-tanker-leaving-strait-hormuz-oil-traffic-still-limited-2026-05-27/" target="_blank" rel="noopener noreferrer">COSCO products tanker leaving Strait of Hormuz, oil traffic still limited</a>
-- <a href="https://www.reuters.com/world/asia-pacific/modern-economic-relationship-requires-cooperation-competition-german-minister-2026-05-27/" target="_blank" rel="noopener noreferrer">In China, German minister says economic relationship requires cooperation, competition</a>
-- <a href="https://www.reuters.com/world/china/chinas-military-says-it-drove-away-dutch-frigate-south-china-sea-2026-05-27/" target="_blank" rel="noopener noreferrer">China's military says it drove away Dutch frigate in South China Sea</a>
-- <a href="https://www.reuters.com/business/finance/italy-probing-whether-china-led-investors-ferretti-breached-golden-power-rules-2026-05-27/" target="_blank" rel="noopener noreferrer">Italy probing whether China-led investors in Ferretti breached 'golden power' rules</a>
-- <a href="https://www.reuters.com/world/asia-pacific/tencent-links-paypal-wechat-pay-network-enabling-us-users-spend-across-china-2026-05-27/" target="_blank" rel="noopener noreferrer">Tencent links PayPal to WeChat Pay network, enabling US users to spend across China</a>
-- <a href="https://www.reuters.com/world/asia-pacific/chinese-basketball-legend-yao-ming-helps-ev-maker-nio-overseas-drive-2026-05-27/" target="_blank" rel="noopener noreferrer">Chinese basketball legend Yao Ming helps EV maker NIO in overseas drive</a>
+- <a href="https://wallstreetcn.com/articles/3773402" target="_blank" rel="noopener noreferrer">私募FOF等于稳健理财？起底券商资管“营销术”</a>
+- <a href="https://wallstreetcn.com/articles/3773401" target="_blank" rel="noopener noreferrer">iOS 27爆料：苹果“彻底重做”Siri，系统级整合AI</a>
+- <a href="https://wallstreetcn.com/articles/3773406" target="_blank" rel="noopener noreferrer">美伊协议进展：媒体称框架已定待双方元首批准，万斯称“核问题还要谈”，伊朗称“还没同意”</a>
+- <a href="https://wallstreetcn.com/articles/3773403" target="_blank" rel="noopener noreferrer">三星电子开始交付业内首批HBM4E样品，性能较上代产品提升逾20%</a>
+- <a href="https://wallstreetcn.com/articles/3773405" target="_blank" rel="noopener noreferrer">“两倍海力士”已成全球老大，全球杠杆/反向“单票ETF”规模1个半月翻倍</a>
+- <a href="https://wallstreetcn.com/articles/3773389" target="_blank" rel="noopener noreferrer">18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！</a>
+- <a href="https://wallstreetcn.com/articles/3773313" target="_blank" rel="noopener noreferrer">美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平</a>
+- <a href="https://wallstreetcn.com/articles/3773393" target="_blank" rel="noopener noreferrer">戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻</a>
 
 
 
@@ -71,26 +60,26 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
-- <a href="https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">One in six young people will not be in work or training in five years without action, report warns</a>
-- <a href="https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture</a>
-- <a href="https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The world's carmakers are struggling to compete with China</a>
-- <a href="https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Energy bills to rise for millions as impact of Iran war hits</a>
-- <a href="https://www.bbc.com/news/articles/cwy2e3wx7xwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How you can save money on your energy bill</a>
-- <a href="https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Is 'out of control' US tipping culture spreading overseas?</a>
-- <a href="https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Ferrari shares slump after it unveils first fully electric car</a>
-- <a href="https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal</a>
+- <a href="https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Opportunities shrinking for too many young people, says major report on 'lost generation'</a>
+- <a href="https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'I've applied for more than 400 roles' - how young people are facing the job shortage</a>
+- <a href="https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US government prepares to print $250 note featuring Trump's face</a>
+- <a href="https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">When trade soured, this American liquor maker moved to Canada</a>
+- <a href="https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Drag queen Pattie Gonia fights trademark lawsuit by Patagonia</a>
+- <a href="https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Humanoid robots 'the future' of car making, says BMW</a>
+- <a href="https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">California Attorney General sues 23andMe successor for 2023 data breach</a>
+- <a href="https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Ousted BP chairman hits back at 'lies' about his behaviour</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
+- <a href="https://www.cnbc.com/2026/05/28/stocks-making-the-biggest-moves-after-hours-dell-aeo-gap.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Dell Technologies, American Eagle Outfitters, Gap &amp; more</a>
+- <a href="https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html" target="_blank" rel="noopener noreferrer">CFTC sues Rhode Island over actions against prediction markets</a>
+- <a href="https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html" target="_blank" rel="noopener noreferrer">Gaming association says states have lost $1 billion in tax revenue due to prediction markets</a>
+- <a href="https://www.cnbc.com/2026/05/28/stocks-making-the-biggest-moves-premarket-snow-kss-dltr.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Snowflake, Best Buy, Kohl&apos;s, Dollar Tree &amp; more</a>
+- <a href="https://www.cnbc.com/2026/05/28/nio-surges-9percent-after-releasing-first-flagship-ev-in-more-than-two-years.html" target="_blank" rel="noopener noreferrer">Nio shares jump 10% after releasing first flagship EV in more than two years</a>
 - <a href="https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html" target="_blank" rel="noopener noreferrer">Google employee charged with $1M Polymarket insider trading bet on search term</a>
 - <a href="https://www.cnbc.com/2026/05/27/stocks-making-the-biggest-moves-after-hours-snow-mrvl-a.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Snowflake, Marvell Technology, Agilent Technologies &amp; more</a>
 - <a href="https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html" target="_blank" rel="noopener noreferrer">Traders are skeptical of Iran timeline for Strait of Hormuz reopening</a>
-- <a href="https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html" target="_blank" rel="noopener noreferrer">Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: &apos;We are on the lookout&apos;</a>
-- <a href="https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html" target="_blank" rel="noopener noreferrer">Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too</a>
-- <a href="https://www.cnbc.com/2026/05/27/stocks-making-the-biggest-moves-premarket-mu-zs-mgm-bbwi.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Micron, ZScaler, MGM, Bath &amp; Body Works and more</a>
-- <a href="https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html" target="_blank" rel="noopener noreferrer">Taiwan chip stocks climb after Nvidia announces $150 billion spending plans</a>
-- <a href="https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html" target="_blank" rel="noopener noreferrer">China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -107,26 +96,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html" target="_blank" rel="noopener noreferrer">Court Orders Customs Chief to Address Compliance on Refunding Tariffs</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/media/conde-nast-fired-journalists-settlement.html" target="_blank" rel="noopener noreferrer">Condé Nast Pays Over $400,000 to 3 Journalists Fired Over Protest</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/media/kff-drew-altman.html" target="_blank" rel="noopener noreferrer">KFF’s Chief Executive to Retire</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html" target="_blank" rel="noopener noreferrer">’60 Minutes’ Journalist Sharyn Alfonsi Loses Deal After Dispute With Bari Weiss</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/ferrari-luce-electric-ev-backlash.html" target="_blank" rel="noopener noreferrer">Ferrari’s First Electric Car Runs Into Backlash in Italy and Beyond</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html" target="_blank" rel="noopener noreferrer">Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth</a>
-- <a href="https://www.nytimes.com/2026/05/27/business/bp-albert-manifold.html" target="_blank" rel="noopener noreferrer">BP’s Former Chairman, Albert Manifold, Disputes How Company Characterized His Dismissal</a>
-- <a href="https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html" target="_blank" rel="noopener noreferrer">Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/media/abc-licenses-fcc-brendan-carr.html" target="_blank" rel="noopener noreferrer">ABC Accuses Trump Administration of Threatening Its Broadcast Licenses</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/treasury-trump-250-bill.html" target="_blank" rel="noopener noreferrer">Treasury Prepares to Make Trump the Face of a New $250 Bill</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html" target="_blank" rel="noopener noreferrer">Two Papers Named ‘Star’ Will Duel in D.C. to Win Readers From The Washington Post</a>
+- <a href="https://www.nytimes.com/2026/05/28/us/politics/cftc-gemini-winklevoss-lawsuit.html" target="_blank" rel="noopener noreferrer">Watchdog Agency Seeks to Reverse Its Win Against Firm Run by Winklevoss Twins</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/everlane-co-founder-shein-acquisition.html" target="_blank" rel="noopener noreferrer">Everlane Co-Founder, Shocked by Shein Acquisition, Wants a Redo</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/media/trump-wsj-defamation-suit-10-billion.html" target="_blank" rel="noopener noreferrer">Trump Refiles $10 Billion Lawsuit Against The Wall Street Journal</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html" target="_blank" rel="noopener noreferrer">Bari Weiss Names Nick Bilton to Lead CBS’s ‘60 Minutes’ in Major Shake-Up</a>
+- <a href="https://www.nytimes.com/2026/05/28/business/bp-chair-albert-manifold.html" target="_blank" rel="noopener noreferrer">Fired BP Chair Manifold Rejects ‘Lies’ About His Ouster</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/economy-news/us-consumer-watchdog-recalls-all-staff-nationwide-to-washington-headquarters-4713505" target="_blank" rel="noopener noreferrer">US consumer watchdog recalls all staff nationwide to Washington headquarters</a>
-- <a href="https://www.investing.com/news/world-news/trump-administration-tells-prosecutors-to-not-pursue-probes-against-venezuela-leader-ap-reports-4713504" target="_blank" rel="noopener noreferrer">Trump administration tells prosecutors to not pursue probes against Venezuela leader, AP reports</a>
-- <a href="https://www.investing.com/news/filings/form-144-neurocrine-biosciences-inc-for-27-may-93CH-4713503" target="_blank" rel="noopener noreferrer">Form 144 NEUROCRINE BIOSCIENCES INC For: 27 May</a>
-- <a href="https://www.investing.com/news/filings/form-144-ecolab-inc-for-27-may-93CH-4713502" target="_blank" rel="noopener noreferrer">Form 144 ECOLAB INC. For: 27 May</a>
-- <a href="https://www.investing.com/news/commodities-news/exclusiveus-carries-out-new-strikes-in-iran-against-military-site-official-says-4713440" target="_blank" rel="noopener noreferrer">Exclusive-US carries out new strikes in Iran against a military site and drones, official says</a>
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-26397-in-shares-93CH-4713501" target="_blank" rel="noopener noreferrer">Crowdstrike CEO George Kurtz sells $26,397 in shares</a>
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-33-million-in-stock-93CH-4713500" target="_blank" rel="noopener noreferrer">Crowdstrike CEO George Kurtz sells $3.3 million in stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/airbnb-director-joseph-gebbia-sells-381637-in-abnb-stock-93CH-4713499" target="_blank" rel="noopener noreferrer">Airbnb director Joseph Gebbia sells $381,637 in ABNB stock</a>
+- <a href="https://www.investing.com/news/filings/form-144-c4-therapeutics-for-28-may-93CH-4715842" target="_blank" rel="noopener noreferrer">Form 144 C4 Therapeutics For: 28 May</a>
+- <a href="https://www.investing.com/news/company-news/solv-energy-prices-540-million-stock-offering-at-36-per-share-93CH-4715841" target="_blank" rel="noopener noreferrer">SOLV Energy prices $540 million stock offering at $36 per share</a>
+- <a href="https://www.investing.com/news/filings/form-13da-lululemon-athletica-inc-for-28-may-93CH-4715840" target="_blank" rel="noopener noreferrer">Form 13D/A lululemon athletica inc. For: 28 May</a>
+- <a href="https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-328m-in-crwv-stock-93CH-4715839" target="_blank" rel="noopener noreferrer">CoreWeave CEO Michael Intrator sells $32.8m in CRWV stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/coreweave-director-jack-cogen-sells-1063-million-of-company-stock-93CH-4715838" target="_blank" rel="noopener noreferrer">CoreWeave director Jack Cogen sells $106.3 million of company stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/coreweave-director-karen-boone-sells-125m-in-stock-93CH-4715837" target="_blank" rel="noopener noreferrer">CoreWeave director Karen Boone sells $1.25m in stock</a>
+- <a href="https://www.investing.com/news/company-news/generation-income-properties-prices-5m-public-offering-93CH-4715836" target="_blank" rel="noopener noreferrer">Generation Income Properties prices $5M public offering</a>
+- <a href="https://www.investing.com/news/world-news/us-judge-tosses-trump-administrations-challenge-to-bostons-sanctuary-immigration-law-4715835" target="_blank" rel="noopener noreferrer">US judge tosses Trump administration’s challenge to Boston’s ’sanctuary’ immigration law</a>
 
 
 
