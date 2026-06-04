@@ -1,6 +1,6 @@
-# 金融日报 - 2026-06-03
+# 金融日报 - 2026-06-04
 
-> 生成时间：2026/6/3 09:01:22
+> 生成时间：2026/6/4 09:01:42
 > 数据源：RSS 5 | 浏览器 2
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://wallstreetcn.com/articles/3773721" target="_blank" rel="noopener noreferrer">国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773820" target="_blank" rel="noopener noreferrer">美国原油库存已跌至2004年以来最低，特朗普还压得住油价吗？</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773822" target="_blank" rel="noopener noreferrer">停火以来最大规模交火！科威特称伊朗袭击致63人受伤，特朗普“灭火”：谈判顺利，协议可能周末达成</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773814" target="_blank" rel="noopener noreferrer">博通电话会：CEO坦言谷歌正“另寻新欢”，拟为OpenAI部署1.3GW算力，将打造算力融资平台</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3773823" target="_blank" rel="noopener noreferrer">3月大抛售后，全球央行4月重新恢复购金，波兰、中国央行是最大买家</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 - <a href="https://finance.caixin.com/2026-06-02/102450292.html" target="_blank" rel="noopener noreferrer">澳门加入多边央行数字货币桥 首批11家本地银行参与</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://finance.caixin.com/2026-05-29/102449131.html" target="_blank" rel="noopener noreferrer">女将丁向群升任国家金融监管总局党委书记</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3773720" target="_blank" rel="noopener noreferrer">沃什开始行动：对内演说“遵循优良传统但寻求改革”，任命曾建议“彻底重组美联储”的顾问</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">AI giant Anthropic plans to sell shares in US as valuation nears $1tn</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://finance.caixin.com/2026-05-29/102449131.html" target="_blank" rel="noopener noreferrer">女将丁向群升任国家金融监管总局党委书记</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3773742" target="_blank" rel="noopener noreferrer">中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh makes first hires at central bank, including &apos;Project 2025&apos; author</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
 - <a href="https://finance.caixin.com/2026-05-30/102449466.html" target="_blank" rel="noopener noreferrer">5月日元贬值2.6% 日本近一个月动用11万亿日元干预汇率</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 - <a href="https://finance.caixin.com/2026-06-03/102450328.html" target="_blank" rel="noopener noreferrer">老虎证券6月12日起将停止存量用户中国境内开仓加仓</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3773719" target="_blank" rel="noopener noreferrer">一句话值600亿美元！美股散户热议：黄仁勋还是特朗普，该跟谁？</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3773728" target="_blank" rel="noopener noreferrer">想对冲的买金油，想暴涨的买AI，“过气”比特币进入熊市</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 
 ---
@@ -33,6 +33,8 @@
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
 - <a href="https://finance.caixin.com/2026-06-03/102450328.html" target="_blank" rel="noopener noreferrer">老虎证券6月12日起将停止存量用户中国境内开仓加仓</a>
+- <a href="https://finance.caixin.com/2026-06-03/102450714.html" target="_blank" rel="noopener noreferrer">QDII基金额度再告急 部分产品尚存申购窗口</a>
+- <a href="https://finance.caixin.com/2026-06-03/102450687.html" target="_blank" rel="noopener noreferrer">金价横盘震荡 后续走势怎么看？</a>
 - <a href="https://finance.caixin.com/2026-06-02/102450292.html" target="_blank" rel="noopener noreferrer">澳门加入多边央行数字货币桥 首批11家本地银行参与</a>
 - <a href="https://finance.caixin.com/2026-06-02/102450241.html" target="_blank" rel="noopener noreferrer">中央巡视办原主任黎晓宏被查 曾在金融、纪检领域工作多年</a>
 - <a href="https://finance.caixin.com/2026-06-02/102450167.html" target="_blank" rel="noopener noreferrer">盈利目标达成 多只银行理财提前终止</a>
@@ -40,22 +42,20 @@
 - <a href="https://finance.caixin.com/2026-05-30/102449523.html" target="_blank" rel="noopener noreferrer">公募基金引“新登”入场 基金经理密集调整</a>
 - <a href="https://finance.caixin.com/2026-05-30/102449466.html" target="_blank" rel="noopener noreferrer">5月日元贬值2.6% 日本近一个月动用11万亿日元干预汇率</a>
 - <a href="https://finance.caixin.com/2026-05-29/102449131.html" target="_blank" rel="noopener noreferrer">女将丁向群升任国家金融监管总局党委书记</a>
-- <a href="https://finance.caixin.com/2026-05-29/102449075.html" target="_blank" rel="noopener noreferrer">康美可交债虚假陈述案一审宣判 广发证券被判连带赔偿15%</a>
-- <a href="https://finance.caixin.com/2026-05-29/102449040.html" target="_blank" rel="noopener noreferrer">今年以来仅两家城/农商行发行“二永债” 发债或有新要求</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3773719" target="_blank" rel="noopener noreferrer">一句话值600亿美元！美股散户热议：黄仁勋还是特朗普，该跟谁？</a>
-- <a href="https://wallstreetcn.com/articles/3773730" target="_blank" rel="noopener noreferrer">赎回潮二季度依旧！明星私募信贷基金公司再度限制赎回</a>
-- <a href="https://wallstreetcn.com/articles/3773727" target="_blank" rel="noopener noreferrer">张瑜：“无”地产复苏对财政金融体系的映射</a>
-- <a href="https://wallstreetcn.com/articles/3773728" target="_blank" rel="noopener noreferrer">想对冲的买金油，想暴涨的买AI，“过气”比特币进入熊市</a>
-- <a href="https://wallstreetcn.com/member/articles/3773659" target="_blank" rel="noopener noreferrer">巴菲特接班人85亿美元抄底地产：美国房地产周期拐点真的到了？</a>
-- <a href="https://wallstreetcn.com/articles/3773723" target="_blank" rel="noopener noreferrer">一个周末“摇来”伯克希尔100亿美元，高盛帮谷歌敲定“最让人意外”的“天量增发”</a>
-- <a href="https://wallstreetcn.com/articles/3773720" target="_blank" rel="noopener noreferrer">沃什开始行动：对内演说“遵循优良传统但寻求改革”，任命曾建议“彻底重组美联储”的顾问</a>
-- <a href="https://wallstreetcn.com/articles/3773725" target="_blank" rel="noopener noreferrer">一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化</a>
-- <a href="https://wallstreetcn.com/articles/3773700" target="_blank" rel="noopener noreferrer">1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间</a>
-- <a href="https://wallstreetcn.com/articles/3773721" target="_blank" rel="noopener noreferrer">国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击</a>
+- <a href="https://wallstreetcn.com/articles/3773826" target="_blank" rel="noopener noreferrer">行业轮动加速，意味着什么？</a>
+- <a href="https://wallstreetcn.com/member/articles/3773780" target="_blank" rel="noopener noreferrer">黄仁勋钦点Marvell：AI投资主线正在从算力转向互连</a>
+- <a href="https://wallstreetcn.com/articles/3773825" target="_blank" rel="noopener noreferrer">SpaceX浑身拧巴</a>
+- <a href="https://wallstreetcn.com/articles/3773824" target="_blank" rel="noopener noreferrer">CrowdStrike、Palo Alto Networks财报后大跌，网络安全股给“软件股大反弹”泼冷水</a>
+- <a href="https://wallstreetcn.com/articles/3773823" target="_blank" rel="noopener noreferrer">3月大抛售后，全球央行4月重新恢复购金，波兰、中国央行是最大买家</a>
+- <a href="https://wallstreetcn.com/articles/3773820" target="_blank" rel="noopener noreferrer">美国原油库存已跌至2004年以来最低，特朗普还压得住油价吗？</a>
+- <a href="https://wallstreetcn.com/articles/3773822" target="_blank" rel="noopener noreferrer">停火以来最大规模交火！科威特称伊朗袭击致63人受伤，特朗普“灭火”：谈判顺利，协议可能周末达成</a>
+- <a href="https://wallstreetcn.com/articles/3773821" target="_blank" rel="noopener noreferrer">一个周末就“花掉”168亿！“新王”上任三把火，伯克希尔庞大的现金流要用起来了？</a>
+- <a href="https://wallstreetcn.com/articles/3773814" target="_blank" rel="noopener noreferrer">博通电话会：CEO坦言谷歌正“另寻新欢”，拟为OpenAI部署1.3GW算力，将打造算力融资平台</a>
+- <a href="https://wallstreetcn.com/articles/3773742" target="_blank" rel="noopener noreferrer">中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌</a>
 
 
 
@@ -64,26 +64,26 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
-- <a href="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Three quarters of workers not on track for 'moderate' pension income, report suggests</a>
-- <a href="https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes</a>
-- <a href="https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">King told me Post Office scandal was 'dreadful', says oldest victim</a>
+- <a href="https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">SpaceX says it’s worth $1.75tn as it nears stock market debut</a>
+- <a href="https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US announces new tariffs over forced labour concerns</a>
+- <a href="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Three-quarters of workers not on track for 'moderate' pension income, report suggests</a>
+- <a href="https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The 18 creatures in the running to be on the new banknotes</a>
+- <a href="https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Universal park officially named as government pledges £1.3bn</a>
+- <a href="https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'It is by the grace of God that you find a diamond'</a>
+- <a href="https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Lloyds, Halifax and Bank of Scotland back after online banking outage</a>
 - <a href="https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Microsoft testing wearable AI gadget aimed at office workers</a>
-- <a href="https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Water firm fined £1.8m over parasite outbreak</a>
-- <a href="https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How 'confused' AI rollout hurts firms and baffles staff</a>
-- <a href="https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Instagram AI chatbot tricked by hackers to give access to others' accounts</a>
-- <a href="https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Microsoft says new quantum chip 1,000 times more reliable than predecessor</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
-- <a href="https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author</a>
-- <a href="https://www.cnbc.com/2026/06/02/bass-and-pratt-will-advance-in-la-mayoral-race-traders-say.html" target="_blank" rel="noopener noreferrer">Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile L.A. mayoral race</a>
+- <a href="https://www.cnbc.com/2026/06/03/stocks-making-the-biggest-moves-after-hours-avgo-crwd-pvh.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Broadcom, CrowdStrike, PVH &amp; more</a>
+- <a href="https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html" target="_blank" rel="noopener noreferrer">Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast</a>
+- <a href="https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html" target="_blank" rel="noopener noreferrer">Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</a>
+- <a href="https://www.cnbc.com/2026/06/03/stocks-making-the-biggest-moves-premarket-bx-mrvl-panw.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Blackstone, Marvell Technology, Palo Alto Networks &amp; more</a>
+- <a href="https://www.cnbc.com/2026/06/03/goldman-sachs-cuts-hong-kong-stocks-to-ne.html" target="_blank" rel="noopener noreferrer">Goldman Sachs cuts Hong Kong stocks in favor of mainland China AI hardware plays</a>
+- <a href="https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh makes first hires at central bank, including &apos;Project 2025&apos; author</a>
+- <a href="https://www.cnbc.com/2026/06/02/bass-and-pratt-will-advance-in-la-mayoral-race-traders-say.html" target="_blank" rel="noopener noreferrer">Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile LA mayoral race</a>
 - <a href="https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html" target="_blank" rel="noopener noreferrer">Goldman Sachs CEO David Solomon says markets are in &apos;greed&apos; mode as AI companies seek billions</a>
-- <a href="https://www.cnbc.com/2026/06/02/greg-abel-channels-buffetts-dealmaking-style-in-17-billion-deal-spree.html" target="_blank" rel="noopener noreferrer">Greg Abel channels Buffett&apos;s deal-making style in nearly $17 billion spree, expanding into tech</a>
-- <a href="https://www.cnbc.com/2026/06/02/polymarket-closes-first-block-trade-in-push-for-institutional-adoption.html" target="_blank" rel="noopener noreferrer">Polymarket closes its first block trade as prediction markets push for Wall Street adoption</a>
-- <a href="https://www.cnbc.com/2026/06/02/stocks-making-the-biggest-moves-premarket-mrvl-hpe-vsxy.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Marvell Technology, Hewlett Packard Enterprise, Victoria&apos;s Secret &amp; more</a>
-- <a href="https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html" target="_blank" rel="noopener noreferrer">Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy</a>
-- <a href="https://www.cnbc.com/2026/06/01/stocks-making-the-biggest-moves-midday-mgm-zm-nvda-vsat-ibm.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves midday: MGM Resorts, Zoom Communications, Nvidia, Viasat, IBM &amp; more</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -100,26 +100,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/06/02/business/media/notus-washington-star-trademark-dispute.html" target="_blank" rel="noopener noreferrer">NOTUS Cannot Be ‘The Star’: Judge Blocks D.C. News Outlet’s Rebranding</a>
-- <a href="https://www.nytimes.com/2026/06/02/business/colorado-uber-lyft-law.html" target="_blank" rel="noopener noreferrer">Colorado Enacts Law Tightening Scrutiny of Uber and Lyft</a>
-- <a href="https://www.nytimes.com/2026/06/02/business/media/white-house-correspondents-dinner.html" target="_blank" rel="noopener noreferrer">White House Correspondents Dinner Rescheduled for July</a>
-- <a href="https://www.nytimes.com/2026/06/02/business/msc-iraq-port-iran-war.html" target="_blank" rel="noopener noreferrer">MSC Ship Is Struck by Two Projectiles in Iraqi Port</a>
-- <a href="https://www.nytimes.com/2026/06/02/world/asia/stephen-curry-li-ning-shoe-deal-china.html" target="_blank" rel="noopener noreferrer">Stephen Curry and Li-Ning: What to Know About N.B.A. Star’s Deal With Chinese Sneaker Company</a>
-- <a href="https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html" target="_blank" rel="noopener noreferrer">New Proposal Would Allow Administration to Block Grants if They Don’t Support Trump’s Agenda</a>
-- <a href="https://www.nytimes.com/2026/06/02/business/economy/mellon-kennedy-childrens-health-defense.html" target="_blank" rel="noopener noreferrer">Trump Megadonor Gave $5.5 Million Estate to Robert F. Kennedy Jr.’s Anti-Vaccine Group</a>
-- <a href="https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html" target="_blank" rel="noopener noreferrer">Martin Scorsese Is Embracing A.I.</a>
+- <a href="https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html" target="_blank" rel="noopener noreferrer">SpaceX IPO to Be Largest Ever at $135 Share Price</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html" target="_blank" rel="noopener noreferrer">Trump Administration Turns to a New Rationale to Justify Old Tariffs</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-refunds-court-order.html" target="_blank" rel="noopener noreferrer">Trump Administration Fights Court Order to Refund Some Tariffs</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html" target="_blank" rel="noopener noreferrer">Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’</a>
+- <a href="https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html" target="_blank" rel="noopener noreferrer">European Union Outlines Plan to Reduce Dependence on American Tech</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/dealbook/trump-ai-pivot.html" target="_blank" rel="noopener noreferrer">What’s Driving Trump’s Big A.I. Pivot</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/trump-tariffs-force-labor.html" target="_blank" rel="noopener noreferrer">Trump Aims New Tariffs at 59 Countries and the European Union</a>
+- <a href="https://www.nytimes.com/2026/06/03/business/oil-prices-iran-war.html" target="_blank" rel="noopener noreferrer">Oil Prices Rise as Iran and U.S. Exchange Strikes</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/economy-news/yen-slips-to-key-160-level-as-gulf-hostilities-boost-dollar-4723211" target="_blank" rel="noopener noreferrer">Yen slips to key 160 level as Gulf hostilities boost dollar</a>
-- <a href="https://www.investing.com/news/stock-market-news/exclusivespacex-plans-to-raise-75-billion-in-ipo-at-135-per-share-source-says-4723192" target="_blank" rel="noopener noreferrer">Exclusive-SpaceX plans to raise $75 billion in IPO at $135 per share, source says</a>
-- <a href="https://www.investing.com/news/world-news/ustr-seeks-comment-on-possible-uschina-tariff-cuts-under-board-of-trade-4723202" target="_blank" rel="noopener noreferrer">USTR seeks comment on possible US-China tariff cuts under Board of Trade</a>
-- <a href="https://www.investing.com/news/economic-indicators/japans-services-activity-stagnates-in-may-as-costs-surge-pmi-shows-4723210" target="_blank" rel="noopener noreferrer">Japan’s services activity stagnates in May as costs surge, PMI shows</a>
-- <a href="https://www.investing.com/news/insider-trading-news/delek-us-holdings-director-vicky-sutil-sells-223966-in-dk-shares-93CH-4723209" target="_blank" rel="noopener noreferrer">Delek US Holdings director Vicky Sutil sells $223,966 in DK shares</a>
-- <a href="https://www.investing.com/news/insider-trading-news/slide-insurance-cro-larson-sells-44475-in-stock-93CH-4723208" target="_blank" rel="noopener noreferrer">Slide insurance CRO Larson sells $44,475 in stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/allstate-director-andrea-redmond-sells-451474-in-common-stock-93CH-4723207" target="_blank" rel="noopener noreferrer">Allstate director Andrea Redmond sells $451,474 in common stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/teads-holding-co-ceo-david-kostman-buys-53250-in-company-stock-93CH-4723206" target="_blank" rel="noopener noreferrer">Teads holding co. CEO David Kostman buys $53,250 in company stock</a>
+- <a href="https://www.investing.com/news/stock-market-news/honeywellbacked-quantinuum-raises-168-bln-in-upsized-us-ipo-4725522" target="_blank" rel="noopener noreferrer">Honeywell-backed Quantinuum raises $1.68 bln in upsized U.S. IPO</a>
+- <a href="https://www.investing.com/news/insider-trading-news/replimune-cco-sarchi-sells-110880-in-stock-93CH-4725521" target="_blank" rel="noopener noreferrer">Replimune CCO Sarchi sells $110,880 in stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/westwater-resources-director-tracy-pagliara-sells-15049-in-stock-93CH-4725520" target="_blank" rel="noopener noreferrer">Westwater Resources director Tracy Pagliara sells $15,049 in stock</a>
+- <a href="https://www.investing.com/news/company-news/first-graphene-to-acquire-mito-material-solutions-assets-93CH-4725518" target="_blank" rel="noopener noreferrer">First Graphene to acquire MITO Material Solutions assets</a>
+- <a href="https://www.investing.com/news/economy-news/uk-employers-ask-government-to-ease-off-on-tax-and-pricegouging-claims-4725469" target="_blank" rel="noopener noreferrer">UK employers ask government to ease off on tax and price-gouging claims</a>
+- <a href="https://www.investing.com/news/economy-news/trump-considers-ending-iran-ceasefire-if-us-troops-killed-wsj-4725516" target="_blank" rel="noopener noreferrer">Trump considers ending Iran ceasefire if US troops killed- WSJ</a>
+- <a href="https://www.investing.com/news/stock-market-news/honeywells-quantinuum-raises-168-billion-in-us-ipo-432SI-4725515" target="_blank" rel="noopener noreferrer">Honeywell’s Quantinuum Raises $1.68 Billion In US IPO</a>
+- <a href="https://www.investing.com/news/insider-trading-news/evommune-director-cohen-sells-123093-in-stock-93CH-4725514" target="_blank" rel="noopener noreferrer">Evommune director Cohen sells $123,093 in stock</a>
 
 
 
