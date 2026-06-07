@@ -1,7 +1,7 @@
-# 金融日报 - 2026-06-06
+# 金融日报 - 2026-06-07
 
-> 生成时间：2026/6/6 09:01:52
-> 数据源：RSS 5 | 浏览器 3
+> 生成时间：2026/6/7 09:01:49
+> 数据源：RSS 5 | 浏览器 2
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
 ---
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://wallstreetcn.com/articles/3773946" target="_blank" rel="noopener noreferrer">非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774004" target="_blank" rel="noopener noreferrer">美国版“AI全民红利”？特朗普表态支持美国政府持有顶级AI公司股权</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774015" target="_blank" rel="noopener noreferrer">美军打击伊朗目标，巴林、科威特拉响防空警报，特朗普坚称将很快从伊朗战事中“脱身”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774025" target="_blank" rel="noopener noreferrer">亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-06-06/102451631.html" target="_blank" rel="noopener noreferrer">央行修订存贷款利率管理规定 罚息从“加收30%—50%”到“协商确定”</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 - <a href="https://finance.caixin.com/2026-06-04/102451046.html" target="_blank" rel="noopener noreferrer">央行逆回购连续两天操作量为零 是在收紧流动性吗？</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">We need to stop AI developing without humans, says Anthropic co-founder</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html" target="_blank" rel="noopener noreferrer">Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://wallstreetcn.com/articles/3774010" target="_blank" rel="noopener noreferrer">美联储今年还会降息吗？整个华尔街只有1家投行还“坚持”：花旗</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://finance.caixin.com/2026-06-03/102450328.html" target="_blank" rel="noopener noreferrer">老虎证券6月12日起将停止存量用户中国境内开仓加仓</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3773990" target="_blank" rel="noopener noreferrer">“白宫股神”再吹票：特朗普：两房市值可达1万亿美元</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3773991" target="_blank" rel="noopener noreferrer">特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/" target="_blank" rel="noopener noreferrer">EU weighs rules to cut reliance on China through broader supply chains</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
-- <a href="https://www.reuters.com/world/china/chinas-military-says-it-tracked-dutch-frigate-taiwan-strait-2026-06-05/" target="_blank" rel="noopener noreferrer">China's military says it tracked Dutch frigate in Taiwan Strait</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">We need to stop AI developing without humans, says Anthropic co-founder</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
+- <a href="https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html" target="_blank" rel="noopener noreferrer">Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://wallstreetcn.com/member/articles/3774023" target="_blank" rel="noopener noreferrer">非农只是导火索：风险资产大跌背后的去杠杆链条</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774016" target="_blank" rel="noopener noreferrer">合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-06-06/102451739.html" target="_blank" rel="noopener noreferrer">1.6万名中国受害者英国追索 6万枚比特币案资产处置有进展</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 
 
 ---
@@ -33,47 +33,29 @@
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
 - <a href="https://finance.caixin.com/2026-06-05/102451063.html" target="_blank" rel="noopener noreferrer">独家｜数据资产ABS被暂停 城投套利融资受质疑</a>
+- <a href="https://finance.caixin.com/2026-06-06/102451779.html" target="_blank" rel="noopener noreferrer">公募“大姐大”易方达刘晓艳出任基金业协会新会长 吴清点名程序化交易</a>
+- <a href="https://finance.caixin.com/2026-06-06/102451739.html" target="_blank" rel="noopener noreferrer">1.6万名中国受害者英国追索 6万枚比特币案资产处置有进展</a>
+- <a href="https://finance.caixin.com/2026-06-06/102451631.html" target="_blank" rel="noopener noreferrer">央行修订存贷款利率管理规定 罚息从“加收30%—50%”到“协商确定”</a>
 - <a href="https://finance.caixin.com/2026-06-06/102451544.html" target="_blank" rel="noopener noreferrer">中船租赁原董事长杨力被查 船舶租赁业反腐升级</a>
 - <a href="https://finance.caixin.com/2026-06-05/102451459.html" target="_blank" rel="noopener noreferrer">国办发文严管私募基金 明确央地协同备案、处置</a>
 - <a href="https://finance.caixin.com/2026-06-05/102451411.html" target="_blank" rel="noopener noreferrer">被指玩物丧志 “鸽王”于泽被双开</a>
 - <a href="https://finance.caixin.com/2026-06-04/102451046.html" target="_blank" rel="noopener noreferrer">央行逆回购连续两天操作量为零 是在收紧流动性吗？</a>
 - <a href="https://finance.caixin.com/2026-06-04/102451028.html" target="_blank" rel="noopener noreferrer">A股进入指数调整期 新纳入个股获资金追捧</a>
 - <a href="https://finance.caixin.com/2026-06-04/102450999.html" target="_blank" rel="noopener noreferrer">内地投资者涌入香港银行和券商开户(含视频)</a>
-- <a href="https://finance.caixin.com/2026-06-04/102450867.html" target="_blank" rel="noopener noreferrer">SpaceX即将登陆纳斯达克 指数调整将重塑市场(含视频)</a>
-- <a href="https://finance.caixin.com/2026-06-04/102450781.html" target="_blank" rel="noopener noreferrer">船价高企叠加地缘风险 航运融资面临周期判断难题</a>
-- <a href="https://finance.caixin.com/2026-06-03/102450714.html" target="_blank" rel="noopener noreferrer">QDII基金额度再告急 部分产品尚存申购窗口</a>
-- <a href="https://finance.caixin.com/2026-06-03/102450687.html" target="_blank" rel="noopener noreferrer">金价横盘震荡 后续走势怎么看？</a>
-- <a href="https://finance.caixin.com/2026-06-03/102450328.html" target="_blank" rel="noopener noreferrer">老虎证券6月12日起将停止存量用户中国境内开仓加仓</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3774006" target="_blank" rel="noopener noreferrer">大跌之夜，高盛合伙人喊“抄底”：今年这种买入的机会并不多</a>
-- <a href="https://wallstreetcn.com/articles/3774003" target="_blank" rel="noopener noreferrer">币圈惨烈！比特币破6万美元，以太坊暴跌超10%，Strategy遭空头围猎</a>
-- <a href="https://wallstreetcn.com/articles/3774004" target="_blank" rel="noopener noreferrer">美国版“AI全民红利”？特朗普表态支持美国政府持有顶级AI公司股权</a>
-- <a href="https://wallstreetcn.com/articles/3774005" target="_blank" rel="noopener noreferrer">华尔街见闻早餐FM-Radio | 2026年6月6日</a>
-- <a href="https://wallstreetcn.com/articles/3774002" target="_blank" rel="noopener noreferrer">科技股暴跌与比特币重挫，SpaceX上市前夕散户资金面临终极考验</a>
-- <a href="https://wallstreetcn.com/articles/3774001" target="_blank" rel="noopener noreferrer">报道：SpaceX IPO获超额认购，预计6月12日开盘交易</a>
-- <a href="https://wallstreetcn.com/articles/3773990" target="_blank" rel="noopener noreferrer">“白宫股神”再吹票：特朗普：两房市值可达1万亿美元</a>
-- <a href="https://wallstreetcn.com/articles/3773999" target="_blank" rel="noopener noreferrer">迈威尔科技与Flex将被纳入标普500</a>
-- <a href="https://wallstreetcn.com/articles/3773946" target="_blank" rel="noopener noreferrer">非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”</a>
-- <a href="https://wallstreetcn.com/articles/3773998" target="_blank" rel="noopener noreferrer">美股遭遇抛售，但高盛称未见仓位极端拥挤现象</a>
-- <a href="https://wallstreetcn.com/articles/3773991" target="_blank" rel="noopener noreferrer">特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的</a>
-- <a href="https://wallstreetcn.com/articles/3773997" target="_blank" rel="noopener noreferrer">SpaceX与谷歌签署300亿美元算力协议</a>
-
-### Reuters 中国
-> 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
-
-- <a href="https://www.reuters.com/legal/litigation/study-warns-biodiversity-loss-could-trigger-wave-debt-crises-2026-06-05/" target="_blank" rel="noopener noreferrer">Study warns biodiversity loss could trigger wave of debt crises</a>
-- <a href="https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/" target="_blank" rel="noopener noreferrer">China's Xi to visit North Korea in push for deeper ties</a>
-- <a href="https://www.reuters.com/world/china/satellite-images-show-suspected-structure-disputed-south-china-sea-atoll-later-2026-06-04/" target="_blank" rel="noopener noreferrer">Exclusive: Satellite images show suspected structure at disputed South China Sea atoll, but later gone</a>
-- <a href="https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/" target="_blank" rel="noopener noreferrer">EU weighs rules to cut reliance on China through broader supply chains</a>
-- <a href="https://www.reuters.com/world/china/chinas-military-says-it-tracked-dutch-frigate-taiwan-strait-2026-06-05/" target="_blank" rel="noopener noreferrer">China's military says it tracked Dutch frigate in Taiwan Strait</a>
-- <a href="https://www.reuters.com/business/finance/china-banks-raise-dollar-deposit-rates-amid-yuan-strength-sources-say-2026-06-05/" target="_blank" rel="noopener noreferrer">China banks raise dollar deposit rates amid yuan strength, sources say</a>
-- <a href="https://www.reuters.com/business/autos-transportation/sika-targets-growth-china-renovation-market-global-data-centres-2026-06-05/" target="_blank" rel="noopener noreferrer">Sika targets growth from China renovation market, global data centres</a>
-- <a href="https://www.reuters.com/world/china/senior-chinese-official-cai-qi-tapped-head-central-party-school-2026-06-05/" target="_blank" rel="noopener noreferrer">Senior Chinese official Cai Qi tapped as head of central party school</a>
-- <a href="https://www.reuters.com/legal/government/spacex-ipo-bars-investors-china-hong-kong-bloomberg-news-reports-2026-06-05/" target="_blank" rel="noopener noreferrer">SpaceX IPO bars investors from China and Hong Kong, Bloomberg News reports</a>
-- <a href="https://www.reuters.com/legal/government/china-tighten-oversight-private-investment-funds-2026-06-05/" target="_blank" rel="noopener noreferrer">China to tighten oversight of private investment funds</a>
+- <a href="https://wallstreetcn.com/member/articles/3774023" target="_blank" rel="noopener noreferrer">非农只是导火索：风险资产大跌背后的去杠杆链条</a>
+- <a href="https://wallstreetcn.com/articles/3774025" target="_blank" rel="noopener noreferrer">亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角</a>
+- <a href="https://wallstreetcn.com/member/articles/3774024" target="_blank" rel="noopener noreferrer">东吴商社吴劲草：消费正在磨底，不直接V型反转；品牌出海或是未来最重要的成长主线</a>
+- <a href="https://wallstreetcn.com/articles/3774021" target="_blank" rel="noopener noreferrer">谁在撒谎？这家顶级风投把Altman这些硅谷大佬聚在一起，办了场“狼人杀”真人秀</a>
+- <a href="https://wallstreetcn.com/articles/3774016" target="_blank" rel="noopener noreferrer">合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元</a>
+- <a href="https://wallstreetcn.com/articles/3774022" target="_blank" rel="noopener noreferrer">吴清：公募基金要坚决遏制赌押赛道、风格漂移、高位发行等顽疾</a>
+- <a href="https://wallstreetcn.com/articles/3774019" target="_blank" rel="noopener noreferrer">普京：泽连斯基“粗鲁无礼”，会面“没有任何意义”</a>
+- <a href="https://wallstreetcn.com/articles/3774017" target="_blank" rel="noopener noreferrer">“黑色星期五”的导火索？Semianalysis报告“重创”美光</a>
+- <a href="https://wallstreetcn.com/articles/3774015" target="_blank" rel="noopener noreferrer">美军打击伊朗目标，巴林、科威特拉响防空警报，特朗普坚称将很快从伊朗战事中“脱身”</a>
+- <a href="https://wallstreetcn.com/articles/3774010" target="_blank" rel="noopener noreferrer">美联储今年还会降息吗？整个华尔街只有1家投行还“坚持”：花旗</a>
 
 
 
@@ -94,6 +76,7 @@
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
+- <a href="https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html" target="_blank" rel="noopener noreferrer">Bitcoin is cratering, but a new Wall Street crypto hype is on the rise</a>
 - <a href="https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html" target="_blank" rel="noopener noreferrer">Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests</a>
 - <a href="https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html" target="_blank" rel="noopener noreferrer">Where investors may find the next &apos;big wave&apos; for AI trade</a>
 - <a href="https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-premarket-lulu-mu-ttan.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Lululemon, Micron, ServiceTitan, Strategy &amp; more</a>
@@ -101,7 +84,6 @@
 - <a href="https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-after-hours-lulu-agx-ttan.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Lululemon Athletica, ServiceTitan, Argan and more</a>
 - <a href="https://www.cnbc.com/2026/06/04/ark-invest-owns-spacex-in-its-venture-etf-it-says-starlink-alone-supports-2-trillion-value-at-ipo.html" target="_blank" rel="noopener noreferrer">Ark Invest owns SpaceX in its venture ETF. It says Starlink alone supports $2 trillion value at IPO</a>
 - <a href="https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html" target="_blank" rel="noopener noreferrer">Kalshi is building a prediction markets &apos;Bloomberg Terminal&apos; for high-end traders, source says</a>
-- <a href="https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-premarket-.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Broadcom, Micron, Petco, Coinbase and more</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -118,26 +100,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
+- <a href="https://www.nytimes.com/2026/06/06/business/media/alan-riding-dead.html" target="_blank" rel="noopener noreferrer">Alan Riding, Times Correspondent in Latin America and Paris, Dies at 82</a>
+- <a href="https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html" target="_blank" rel="noopener noreferrer">Sorry, I’m Not Available. Talk to the A.I. Version of Me.</a>
+- <a href="https://www.nytimes.com/2026/06/06/business/screwworm-flies-drought-cattle.html" target="_blank" rel="noopener noreferrer">Screwworm Flies Add to Cattle Ranchers’ Woes</a>
+- <a href="https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html" target="_blank" rel="noopener noreferrer">‘60 Minutes’ Is a ‘Cage Full of Tigers.’ Can Nick Bilton Lead It?</a>
+- <a href="https://www.nytimes.com/2026/06/06/business/retirement-managing-parents-money.html" target="_blank" rel="noopener noreferrer">5 Tips to Start Managing Your Aging Parents’ Money</a>
 - <a href="https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html" target="_blank" rel="noopener noreferrer">Stocks Slide as Investors See Rates Rising After Strong Jobs Data</a>
 - <a href="https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html" target="_blank" rel="noopener noreferrer">’60 Minutes’ Stars Will Stay After Pelley’s Firing Because They Don’t Want Show to ‘Die’</a>
 - <a href="https://www.nytimes.com/live/2026/business/jobs-report-economy/what-to-know-about-the-jobs-report" target="_blank" rel="noopener noreferrer">What to know about the report.</a>
-- <a href="https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html" target="_blank" rel="noopener noreferrer">Central Ohio Becomes Hub for Tech and Manufacturing</a>
-- <a href="https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html" target="_blank" rel="noopener noreferrer">Elon Musk Dominates List of Highest Paid C.E.O.s</a>
-- <a href="https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report" target="_blank" rel="noopener noreferrer">White House rejoices over strong jobs report.</a>
-- <a href="https://www.nytimes.com/2026/06/05/your-money/renting-security-deposit-alternatives.html" target="_blank" rel="noopener noreferrer">More Renters Are Using Tools to Skip Security Deposits, but There’s a Catch</a>
-- <a href="https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html" target="_blank" rel="noopener noreferrer">Anthropic’s Call for A.I. Nonproliferation</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/insider-trading-news/flex-evp-general-counsel-david-offer-sells-508-million-in-shares-93CH-4729476" target="_blank" rel="noopener noreferrer">Flex EVP, general counsel David Offer sells $5.08 million in shares</a>
-- <a href="https://www.investing.com/news/sec-filings/americas-carmart-receives-lender-forbearance-extension-and-approves-executive-retention-awards-93CH-4729475" target="_blank" rel="noopener noreferrer">America’s Car-Mart receives lender forbearance extension and approves executive retention awards</a>
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-868977-of-company-stock-93CH-4729474" target="_blank" rel="noopener noreferrer">Crowdstrike CEO George Kurtz sells $868,977 of company stock</a>
-- <a href="https://www.investing.com/news/stock-market-news/why-is-the-sec-taking-so-long-on-tokenized-stocks-td-cowen-explains-4729473" target="_blank" rel="noopener noreferrer">Why is the SEC taking so long on tokenized stocks? TD Cowen explains</a>
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-276-million-in-shares-93CH-4729472" target="_blank" rel="noopener noreferrer">Crowdstrike CEO George Kurtz sells $2.76 million in shares</a>
-- <a href="https://www.investing.com/news/sec-filings/invesco-currencyshares-japanese-yen-trust-announces-board-member-resignation-93CH-4729471" target="_blank" rel="noopener noreferrer">Invesco CurrencyShares Japanese Yen Trust announces board member resignation</a>
-- <a href="https://www.investing.com/news/filings/form-pre-14a-heartbeam-for-5-june-93CH-4729470" target="_blank" rel="noopener noreferrer">Form PRE 14A HeartBeam For: 5 June</a>
-- <a href="https://www.investing.com/news/filings/form-144-ast-spacemobile-for-5-june-93CH-4729469" target="_blank" rel="noopener noreferrer">Form 144 AST SpaceMobile For: 5 June</a>
+- <a href="https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4728989" target="_blank" rel="noopener noreferrer">Street Calls of the Week</a>
+- <a href="https://www.investing.com/news/stock-market-news/how-has-the-spirit-exit-changed-competitive-intensity-in-the-airline-industry-4729634" target="_blank" rel="noopener noreferrer">How has the Spirit exit changed competitive intensity in the airline industry?</a>
+- <a href="https://www.investing.com/news/world-news/kosovo-holds-another-snap-election-as-political-crisis-drags-on-4729633" target="_blank" rel="noopener noreferrer">Kosovo holds another snap election as political crisis drags on</a>
+- <a href="https://www.investing.com/news/stock-market-news/bouyguesled-consortium-signs-234bn-deal-to-acquire-sfr-from-altice-france-4729632" target="_blank" rel="noopener noreferrer">Bouygues-led consortium signs $23.4Bn deal to acquire SFR from Altice France</a>
+- <a href="https://www.investing.com/news/economy-news/us-weighs-using-iranian-assets-to-fund-gulf-reconstruction-after-latest-attacks-4729631" target="_blank" rel="noopener noreferrer">US weighs using Iranian assets to fund Gulf reconstruction after latest attacks</a>
+- <a href="https://www.investing.com/news/stock-market-news/bouyguesled-consortium-signs-2344-billion-deal-to-buy-sfr-from-altice-france-4729630" target="_blank" rel="noopener noreferrer">Bouygues-led consortium signs $23.44 billion deal to buy SFR from Altice France</a>
+- <a href="https://www.investing.com/news/world-news/basketballstreet-closures-secret-servicelevel-security-expected-as-trump-to-attend-nba-finals-4729629" target="_blank" rel="noopener noreferrer">Basketball-Street closures, Secret Service-level security expected as Trump to attend NBA Finals</a>
+- <a href="https://www.investing.com/news/stock-market-news/us-gives-hungarys-mol-more-time-for-talks-to-buy-serbian-oil-firm-nis-4729628" target="_blank" rel="noopener noreferrer">US gives Hungary’s MOL more time for talks to buy Serbian oil firm NIS</a>
 
 
 
