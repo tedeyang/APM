@@ -1,6 +1,6 @@
-# 金融日报 - 2026-06-16
+# 金融日报 - 2026-06-17
 
-> 生成时间：2026/6/16 09:01:58
+> 生成时间：2026/6/17 09:04:11
 > 数据源：RSS 5 | 浏览器 3
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html" target="_blank" rel="noopener noreferrer">Cautious of U.S.-Iran Deal, Shipping Firms Await Strait to Reopen</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://wallstreetcn.com/articles/3774747" target="_blank" rel="noopener noreferrer">美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774739" target="_blank" rel="noopener noreferrer">城堡证券：利率上行将压制风险资产，美联储最快可能9月加息</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774729" target="_blank" rel="noopener noreferrer">英伟达五年来首发公司债，筹集250亿美元，超三倍认购</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.reuters.com/world/asia-pacific/china-bonds-emerge-surprise-haven-iran-war-reshapes-portfolios-2026-06-15/" target="_blank" rel="noopener noreferrer">China bonds emerge as surprise haven as Iran war reshapes portfolios</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://wallstreetcn.com/articles/3774832" target="_blank" rel="noopener noreferrer">欧盟议会赶在“特朗普期限”前批准美欧贸易协议，关税风险暂时降温</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774848" target="_blank" rel="noopener noreferrer">美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774847" target="_blank" rel="noopener noreferrer">美国“前沿模型武器化”思路“昭然若揭”--美商务部长致信Anthropic导致Fable 5模型全球下架</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774849" target="_blank" rel="noopener noreferrer">市场“草木皆兵”：微软被曝终止与甲骨文30亿美元云基础设施谈判，加剧芯片股回调</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774845" target="_blank" rel="noopener noreferrer">英特尔芯片代工“新里程碑”：官宣“18A升级版”制程进入“风险生产”阶段</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Anthropic to meet White House over AI tool suspension</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://wallstreetcn.com/articles/3774725" target="_blank" rel="noopener noreferrer">报道：Anthropic高管计划与美政府官员会面，讨论模型访问限制</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How could the US-Iran deal affect oil prices and the cost of food?</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices fall and shares jump after US-Iran deal announced</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">What's happening to UK petrol and diesel prices now the US and Iran have a deal?</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
+- <a href="https://www.reuters.com/world/china/bmw-lowers-2026-outlook-china-downturn-iran-war-2026-06-16/" target="_blank" rel="noopener noreferrer">BMW lowers profit outlook due to China downturn, Iran war double whammy</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh expected to withhold &apos;dot&apos; from central bank&apos;s interest rate outlook</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.nytimes.com/2026/06/16/business/warsh-fed-chair.html" target="_blank" rel="noopener noreferrer">Warsh Faces Tenuous Balancing Act in First Fed Meeting as Chairman</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
+- <a href="https://wallstreetcn.com/articles/3774846" target="_blank" rel="noopener noreferrer">不再信任纽约和伦敦！各国央行纷纷将黄金储备运回国</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How the Iran war affects your money and bills</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
 
 
 ---
@@ -32,9 +32,11 @@
 ### 财新
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
-- <a href="https://finance.caixin.com/2026-06-13/102453984.html" target="_blank" rel="noopener noreferrer">退休近九年 人保集团原副总裁俞小平被查</a>
+- <a href="https://finance.caixin.com/2026-06-17/102454862.html" target="_blank" rel="noopener noreferrer">SpaceX上市三日涨50% 即将纳入多只指数</a>
+- <a href="https://finance.caixin.com/2026-06-16/102454589.html" target="_blank" rel="noopener noreferrer">恒大清盘人斥港证监越权 拟叫停普华永道赔偿</a>
 - <a href="https://finance.caixin.com/2026-06-15/102454458.html" target="_blank" rel="noopener noreferrer">渣打拟在港设立黄金仓储 响应香港打造“国际金库”</a>
 - <a href="https://finance.caixin.com/2026-06-13/102454002.html" target="_blank" rel="noopener noreferrer">中行宁波分行副行长叶新阶被查 松日系数百亿不良贷款案再落一人</a>
+- <a href="https://finance.caixin.com/2026-06-13/102453984.html" target="_blank" rel="noopener noreferrer">退休近九年 人保集团原副总裁俞小平被查</a>
 - <a href="https://finance.caixin.com/2026-06-13/102453956.html" target="_blank" rel="noopener noreferrer">个人购买大额存单20万元认购起点执行十年 新规拟将其制度化</a>
 - <a href="https://finance.caixin.com/2026-06-13/102453809.html" target="_blank" rel="noopener noreferrer">SpaceX上市首日涨19% 市值突破2.1万亿美元(含视频)</a>
 - <a href="https://finance.caixin.com/2026-06-12/102453790.html" target="_blank" rel="noopener noreferrer">贝莱德建信理财总经理调整 在华管理规模超700亿元</a>
@@ -44,24 +46,28 @@
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3774747" target="_blank" rel="noopener noreferrer">美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”</a>
-- <a href="https://wallstreetcn.com/articles/3774740" target="_blank" rel="noopener noreferrer">世界杯爆大冷！佛得角逼平“夺冠热门”西班牙，Polymarket有账户输掉近100万美元</a>
-- <a href="https://wallstreetcn.com/articles/3774742" target="_blank" rel="noopener noreferrer">上市第2天，SpaceX再涨近20%，估值已达2.5万亿美元！接下来这两个日子要高度关注</a>
-- <a href="https://wallstreetcn.com/articles/3774728" target="_blank" rel="noopener noreferrer">股东亏本也要退出，“全球最大对冲基金”怎么了？</a>
-- <a href="https://wallstreetcn.com/articles/3774743" target="_blank" rel="noopener noreferrer">腾讯投了林俊旸1.4亿！前千问负责人创业，估值135亿</a>
-- <a href="https://wallstreetcn.com/articles/3774725" target="_blank" rel="noopener noreferrer">报道：Anthropic高管计划与美政府官员会面，讨论模型访问限制</a>
-- <a href="https://wallstreetcn.com/articles/3774739" target="_blank" rel="noopener noreferrer">城堡证券：利率上行将压制风险资产，美联储最快可能9月加息</a>
-- <a href="https://wallstreetcn.com/articles/3774729" target="_blank" rel="noopener noreferrer">英伟达五年来首发公司债，筹集250亿美元，超三倍认购</a>
+- <a href="https://wallstreetcn.com/articles/3774848" target="_blank" rel="noopener noreferrer">美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数</a>
+- <a href="https://wallstreetcn.com/articles/3774849" target="_blank" rel="noopener noreferrer">市场“草木皆兵”：微软被曝终止与甲骨文30亿美元云基础设施谈判，加剧芯片股回调</a>
+- <a href="https://wallstreetcn.com/articles/3774844" target="_blank" rel="noopener noreferrer">SpaceX期权上市首日就被热捧，看涨期权交易量排美股第五</a>
+- <a href="https://wallstreetcn.com/articles/3774847" target="_blank" rel="noopener noreferrer">美国“前沿模型武器化”思路“昭然若揭”--美商务部长致信Anthropic导致Fable 5模型全球下架</a>
+- <a href="https://wallstreetcn.com/articles/3774846" target="_blank" rel="noopener noreferrer">不再信任纽约和伦敦！各国央行纷纷将黄金储备运回国</a>
+- <a href="https://wallstreetcn.com/articles/3774845" target="_blank" rel="noopener noreferrer">英特尔芯片代工“新里程碑”：官宣“18A升级版”制程进入“风险生产”阶段</a>
+- <a href="https://wallstreetcn.com/articles/3774774" target="_blank" rel="noopener noreferrer">市场静待沃什"首秀"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%</a>
+- <a href="https://wallstreetcn.com/articles/3774843" target="_blank" rel="noopener noreferrer">外媒：美伊协议涉及的三千亿基金 超一半获出资承诺</a>
+- <a href="https://wallstreetcn.com/articles/3774822" target="_blank" rel="noopener noreferrer">布油跌超5%，三个月来首破80美元！美伊协议冲击，高盛、大摩双双下调目标价</a>
+- <a href="https://wallstreetcn.com/articles/3774832" target="_blank" rel="noopener noreferrer">欧盟议会赶在“特朗普期限”前批准美欧贸易协议，关税风险暂时降温</a>
 
 ### Reuters 中国
 > 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
 
-- <a href="https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/" target="_blank" rel="noopener noreferrer">US connected-car rule prompts Ford, other automakers to seek licenses for China-built models</a>
-- <a href="https://www.reuters.com/world/asia-pacific/china-bonds-emerge-surprise-haven-iran-war-reshapes-portfolios-2026-06-15/" target="_blank" rel="noopener noreferrer">China bonds emerge as surprise haven as Iran war reshapes portfolios</a>
-- <a href="https://www.reuters.com/world/china/hong-kong-leader-uncertain-second-term-office-2026-06-15/" target="_blank" rel="noopener noreferrer">Hong Kong leader uncertain on second term in office</a>
-- <a href="https://www.reuters.com/world/china/myanmars-former-junta-chief-kicks-off-visit-china-civilian-president-2026-06-15/" target="_blank" rel="noopener noreferrer">Myanmar's former junta chief kicks off visit to China as civilian president</a>
-- <a href="https://www.reuters.com/legal/litigation/chinese-linked-hackers-targeted-uscanadian-research-facilities-year-google-says-2026-06-15/" target="_blank" rel="noopener noreferrer">Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says</a>
-- <a href="https://www.reuters.com/world/asia-pacific/chinas-regulator-summons-walmart-over-food-safety-issues-2026-06-15/" target="_blank" rel="noopener noreferrer">Chinese regulator tells Walmart to stamp out food safety risks</a>
+- <a href="https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/" target="_blank" rel="noopener noreferrer">Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say</a>
+- <a href="https://www.reuters.com/world/china/eu-must-tap-trillions-euros-private-savings-keep-up-with-us-china-investors-say-2026-06-16/" target="_blank" rel="noopener noreferrer">EU must tap trillions of euros in private savings to keep up with US and China, investors say</a>
+- <a href="https://www.reuters.com/world/china/bmw-lowers-2026-outlook-china-downturn-iran-war-2026-06-16/" target="_blank" rel="noopener noreferrer">BMW lowers profit outlook due to China downturn, Iran war double whammy</a>
+- <a href="https://www.reuters.com/world/china/latin-americas-trade-with-china-surges-us-dominance-holds-idb-finds-2026-06-16/" target="_blank" rel="noopener noreferrer">Latin America's trade with China surges but US dominance holds, IDB finds</a>
+- <a href="https://www.reuters.com/world/china/taiwan-president-says-he-wont-give-up-defence-spending-after-parliament-cuts-2026-06-16/" target="_blank" rel="noopener noreferrer">Taiwan president says he 'won't give up' on defence spending after parliament cuts</a>
+- <a href="https://www.reuters.com/world/china/china-myanmar-pursue-deeper-ties-leaders-hold-talks-beijing-2026-06-16/" target="_blank" rel="noopener noreferrer">China's Xi backs Myanmar's president as two leaders meet in Beijing</a>
+- <a href="https://www.reuters.com/world/china/chinas-may-retail-sales-fall-first-time-over-three-years-2026-06-16/" target="_blank" rel="noopener noreferrer">China's economic imbalance deepens as retail sales fall for first time in over three years</a>
+- <a href="https://www.reuters.com/world/china/china-embraces-myanmars-president-former-junta-chief-seeks-legitimacy-2026-06-16/" target="_blank" rel="noopener noreferrer">China embraces Myanmar's president as former junta chief seeks legitimacy</a>
 
 
 
@@ -70,26 +76,26 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
+- <a href="https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Cadbury chocolate-owner Mondelez defends staying in Russia</a>
+- <a href="https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm</a>
+- <a href="https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Struggling Pizza Hut chain to be sold for $2.7bn</a>
 - <a href="https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Thames Water moves step closer to nationalisation after government objects to rescue deal</a>
-- <a href="https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How could the US-Iran deal affect oil prices and the cost of food?</a>
-- <a href="https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">SpaceX IPO raised $10bn more than thought</a>
-- <a href="https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices fall and shares jump after US-Iran deal announced</a>
-- <a href="https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">What's happening to UK petrol and diesel prices now the US and Iran have a deal?</a>
 - <a href="https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">What is Helium-3 and could we get it from the moon?</a>
-- <a href="https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Anthropic to meet White House over AI tool suspension</a>
-- <a href="https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Is the convertible heading into the sunset?</a>
+- <a href="https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Japan raises interest rate to highest for 31 years</a>
+- <a href="https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">How the Iran war affects your money and bills</a>
+- <a href="https://www.bbc.com/news/articles/cgleg70r7rno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Why is Thames Water in so much trouble?</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
+- <a href="https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html" target="_blank" rel="noopener noreferrer">Michael Burry says he&apos;s tempted to bet against SpaceX, but passes on expensive options</a>
+- <a href="https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html" target="_blank" rel="noopener noreferrer">Fed Chair Warsh expected to withhold &apos;dot&apos; from central bank&apos;s interest rate outlook</a>
+- <a href="https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html" target="_blank" rel="noopener noreferrer">Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach</a>
+- <a href="https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html" target="_blank" rel="noopener noreferrer">The new oil? Inside the effort to turn AI computing power into a tradeable commodity</a>
+- <a href="https://www.cnbc.com/2026/06/16/stocks-making-the-biggest-moves-premarket-spcx-hood-hun.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: SpaceX, Robinhood, Huntsman &amp; more</a>
 - <a href="https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html" target="_blank" rel="noopener noreferrer">People in China are watching the World Cup differently this time</a>
 - <a href="https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html" target="_blank" rel="noopener noreferrer">CFTC chair Selig defends decision to approve ‘perps’ in U.S.</a>
 - <a href="https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html" target="_blank" rel="noopener noreferrer">SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision</a>
-- <a href="https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-midday-spcx-roku-trip-race-more.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves midday: SpaceX, Roku, Tripadvisor, Ferrari &amp; more</a>
-- <a href="https://www.cnbc.com/2026/06/15/kalshi-traders-say-spacex-wont-get-to-mars-this-decade.html" target="_blank" rel="noopener noreferrer">SpaceX doesn&apos;t have a timeline for its human missions to Mars. Kalshi traders say don&apos;t expect it this decade</a>
-- <a href="https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html" target="_blank" rel="noopener noreferrer">Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion</a>
-- <a href="https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-premarket-spcx-ual-foxa.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: SpaceX, United Airlines, Roku &amp; more</a>
-- <a href="https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html" target="_blank" rel="noopener noreferrer">Charlie Javice reportedly seeking a pardon from Trump</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -106,26 +112,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/06/15/us/politics/kratom-trump-administration.html" target="_blank" rel="noopener noreferrer">How Kratom, an Addictive Gas Station Drug, Found Allies in Trump’s Cabinet</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/spacex-ipo-trickle-down-bastrop.html" target="_blank" rel="noopener noreferrer">Will SpaceX Fortunes Trickle Down to This Texas Town?</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html" target="_blank" rel="noopener noreferrer">Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/spacex-stock.html" target="_blank" rel="noopener noreferrer">SpaceX’s Stock Surges on First Full Day of Trading</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html" target="_blank" rel="noopener noreferrer">Fox to Acquire Roku, Joining the Battle for the Living Room</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html" target="_blank" rel="noopener noreferrer">Global Markets Rally on Iran Peace Hopes</a>
-- <a href="https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html" target="_blank" rel="noopener noreferrer">Cautious of U.S.-Iran Deal, Shipping Firms Await Strait to Reopen</a>
-- <a href="https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html" target="_blank" rel="noopener noreferrer">What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond</a>
+- <a href="https://www.nytimes.com/2026/06/16/business/chinese-investors-restrictions.html" target="_blank" rel="noopener noreferrer">Beijing’s New Message to Its Citizens: Your Money Belongs at Home</a>
+- <a href="https://www.nytimes.com/2026/06/16/business/spacex-market-value-ranking.html" target="_blank" rel="noopener noreferrer">SpaceX Is More Valuable Than Meta, Broadcom and Many Others</a>
+- <a href="https://www.nytimes.com/2026/06/16/nyregion/amy-griffin-the-tell-book-lawsuit.html" target="_blank" rel="noopener noreferrer">Best-Selling Memoirist Sues Classmate Who Said She Used Her Story</a>
+- <a href="https://www.nytimes.com/2026/06/16/business/pizza-hut-yum-brands-sold.html" target="_blank" rel="noopener noreferrer">Pizza Hut Sold to Two Firms for $2.7 Billion</a>
+- <a href="https://www.nytimes.com/2026/06/16/business/fertilizer-farming-iran.html" target="_blank" rel="noopener noreferrer">War Hangs Over American Farmers as Fertilizer Prices Rise</a>
+- <a href="https://www.nytimes.com/2026/06/16/travel/literary-book-travel-trend.html" target="_blank" rel="noopener noreferrer">Call It a ‘Book-cation’ or a ‘Readaway,’ Literary Travel Is Having a Moment</a>
+- <a href="https://www.nytimes.com/2026/06/16/upshot/parenting-working-balance-survey.html" target="_blank" rel="noopener noreferrer">Working Parents Say They’re in a Losing Battle Over Their Time</a>
+- <a href="https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html" target="_blank" rel="noopener noreferrer">European Union Lawmakers Approve Much-Delayed Trade Deal With U.S.</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/insider-trading-news/cavco-industries-evp-cfo-aden-allison-sells-724800-in-stock-93CH-4743670" target="_blank" rel="noopener noreferrer">Cavco Industries EVP, CFO Aden Allison sells $724,800 in stock</a>
-- <a href="https://www.investing.com/news/filings/form-4-par-technology-corp-for-15-june-93CH-4743669" target="_blank" rel="noopener noreferrer">Form 4 PAR Technology Corp For: 15 June</a>
-- <a href="https://www.investing.com/news/insider-trading-news/voss-capital-increases-par-technology-stake-buys-506m-stock-93CH-4743668" target="_blank" rel="noopener noreferrer">Voss Capital increases PAR Technology stake, buys $5.06m stock</a>
-- <a href="https://www.investing.com/news/filings/form-4-lenz-therapeutics-inc-for-15-june-93CH-4743667" target="_blank" rel="noopener noreferrer">Form 4 LENZ Therapeutics Inc For: 15 June</a>
-- <a href="https://www.investing.com/news/insider-trading-news/navan-director-arif-janmohamed-sells-408m-in-company-stock-93CH-4743665" target="_blank" rel="noopener noreferrer">Navan director Arif Janmohamed sells $40.8m in company stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/lightspeed-opportunity-fund-sells-408m-in-navan-navn-stock-93CH-4743664" target="_blank" rel="noopener noreferrer">Lightspeed opportunity fund sells $40.8m in Navan (NAVN) stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-over-940k-in-company-stock-93CH-4743663" target="_blank" rel="noopener noreferrer">Crowdstrike CEO George Kurtz sells over $940k in company stock</a>
-- <a href="https://www.investing.com/news/stock-market-news/gm-in-talks-to-supply-weapons-parts-to-lockheed-martin-wsj-4743662" target="_blank" rel="noopener noreferrer">GM in talks to supply weapons parts to Lockheed Martin- WSJ</a>
+- <a href="https://www.investing.com/news/filings/form-13da-m3brigade-acquisition-v-corp-for-16-june-93CH-4746282" target="_blank" rel="noopener noreferrer">Form 13D/A M3-Brigade Acquisition V Corp. For: 16 June</a>
+- <a href="https://www.investing.com/news/filings/form-13da-open-lending-corporation-for-16-june-93CH-4746281" target="_blank" rel="noopener noreferrer">Form 13D/A OPEN LENDING CORPORATION For: 16 June</a>
+- <a href="https://www.investing.com/news/insider-trading-news/cigna-chief-accounting-officer-jamie-kates-sells-268k-in-shares-93CH-4746278" target="_blank" rel="noopener noreferrer">Cigna chief accounting officer Jamie Kates sells $268k in shares</a>
+- <a href="https://www.investing.com/news/insider-trading-news/evergy-evp-charles-caisley-sells-900235-in-shares-93CH-4746277" target="_blank" rel="noopener noreferrer">Evergy EVP Charles Caisley sells $900,235 in shares</a>
+- <a href="https://www.investing.com/news/filings/form-4-axcelis-technologies-inc-for-16-june-93CH-4746276" target="_blank" rel="noopener noreferrer">Form 4 Axcelis Technologies Inc For: 16 June</a>
+- <a href="https://www.investing.com/news/world-news/us-military-says-one-killed-two-survive-in-its-strike-on-vessel-in-eastern-pacific-4746275" target="_blank" rel="noopener noreferrer">US military says one killed, two survive in its strike on vessel in Eastern Pacific</a>
+- <a href="https://www.investing.com/news/filings/form-4-bankunited-inc-for-16-june-93CH-4746274" target="_blank" rel="noopener noreferrer">Form 4 BankUnited Inc For: 16 June</a>
+- <a href="https://www.investing.com/news/filings/form-4-innodata-inc-for-16-june-93CH-4746273" target="_blank" rel="noopener noreferrer">Form 4 Innodata Inc For: 16 June</a>
 
 
 
