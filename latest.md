@@ -1,34 +1,8 @@
-# 金融日报 - 2026-06-18
+# 金融日报 - 2026-06-19
 
-> 生成时间：2026/6/18 09:02:21
-> 数据源：RSS 5 | 浏览器 3
+> 生成时间：2026/6/19 09:05:26
+> 数据源：RSS 5 | 浏览器 2
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
-
----
-
-## 📊 AI 简报
-
-**市场概览**：隔夜全球市场围绕“美联储按兵不动但偏鹰”与中东局势反复两条主线展开。美股与美债同步承压，市场对年内再次加息的定价明显升温，成长股内部出现分化，芯片与部分AI链条相对抗跌。原油与霍尔木兹海峡运输风险仍是大宗商品核心变量，黄金短线受政策预期与避险情绪拉扯。中国方面，陆家嘴论坛释放跨境流动性、FDI/QDII、数字人民币和期货市场改革等信号，港股融资活跃度与科创融资预期继续改善。
-
-**热点聚焦**：
-- 美联储维持利率不变，但声明与点阵倾向偏鹰，10月前加息预期升温，压制美股估值并推高长端收益率。
-- 美伊协议文本披露与霍尔木兹航运收费争议交织，未来1-2周油价、运费与通胀预期可能反复冲击市场。
-- 中国央行推出境外央行类机构回购工具、收窄短端利率走廊，显示稳汇率与稳离岸人民币流动性的政策意图增强。
-- 监管层释放支持大模型企业、未来产业IPO及人民币外汇期货试点等信号，利好券商、交易所、金融IT与优质科技成长。
-- 港股IPO募资排名靠前、跨境资本政策边际改善，有助于提升中资金融与新经济资产风险偏好。
-
-**投资建议**：
-- 宏观策略：维持“中性偏防御+结构性进攻”，降低对美股高久期资产的追涨，组合中保留黄金、能源与高等级短久期债券对冲。
-- 板块机会：关注A股/港股受益于资本市场改革的券商、交易所、金融科技，以及政策支持更明确的AI基础设施、算力和优质科创平台。
-- 具体资产：A股可跟踪沪深交易所金融基础设施、期货链与数字人民币场景；港股关注交易平台、头部互联网与IPO受益标的；美股谨慎看待高估值成长，优先现金流稳健的芯片龙头；商品端继续关注原油、黄金的事件驱动机会。
-
-**风险预警**：
-- 地缘政治：未来1-2周重点盯住中东停火执行、霍尔木兹海峡通行与油运费率，若扰动升级，原油和航运波动将迅速放大。
-- 政策/监管：美联储若继续释放鹰派信号，9-10月全球风险资产或面临再定价；中国跨境资本与科技上市规则落地节奏也可能引发板块分化。
-- 市场波动：美债收益率上行叠加油价波动，易触发成长股估值回撤，建议控制仓位和止损。
-- 流动性/信用：若美元偏强与离岸人民币波动加剧，港股与中资美元债短线可能承压，关注信用利差变化。
-
-**数据要点**：未来24-48小时重点关注英国央行利率决议、美国后续联储官员表态、油价与霍尔木兹航运动态，以及陆家嘴论坛后续政策落地与中国跨境流动性工具的市场反馈。
 
 ---
 
@@ -36,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://www.nytimes.com/2026/06/17/business/maersk-strait-hormuz-shipping-fees-iran-war.html" target="_blank" rel="noopener noreferrer">马士基CEO警告：若允许伊朗在霍尔木兹海峡收费，将开危险先例</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">特朗普伊朗协议前景未明，美联储维持利率不变</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://wallstreetcn.com/articles/3774931" target="_blank" rel="noopener noreferrer">特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774887" target="_blank" rel="noopener noreferrer">美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774952" target="_blank" rel="noopener noreferrer">为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3774963" target="_blank" rel="noopener noreferrer">霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3775045" target="_blank" rel="noopener noreferrer">伊朗战争相关预测市场异常交易累计4500万美元！有注册2小时账户逾百万美元精准押注</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3775058" target="_blank" rel="noopener noreferrer">伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3775052" target="_blank" rel="noopener noreferrer">伊朗最高领袖：面对面谈判不意味着接受“敌方”意志</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.investing.com/news/commodities-news/analysisusiran-deal-redraws-the-middle-east-iran-gains-rivals-alarmed-4750434" target="_blank" rel="noopener noreferrer">Analysis-US-Iran deal redraws the Middle East: Iran gains, rivals alarmed</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://finance.caixin.com/2026-06-17/102454983.html" target="_blank" rel="noopener noreferrer">央行创设境外央行类机构回购工具 优化离岸人民币流动性管理</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://finance.caixin.com/2026-06-17/102454997.html" target="_blank" rel="noopener noreferrer">央行完善短端利率调控 临时隔夜回购利率走廊收窄至50BP</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://finance.caixin.com/2026-06-17/102454987.html" target="_blank" rel="noopener noreferrer">央行：稳步促进数字人民币在离岸业务中的应用和场景拓展</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3774959" target="_blank" rel="noopener noreferrer">“明修栈道暗度陈仓”？设五大工作组，沃什开启美联储新时代</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3774941" target="_blank" rel="noopener noreferrer">完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-06-18/102455357.html" target="_blank" rel="noopener noreferrer">央行研究设立特定情景非银流动性支持工具 如何发挥作用？</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3775053" target="_blank" rel="noopener noreferrer">美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html" target="_blank" rel="noopener noreferrer">Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html" target="_blank" rel="noopener noreferrer">Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://wallstreetcn.com/articles/3775056" target="_blank" rel="noopener noreferrer">OPEC驳斥IEA供应过剩预测，认为石油需求将持续增长</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 
 ---
@@ -58,48 +32,30 @@
 ### 财新
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
-- <a href="https://finance.caixin.com/2026-06-17/102455076.html" target="_blank" rel="noopener noreferrer">潘功胜阐述中国金融结构变迁 贷款“降速提质”或成新常态</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455578.html" target="_blank" rel="noopener noreferrer">香港拟8月初推出离岸国债期货 产品详情适时公布</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455605.html" target="_blank" rel="noopener noreferrer">一年收益率达到470% 金梓才批量制造“翻倍基”</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455600.html" target="_blank" rel="noopener noreferrer">首批商业不动产REITs上市 二级市场表现分化</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455483.html" target="_blank" rel="noopener noreferrer">金监总局：加强人身险公司精算假设管理</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455357.html" target="_blank" rel="noopener noreferrer">央行研究设立特定情景非银流动性支持工具 如何发挥作用？</a>
+- <a href="https://finance.caixin.com/2026-06-17/102455005.html" target="_blank" rel="noopener noreferrer">银行间市场数据报告库正式挂牌 提升对金融市场的穿透监测能力</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455335.html" target="_blank" rel="noopener noreferrer">光大报告：中国居民境外资产配置提速 从“集中港美”转向全球布局</a>
 - <a href="https://finance.caixin.com/2026-06-18/102455238.html" target="_blank" rel="noopener noreferrer">做空中概股成名的香橼研究创始人获罪 刑期最高265年</a>
 - <a href="https://finance.caixin.com/2026-06-18/102455234.html" target="_blank" rel="noopener noreferrer">主动ETF基金产品蓄势待发 投资透明交易便利</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455183.html" target="_blank" rel="noopener noreferrer">网贷行业研究设立纾困基金、每年投入不低于15亿元 将怎么用？</a>
-- <a href="https://finance.caixin.com/2026-06-17/102454983.html" target="_blank" rel="noopener noreferrer">央行创设境外央行类机构回购工具 优化离岸人民币流动性管理</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455122.html" target="_blank" rel="noopener noreferrer">德勤：上半年港交所新股募资额全球第二</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455088.html" target="_blank" rel="noopener noreferrer">朱鹤新：全面改革FDI跨境政策 新发放QDII投资额度</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455051.html" target="_blank" rel="noopener noreferrer">证监会吴清：深化“两创板”改革 加快推进人民币外汇期货试点(含视频)</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455018.html" target="_blank" rel="noopener noreferrer">金监总局：提升跨境风险应对能力 加快推动银监法、保险法修订出台</a>
-- <a href="https://finance.caixin.com/2026-06-17/102455005.html" target="_blank" rel="noopener noreferrer">银行间市场数据报告库正式挂牌 提升对金融市场的穿透监测能力</a>
-- <a href="https://finance.caixin.com/2026-06-17/102454997.html" target="_blank" rel="noopener noreferrer">央行完善短端利率调控 临时隔夜回购利率走廊收窄至50BP</a>
-- <a href="https://finance.caixin.com/2026-06-17/102454987.html" target="_blank" rel="noopener noreferrer">央行：稳步促进数字人民币在离岸业务中的应用和场景拓展</a>
+- <a href="https://finance.caixin.com/2026-06-17/102455076.html" target="_blank" rel="noopener noreferrer">潘功胜阐述中国金融结构变迁 贷款“降速提质”或成新常态</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3774957" target="_blank" rel="noopener noreferrer">美伊各自披露协议文本，这是媒体的详细解读</a>
-- <a href="https://wallstreetcn.com/articles/3774959" target="_blank" rel="noopener noreferrer">“明修栈道暗度陈仓”？设五大工作组，沃什开启美联储新时代</a>
-- <a href="https://wallstreetcn.com/articles/3774953" target="_blank" rel="noopener noreferrer">Less is Warsh？沃什时代的FOMC声明“大幅瘦身”，是2007年以来最短！</a>
-- <a href="https://wallstreetcn.com/articles/3774955" target="_blank" rel="noopener noreferrer">如何看陆家嘴论坛期间货币政策的几项新举措</a>
-- <a href="https://wallstreetcn.com/articles/3774954" target="_blank" rel="noopener noreferrer">什么！ChatGPT也要刷脸实名认证了？</a>
-- <a href="https://wallstreetcn.com/articles/3774952" target="_blank" rel="noopener noreferrer">为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”</a>
-- <a href="https://wallstreetcn.com/articles/3774937" target="_blank" rel="noopener noreferrer">SpaceX上市日散户买盘创纪录，城堡证券：散户正推升美股反弹</a>
-- <a href="https://wallstreetcn.com/articles/3774950" target="_blank" rel="noopener noreferrer">华尔街见闻早餐FM-Radio | 2026年6月18日</a>
-- <a href="https://wallstreetcn.com/articles/3774931" target="_blank" rel="noopener noreferrer">特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线</a>
-- <a href="https://wallstreetcn.com/articles/3774887" target="_blank" rel="noopener noreferrer">美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫</a>
-- <a href="https://wallstreetcn.com/articles/3774941" target="_blank" rel="noopener noreferrer">完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图</a>
-- <a href="https://wallstreetcn.com/articles/3774947" target="_blank" rel="noopener noreferrer">苹果放风涨价，二代iPhone Air或明年春面世，iPhone发布节奏迎重大调整</a>
-
-### Reuters 中国
-> 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
-
-- <a href="https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/" target="_blank" rel="noopener noreferrer">独家：美国暂缓将DeepSeek等逾百家中国相关企业列入黑名单</a>
-- <a href="https://www.reuters.com/business/autos-transportation/hong-kong-auto-show-china-automakers-target-wealthy-right-hand-drive-markets-2026-06-17/" target="_blank" rel="noopener noreferrer">香港车展上，中国车企瞄准右舵市场高端消费者</a>
-- <a href="https://www.reuters.com/legal/transactional/ant-group-backed-dsc-targets-901-million-valuation-us-ipo-2026-06-17/" target="_blank" rel="noopener noreferrer">蚂蚁集团支持的DSC赴美IPO，估值目标9.01亿美元</a>
-- <a href="https://www.reuters.com/business/media-telecom/chinese-regulators-clear-paramount-skydance-warner-bros-discovery-merger-source-2026-06-17/" target="_blank" rel="noopener noreferrer">消息称中国监管批准派拉蒙、Skydance与华纳兄弟探索交易</a>
-- <a href="https://www.reuters.com/legal/litigation/germanys-bosch-pay-us-36-million-shipments-chinas-huawei-2026-06-17/" target="_blank" rel="noopener noreferrer">博世因向中国华为发货将向美国支付3600万美元</a>
-- <a href="https://www.reuters.com/world/china/global-markets-global-markets-2026-06-17/" target="_blank" rel="noopener noreferrer">美股下跌、债券收益率上行；美联储维持利率但预示年内或加息</a>
-- <a href="https://www.reuters.com/world/china/trump-thanks-chinas-xi-russias-putin-being-neutral-iran-war-2026-06-17/" target="_blank" rel="noopener noreferrer">特朗普感谢中俄在伊朗战争中保持“中立”</a>
-- <a href="https://www.reuters.com/world/china/china-myanmar-pledge-mutual-support-joint-statement-2026-06-17/" target="_blank" rel="noopener noreferrer">中缅联合声明承诺相互支持</a>
-- <a href="https://www.reuters.com/world/china/taiwan-says-its-delegates-have-been-barred-ocean-conference-kenya-2026-06-17/" target="_blank" rel="noopener noreferrer">台湾称其代表被排除在肯尼亚海洋会议之外</a>
-- <a href="https://www.reuters.com/legal/government/china-support-ipos-by-future-industry-startups-large-model-companies-2026-06-17/" target="_blank" rel="noopener noreferrer">中国将支持“未来产业”初创企业和大模型公司上市</a>
+- <a href="https://wallstreetcn.com/articles/3775058" target="_blank" rel="noopener noreferrer">伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题</a>
+- <a href="https://wallstreetcn.com/articles/3774963" target="_blank" rel="noopener noreferrer">霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压</a>
+- <a href="https://wallstreetcn.com/articles/3775059" target="_blank" rel="noopener noreferrer">华尔街见闻早餐FM-Radio | 2026年6月19日</a>
+- <a href="https://wallstreetcn.com/articles/3775061" target="_blank" rel="noopener noreferrer">美财政部：4月海外买入美证券1030亿美元、美债持仓增39亿美元，中国持债又创2008年来新低</a>
+- <a href="https://wallstreetcn.com/articles/3775056" target="_blank" rel="noopener noreferrer">OPEC驳斥IEA供应过剩预测，认为石油需求将持续增长</a>
+- <a href="https://wallstreetcn.com/articles/3775055" target="_blank" rel="noopener noreferrer">报道：Meta与Crusoe签署AI算力协议，锁定约1.6吉瓦数据中心容量</a>
+- <a href="https://wallstreetcn.com/articles/3775053" target="_blank" rel="noopener noreferrer">美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金</a>
+- <a href="https://wallstreetcn.com/articles/3775045" target="_blank" rel="noopener noreferrer">伊朗战争相关预测市场异常交易累计4500万美元！有注册2小时账户逾百万美元精准押注</a>
+- <a href="https://wallstreetcn.com/articles/3775052" target="_blank" rel="noopener noreferrer">伊朗最高领袖：面对面谈判不意味着接受“敌方”意志</a>
+- <a href="https://wallstreetcn.com/articles/3775050" target="_blank" rel="noopener noreferrer">SpaceX一度跌超10%，IPO当日散户需求推动嘉信理财跻身前五大最繁忙交易日</a>
 
 
 
@@ -108,62 +64,62 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
-- <a href="https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">英国央行料维持利率不变</a>
-- <a href="https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">驾考候考时间目标或要到明年秋季才能达成</a>
-- <a href="https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">特朗普伊朗协议前景未明，美联储维持利率不变</a>
-- <a href="https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">食品涨价放缓，通胀意外持稳</a>
-- <a href="https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">亿滋为继续留在俄罗斯辩护</a>
-- <a href="https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">“我们只能让路”：配送机器人遭遇反弹</a>
-- <a href="https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">日本突查冰淇淋巨头涉价格垄断</a>
-- <a href="https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">“前所未有的尝试”：走进Lidl首家酒吧</a>
+- <a href="https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Brexit cost 6% of UK economy, Bank of England company data suggests</a>
+- <a href="https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'He hid the a la carte menu': Who should pay on the first date</a>
+- <a href="https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Five ways the Iran peace deal could affect you and your money</a>
+- <a href="https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Heathrow's 'critical' expansion blueprint released</a>
+- <a href="https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Interest rates held as Bank warns of impact of high energy prices</a>
+- <a href="https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The artificial ice pyramids saving India's mountain villages</a>
+- <a href="https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'Do not travel' advice for Dubai dropped</a>
+- <a href="https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Number of job vacancies hits five year-low</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
-- <a href="https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html" target="_blank" rel="noopener noreferrer">冈拉克：沃什不会成为市场期待的“宽松派”美联储主席</a>
-- <a href="https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html" target="_blank" rel="noopener noreferrer">沃什未给出利率预测，多名官员暗示2026年或加息</a>
-- <a href="https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html" target="_blank" rel="noopener noreferrer">沃什大幅改写美联储声明，关键信号生变</a>
-- <a href="https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" target="_blank" rel="noopener noreferrer">美联储按兵不动，缩减声明并淡化降息倾向</a>
-- <a href="https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html" target="_blank" rel="noopener noreferrer">午盘异动股：SpaceX、摩根大通、UniQure、英特尔、Figma、Nano Nuclear 等</a>
-- <a href="https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html" target="_blank" rel="noopener noreferrer">Kalshi交易员：沃什首秀显示美联储内部更趋一致</a>
-- <a href="https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html" target="_blank" rel="noopener noreferrer">芝商所特里·达菲将于2027年卸任，CFO林恩·菲茨帕特里克接任CEO</a>
-- <a href="https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-premarket-kmx-asts-lion.html" target="_blank" rel="noopener noreferrer">盘前异动股：CarMax、AST SpaceMobile、狮门影业等</a>
+- <a href="https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html" target="_blank" rel="noopener noreferrer">The average SpaceX buyer post-IPO is almost under water after two-day slide</a>
+- <a href="https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html" target="_blank" rel="noopener noreferrer">Markets are set for a much more hawkish Warsh Fed than expected</a>
+- <a href="https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival &amp; more</a>
+- <a href="https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html" target="_blank" rel="noopener noreferrer">Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for</a>
+- <a href="https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html" target="_blank" rel="noopener noreferrer">Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026</a>
+- <a href="https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html" target="_blank" rel="noopener noreferrer">Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed</a>
+- <a href="https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" target="_blank" rel="noopener noreferrer">Fed holds rates steady, pares down statement to remove cutting bias</a>
+- <a href="https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves midday: SpaceX, JPMorgan, UniQure, Intel, Figma, Nano Nuclear &amp; more</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
 
-- <a href="https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">DeepSeek冲击引发AI板块普跌</a>
-- <a href="https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">COMEX黄金白银双双收低</a>
-- <a href="https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">DeepSeek难撼美国AI巨头地位</a>
-- <a href="https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">金融服务市场谈</a>
-- <a href="https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">美哥关税争端推高阿拉比卡咖啡至纪录高位</a>
-- <a href="https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">DeepSeek消息推升避险需求，瑞郎与日元走强</a>
-- <a href="https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">天气预期变化拖累天然气下跌</a>
-- <a href="https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">建材分销商QXO对Beacon发起敌意收购</a>
+- <a href="https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Stocks Sink in Broad AI Rout Sparked by China's DeepSeek</a>
+- <a href="https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Comex Gold, Silver Settle Lower</a>
+- <a href="https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">DeepSeek Won't Sink U.S. AI Titans</a>
+- <a href="https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Financial Services Roundup: Market Talk</a>
+- <a href="https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat</a>
+- <a href="https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens</a>
+- <a href="https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Natural Gas Falls on Shifting Weather Forecasts</a>
+- <a href="https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main" target="_blank" rel="noopener noreferrer">Building-Products Distributor QXO Launches Hostile Bid for Beacon</a>
 
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/06/17/business/economy/warsh-fed-chairman-first-press-conference.html" target="_blank" rel="noopener noreferrer">沃什以密集术语和细节阐述其政策主张</a>
-- <a href="https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/fed-holds-rates-steady-at-warshs-first-meeting" target="_blank" rel="noopener noreferrer">沃什首次主持会议，美联储维持利率不变</a>
-- <a href="https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/takeaways-from-kevin-warshs-first-meeting-as-fed-chairman" target="_blank" rel="noopener noreferrer">沃什首场美联储会议的几大看点</a>
-- <a href="https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html" target="_blank" rel="noopener noreferrer">看沃什时代首份美联储声明如何变化</a>
-- <a href="https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html" target="_blank" rel="noopener noreferrer">马斯克下一步或推动SpaceX与特斯拉超级合并</a>
-- <a href="https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/how-to-read-the-feds-projections-like-a-pro" target="_blank" rel="noopener noreferrer">如何读懂美联储预测路径</a>
-- <a href="https://www.nytimes.com/2026/06/17/business/economy/fed-chair-meeting-warsh-trump.html" target="_blank" rel="noopener noreferrer">沃什首次以主席身份开会，政治聚光灯随之而来</a>
-- <a href="https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/who-is-kevin-warsh-the-feds-new-chairman" target="_blank" rel="noopener noreferrer">美联储新主席凯文·沃什是谁？</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/media/notus-washington-star-lawsuit.html" target="_blank" rel="noopener noreferrer">The Washington Outlet NOTUS Won’t Be ‘The Star’ After All</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/college-graduate-living-with-parents.html" target="_blank" rel="noopener noreferrer">Are You a Recent College Graduate Who Moved Back Home? We Want to Hear From You.</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html" target="_blank" rel="noopener noreferrer">Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/media/penske-vox-media.html" target="_blank" rel="noopener noreferrer">Penske Media Is Buying What’s Left of Vox Media</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/student-loans-interest-rate.html" target="_blank" rel="noopener noreferrer">Education Department Lowers Student Loan Interest Rates for Two Years</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html" target="_blank" rel="noopener noreferrer">Warsh Wants the Fed to Send Fewer Signals. That Comes With Risks.</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html" target="_blank" rel="noopener noreferrer">Warsh’s Hawkish Turn Has Scrambled the Math on Rates</a>
+- <a href="https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html" target="_blank" rel="noopener noreferrer">Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-129m-in-company-stock-93CH-4748824" target="_blank" rel="noopener noreferrer">CrowdStrike首席执行官出售129万美元公司股票</a>
-- <a href="https://www.investing.com/news/insider-trading-news/aeva-technologies-ceo-soroush-salehian-dardashti-sells-676m-in-stock-93CH-4748823" target="_blank" rel="noopener noreferrer">Aeva Technologies首席执行官出售676万美元股票</a>
-- <a href="https://www.investing.com/news/insider-trading-news/aeva-technologies-cto-mina-rezk-sells-86m-in-company-shares-93CH-4748822" target="_blank" rel="noopener noreferrer">Aeva Technologies首席技术官出售860万美元公司股票</a>
-- <a href="https://www.investing.com/news/company-news/kardigan-prices-ipo-at-16-per-share-raising-400-million-93CH-4748821" target="_blank" rel="noopener noreferrer">Kardigan IPO定价每股16美元，募资4亿美元</a>
-- <a href="https://www.investing.com/news/world-news/russia-attacks-kyiv-with-missiles-as-zelenskiy-speaks-to-trump-europe-for-a-peace-deal-4748804" target="_blank" rel="noopener noreferrer">泽连斯基与特朗普及欧洲磋商和平之际，俄罗斯导弹袭击基辅</a>
-- <a href="https://www.investing.com/news/filings/form-4-mirum-pharmaceuticals-inc-for-17-june-93CH-4748820" target="_blank" rel="noopener noreferrer">Mirum Pharmaceuticals 6月17日Form 4文件</a>
-- <a href="https://www.investing.com/news/filings/form-4-stablecoin-development-corp-for-17-june-93CH-4748819" target="_blank" rel="noopener noreferrer">Stablecoin Development Corp 6月17日Form 4文件</a>
-- <a href="https://www.investing.com/news/stock-market-news/chinese-regulators-clear-paramount-skydancewarner-bros-discovery-merger-source-says-4748541" target="_blank" rel="noopener noreferrer">消息称中国监管批准派拉蒙、Skydance与华纳兄弟探索交易</a>
+- <a href="https://www.investing.com/news/economy-news/yen-nears-weakest-in-40-years-as-boj-hike-fails-to-stem-rout-4751237" target="_blank" rel="noopener noreferrer">Yen nears weakest in 40 years as BOJ hike fails to stem rout</a>
+- <a href="https://www.investing.com/news/commodities-news/analysisusiran-deal-redraws-the-middle-east-iran-gains-rivals-alarmed-4750434" target="_blank" rel="noopener noreferrer">Analysis-US-Iran deal redraws the Middle East: Iran gains, rivals alarmed</a>
+- <a href="https://www.investing.com/news/economy-news/boj-to-continue-raising-rates-with-eye-on-inflation-risk-deputy-governor-says-4751216" target="_blank" rel="noopener noreferrer">BOJ deputy governor Himino signals resolve to keep raising rates</a>
+- <a href="https://www.investing.com/news/sec-filings/goodrx-holdings-elects-directors-and-ratifies-auditor-at-annual-meeting-93CH-4751236" target="_blank" rel="noopener noreferrer">GoodRx Holdings elects directors and ratifies auditor at annual meeting</a>
+- <a href="https://www.investing.com/news/sec-filings/advanced-flower-capital-reports-repurchase-of-719780-shares-under-buyback-program-93CH-4751235" target="_blank" rel="noopener noreferrer">Advanced Flower Capital reports repurchase of 719,780 shares under buyback program</a>
+- <a href="https://www.investing.com/news/filings/form-4-vornado-realty-trust-for-18-june-93CH-4751234" target="_blank" rel="noopener noreferrer">Form 4 Vornado Realty Trust For: 18 June</a>
+- <a href="https://www.investing.com/news/sec-filings/keurig-dr-pepper-shareholders-approve-directors-and-key-proposals-at-annual-meeting-93CH-4751233" target="_blank" rel="noopener noreferrer">Keurig Dr Pepper shareholders approve directors and key proposals at annual meeting</a>
+- <a href="https://www.investing.com/news/insider-trading-news/blackstonelinked-entities-sell-282m-of-bumble-inc-stock-93CH-4751232" target="_blank" rel="noopener noreferrer">Blackstone-linked entities sell $28.2m of Bumble Inc. stock</a>
 
 
 
