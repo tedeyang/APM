@@ -1,6 +1,6 @@
-# 金融日报 - 2026-06-21
+# 金融日报 - 2026-06-22
 
-> 生成时间：2026/6/21 09:02:35
+> 生成时间：2026/6/22 09:01:43
 > 数据源：RSS 5 | 浏览器 2
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://wallstreetcn.com/articles/3775118" target="_blank" rel="noopener noreferrer">美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html" target="_blank" rel="noopener noreferrer">Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
-- <a href="https://www.investing.com/news/world-news/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland-4751638" target="_blank" rel="noopener noreferrer">US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
-- <a href="https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html" target="_blank" rel="noopener noreferrer">Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://finance.caixin.com/2026-06-18/102455357.html" target="_blank" rel="noopener noreferrer">央行研究设立特定情景非银流动性支持工具 如何发挥作用？</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html" target="_blank" rel="noopener noreferrer">U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687" target="_blank" rel="noopener noreferrer">Oil rises after Iran shuts Hormuz again, Trump threatens new attacks</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
+- <a href="https://www.investing.com/news/commodities-news/oil-rises-as-trump-threatens-new-attacks-on-iran-hormuz-closed-again-4751696" target="_blank" rel="noopener noreferrer">Oil rises as Trump threatens new attacks on Iran; Hormuz closed again</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
+- <a href="https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698" target="_blank" rel="noopener noreferrer">US-Iran talks go into Day 2 after Trump threats, Hormuz closure</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
+- <a href="https://wallstreetcn.com/articles/3775145" target="_blank" rel="noopener noreferrer">美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://wallstreetcn.com/member/articles/3775054" target="_blank" rel="noopener noreferrer">债市和美联储预期分化了？市场不怕通胀了！</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html" target="_blank" rel="noopener noreferrer">Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
-- <a href="https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html" target="_blank" rel="noopener noreferrer">Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
-- <a href="https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Five ways the Iran peace deal could affect you and your money</a>（来源：<a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>）
-- <a href="https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html" target="_blank" rel="noopener noreferrer">Amazon’s Movie Arm Abandons Film About OpenAI</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
+- <a href="https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html" target="_blank" rel="noopener noreferrer">Oil Rises Amid Uncertainty Over Strait of Hormuz</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
+- <a href="https://wallstreetcn.com/articles/3775149" target="_blank" rel="noopener noreferrer">申万宏源：联储和伊朗风险降级，市场回到“科技惯性”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3775142" target="_blank" rel="noopener noreferrer">“空头”美银Hartnett：美股牛市的命运取决于“中选和伊朗”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-06-18/102455357.html" target="_blank" rel="noopener noreferrer">央行研究设立特定情景非银流动性支持工具 如何发挥作用？</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3775144" target="_blank" rel="noopener noreferrer">距离美国“250周年国庆”还有两周，特朗普如何给市场放烟花？</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 
 ---
@@ -33,27 +33,29 @@
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
 - <a href="https://finance.caixin.com/2026-06-18/102455578.html" target="_blank" rel="noopener noreferrer">香港拟8月初推出离岸国债期货 产品详情适时公布</a>
-- <a href="https://finance.caixin.com/2026-06-18/102455261.html" target="_blank" rel="noopener noreferrer">今日开盘：两市双双低开 沪指跌幅0.34%</a>
-- <a href="https://finance.caixin.com/2026-06-17/102454891.html" target="_blank" rel="noopener noreferrer">今日开盘：两市双双低开 沪指跌幅0.43%</a>
 - <a href="https://finance.caixin.com/2026-06-19/102455677.html" target="_blank" rel="noopener noreferrer">今年以来新发行熊猫债规模达2025年的80% 全年有望创新高</a>
-- <a href="https://finance.caixin.com/2026-06-16/102454515.html" target="_blank" rel="noopener noreferrer">今日开盘：小幅低开 沪指跌幅0.06%</a>
 - <a href="https://finance.caixin.com/2026-06-18/102455605.html" target="_blank" rel="noopener noreferrer">一年收益率达到470% 金梓才批量制造“翻倍基”</a>
 - <a href="https://finance.caixin.com/2026-06-18/102455600.html" target="_blank" rel="noopener noreferrer">首批商业不动产REITs上市 二级市场表现分化</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455483.html" target="_blank" rel="noopener noreferrer">金监总局：加强人身险公司精算假设管理</a>
 - <a href="https://finance.caixin.com/2026-06-18/102455357.html" target="_blank" rel="noopener noreferrer">央行研究设立特定情景非银流动性支持工具 如何发挥作用？</a>
+- <a href="https://finance.caixin.com/2026-06-17/102455005.html" target="_blank" rel="noopener noreferrer">银行间市场数据报告库正式挂牌 提升对金融市场的穿透监测能力</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455335.html" target="_blank" rel="noopener noreferrer">光大报告：中国居民境外资产配置提速 从“集中港美”转向全球布局</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455238.html" target="_blank" rel="noopener noreferrer">做空中概股成名的香橼研究创始人获罪 刑期最高265年</a>
+- <a href="https://finance.caixin.com/2026-06-18/102455234.html" target="_blank" rel="noopener noreferrer">主动ETF基金产品蓄势待发 投资透明交易便利</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3775118" target="_blank" rel="noopener noreferrer">美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡</a>
-- <a href="https://wallstreetcn.com/articles/3774897" target="_blank" rel="noopener noreferrer">下半年资产配置机会在哪里？听徐小庆、刘晨明展望2026下半年大类资产与A股策略如何布局！</a>
-- <a href="https://wallstreetcn.com/articles/3775114" target="_blank" rel="noopener noreferrer">AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”</a>
-- <a href="https://wallstreetcn.com/member/articles/3775054" target="_blank" rel="noopener noreferrer">债市和美联储预期分化了？市场不怕通胀了！</a>
-- <a href="https://wallstreetcn.com/articles/3775113" target="_blank" rel="noopener noreferrer">“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀</a>
-- <a href="https://wallstreetcn.com/member/articles/3774876" target="_blank" rel="noopener noreferrer">AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁</a>
-- <a href="https://wallstreetcn.com/articles/3775111" target="_blank" rel="noopener noreferrer">相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI</a>
-- <a href="https://wallstreetcn.com/articles/3775110" target="_blank" rel="noopener noreferrer">德银“向沃什投降”：今年将加息50基点，甚至可能在7月提前加息</a>
-- <a href="https://wallstreetcn.com/articles/3775108" target="_blank" rel="noopener noreferrer">鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元</a>
-- <a href="https://wallstreetcn.com/articles/3775107" target="_blank" rel="noopener noreferrer">1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股</a>
+- <a href="https://wallstreetcn.com/member/articles/3774983" target="_blank" rel="noopener noreferrer">锂电添加剂VC：淡季不淡仅是序章，Q3量价齐升或为高潮</a>
+- <a href="https://wallstreetcn.com/articles/3775149" target="_blank" rel="noopener noreferrer">申万宏源：联储和伊朗风险降级，市场回到“科技惯性”</a>
+- <a href="https://wallstreetcn.com/articles/3775146" target="_blank" rel="noopener noreferrer">特朗普发帖“预告”，英媒称斯塔默着手制定下台时间表，或周一发表声明</a>
+- <a href="https://wallstreetcn.com/articles/3775145" target="_blank" rel="noopener noreferrer">美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”</a>
+- <a href="https://wallstreetcn.com/articles/3775140" target="_blank" rel="noopener noreferrer">富士智能迎北交所上会：数码相机业务翻倍，控制权补丁待考</a>
+- <a href="https://wallstreetcn.com/articles/3775142" target="_blank" rel="noopener noreferrer">“空头”美银Hartnett：美股牛市的命运取决于“中选和伊朗”</a>
+- <a href="https://wallstreetcn.com/member/articles/3775137" target="_blank" rel="noopener noreferrer">K 型分化加剧：科技红利狂飙，消费红利何时到来？</a>
+- <a href="https://wallstreetcn.com/articles/3775144" target="_blank" rel="noopener noreferrer">距离美国“250周年国庆”还有两周，特朗普如何给市场放烟花？</a>
+- <a href="https://wallstreetcn.com/articles/3775143" target="_blank" rel="noopener noreferrer">华尔街警告沃什：减少前瞻指引=增加波动溢价=加息？</a>
+- <a href="https://wallstreetcn.com/articles/3775109" target="_blank" rel="noopener noreferrer">华尔街见闻早餐FM-Radio | 2026年6月22日</a>
 
 
 
@@ -62,26 +64,26 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
+- <a href="https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Fake romance to missed deliveries: How to protect yourself from three common scams</a>
 - <a href="https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Plans to end gazumping with binding agreements in house sales shake-up</a>
 - <a href="https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">O'Leary extends Ryanair contract in deal that could net him over £130m</a>
 - <a href="https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Warning over 'fragile' public finances as borrowing rises</a>
 - <a href="https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'I'd be put off if he asked to split it': Who should pay on a first date?</a>
+- <a href="https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Is Germany looking again at coal-powered electricity?</a>
 - <a href="https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Brexit cost 6% of UK economy, Bank of England company data suggests</a>
-- <a href="https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The artificial ice pyramids saving India's mountain villages</a>
 - <a href="https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Five ways the Iran peace deal could affect you and your money</a>
-- <a href="https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Interest rates held as Bank warns of impact of high energy prices</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
-- <a href="https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html" target="_blank" rel="noopener noreferrer">Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks</a>
+- <a href="https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html" target="_blank" rel="noopener noreferrer">&apos;Regime change but in a velvet glove&apos;: How Kevin Warsh has set out to remake the Fed</a>
+- <a href="https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html" target="_blank" rel="noopener noreferrer">U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz</a>
 - <a href="https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html" target="_blank" rel="noopener noreferrer">Bitcoin&apos;s future as revolutionary as the smartphone, according to CoinDesk</a>
 - <a href="https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html" target="_blank" rel="noopener noreferrer">The riskiest SpaceX stock trade of all had a big first week</a>
 - <a href="https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html" target="_blank" rel="noopener noreferrer">The average SpaceX buyer post-IPO is almost under water after two-day slide</a>
 - <a href="https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html" target="_blank" rel="noopener noreferrer">Markets are set for a much more hawkish Warsh Fed than expected</a>
 - <a href="https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival &amp; more</a>
 - <a href="https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html" target="_blank" rel="noopener noreferrer">Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for</a>
-- <a href="https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html" target="_blank" rel="noopener noreferrer">Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -98,26 +100,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html" target="_blank" rel="noopener noreferrer">Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound</a>
-- <a href="https://www.nytimes.com/2026/06/20/business/egg-prices-down.html" target="_blank" rel="noopener noreferrer">Egg Prices Are Way Down, but That’s Hurting Farmers</a>
-- <a href="https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html" target="_blank" rel="noopener noreferrer">The Giant Test Kitchen Where Cooks Battle A.I. Slop</a>
-- <a href="https://www.nytimes.com/2026/06/20/business/cottage-cheese-shortage.html" target="_blank" rel="noopener noreferrer">Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’</a>
-- <a href="https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html" target="_blank" rel="noopener noreferrer">A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court</a>
-- <a href="https://www.nytimes.com/2026/06/20/business/afeela-automakers-spinoffs-brands.html" target="_blank" rel="noopener noreferrer">For New Car Brands, the Path to Success Is Littered With Flops</a>
-- <a href="https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html" target="_blank" rel="noopener noreferrer">Amazon’s Movie Arm Abandons Film About OpenAI</a>
-- <a href="https://www.nytimes.com/2026/06/19/business/india-iran-oil-imports.html" target="_blank" rel="noopener noreferrer">For India, the Return of Iranian Oil Cannot Come Soon Enough</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html" target="_blank" rel="noopener noreferrer">Oil Rises Amid Uncertainty Over Strait of Hormuz</a>
+- <a href="https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html" target="_blank" rel="noopener noreferrer">Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html" target="_blank" rel="noopener noreferrer">‘Toy Story 5’ Fuels Hollywood’s Hottest Summer Since 2019</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/china-oil-iran.html" target="_blank" rel="noopener noreferrer">While the World Scrambles for Oil, China Sits on Full Tanks</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/when-a-job-goes-from-dreamy-to-dreary.html" target="_blank" rel="noopener noreferrer">When a Job Goes From Dreamy to Dreary</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/signal-tech-silicon-valley.html" target="_blank" rel="noopener noreferrer">Is Your Vibe ‘High-Signal’ or ‘Anti-Signal’?</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/ina-garten-podcast.html" target="_blank" rel="noopener noreferrer">Ina Garten to Start a Podcast With Vox Media</a>
+- <a href="https://www.nytimes.com/2026/06/21/business/whitman-college-tuition-pricing.html" target="_blank" rel="noopener noreferrer">The Latest in College Pricing: Tuition at 10 Percent of Your Income</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/economy-news/zelenskiy-warns-of-major-russian-attack-as-strikes-kill-at-least-six-4751639" target="_blank" rel="noopener noreferrer">Zelenskiy warns of major Russian attack as strikes kill at least six</a>
-- <a href="https://www.investing.com/news/world-news/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland-4751638" target="_blank" rel="noopener noreferrer">US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland</a>
-- <a href="https://www.investing.com/news/economy-news/thousands-protest-in-albania-over-kushnerbacked-resort-project-4751637" target="_blank" rel="noopener noreferrer">Thousands protest in Albania over Kushner-backed resort project</a>
-- <a href="https://www.investing.com/news/economy-news/what-burnhams-byelection-win-means-for-uk-stocks-4751636" target="_blank" rel="noopener noreferrer">What Burnham’s by-election win means for UK stocks?</a>
-- <a href="https://www.investing.com/news/world-news/israeli-fire-kills-five-people-in-gaza-including-a-child-medics-say-4751613" target="_blank" rel="noopener noreferrer">Israeli fire kills nine people in Gaza, including a child and journalist, medics say</a>
-- <a href="https://www.investing.com/news/world-news/report-says-uk-pm-starmer-ready-to-quit-but-source-says-he-is-still-focused-on-the-job-4751635" target="_blank" rel="noopener noreferrer">Report says UK PM Starmer ready to quit, but source says he is still focused on the job</a>
-- <a href="https://www.investing.com/news/world-news/soccerus-defends-iran-world-cup-travel-restrictions-says-discussions-ongoing-4751634" target="_blank" rel="noopener noreferrer">Soccer-U.S. defends Iran World Cup travel restrictions, says discussions ongoing</a>
-- <a href="https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4751633" target="_blank" rel="noopener noreferrer">Russia stocks lower at close of trade; MOEX Russia Index unchanged</a>
+- <a href="https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702" target="_blank" rel="noopener noreferrer">Stocks slip in Asia, oil up on peace doubts</a>
+- <a href="https://www.investing.com/news/stock-market-news/abbvieapogee-acquisition-a-solid-fit-jpmorgan-says-4751701" target="_blank" rel="noopener noreferrer">AbbVie-Apogee acquisition a ‘solid fit,’ JPMorgan says</a>
+- <a href="https://www.investing.com/news/company-news/antengene-licenses-atg106-to-k2-therapeutics-for-20m-upfront-93CH-4751700" target="_blank" rel="noopener noreferrer">Antengene licenses ATG-106 to K2 Therapeutics for $20M upfront</a>
+- <a href="https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687" target="_blank" rel="noopener noreferrer">Oil rises after Iran shuts Hormuz again, Trump threatens new attacks</a>
+- <a href="https://www.investing.com/news/stock-market-news/lime-plans-to-name-uber-as-anchor-investor-in-ipo-the-information-reports-4751690" target="_blank" rel="noopener noreferrer">Lime plans to name Uber as anchor investor in IPO, The Information reports</a>
+- <a href="https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698" target="_blank" rel="noopener noreferrer">US-Iran talks go into Day 2 after Trump threats, Hormuz closure</a>
+- <a href="https://www.investing.com/news/commodities-news/oil-rises-as-trump-threatens-new-attacks-on-iran-hormuz-closed-again-4751696" target="_blank" rel="noopener noreferrer">Oil rises as Trump threatens new attacks on Iran; Hormuz closed again</a>
+- <a href="https://www.investing.com/news/stock-market-news/china-tightens-indium-export-checks-as-ai-demand-increases-4751695" target="_blank" rel="noopener noreferrer">China tightens indium export checks as AI demand increases</a>
 
 
 
