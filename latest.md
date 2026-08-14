@@ -1,6 +1,6 @@
-# 金融日报 - 2026-08-13
+# 金融日报 - 2026-08-14
 
-> 生成时间：2026/8/13 09:01:31
+> 生成时间：2026/8/14 09:01:46
 > 数据源：RSS 5 | 浏览器 3
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://wallstreetcn.com/articles/3779328" target="_blank" rel="noopener noreferrer">特朗普宣称“已完全控制霍尔木兹”，但油轮还是不敢走</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3779323" target="_blank" rel="noopener noreferrer">CoreWeave警告：如果必须放弃英伟达芯片，将会面临困难</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3779315" target="_blank" rel="noopener noreferrer">思科上季营收创纪录，AI订单爆发，但全年AI营收预测令市场失望，盘后股价跌超4%｜财报见闻</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html" target="_blank" rel="noopener noreferrer">Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz</a>（来源：<a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>）
-- <a href="https://finance.caixin.com/2026-08-11/102473239.html" target="_blank" rel="noopener noreferrer">银行理财热衷打新 底仓波动打破稳赚神话</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3779415" target="_blank" rel="noopener noreferrer">真正的“油价危机”：全球炼油中心大面积停摆，华尔街警告“成品油完美风暴”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/member/articles/3779343" target="_blank" rel="noopener noreferrer">汇丰财富洞察：美联储减少前瞻性指引对美国利率意味着什么？|汇听环球财富</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779413" target="_blank" rel="noopener noreferrer">冲刺IPO，OpenAI年化收入已达400亿美元</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779417" target="_blank" rel="noopener noreferrer">“AI云两强”CoreWeave和Nebius业绩强劲！算力租赁价格大涨，短期合同溢价显著</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/" target="_blank" rel="noopener noreferrer">Iran war a boon for China's e-trucks, fuelling export surge</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://wallstreetcn.com/articles/3779322" target="_blank" rel="noopener noreferrer">财报点燃“AI云”，CoreWeave、Nebius双双大涨</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://finance.caixin.com/2026-08-12/102473532.html" target="_blank" rel="noopener noreferrer">央行推动短端利率调控框架 综合运用、适时调整货币政策工具</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://finance.caixin.com/2026-08-12/102473552.html" target="_blank" rel="noopener noreferrer">填补中型民企融资短板 央行解读1万亿民营再贷款的逻辑与模式</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://finance.caixin.com/2026-08-12/102473537.html" target="_blank" rel="noopener noreferrer">为什么设立？政策目的何在？央行全解银行间市场数据报告库</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3779316" target="_blank" rel="noopener noreferrer">美国10年期国债发行收益率创2007年金融危机以来最高</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://finance.caixin.com/2026-08-13/102473829.html" target="_blank" rel="noopener noreferrer">MSCI中国指数“换血” 纳入科技新贵剔除万科</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/member/articles/3779367" target="_blank" rel="noopener noreferrer">从328MW到5GW：SOFC为何突然站上AI数据中心的主电源牌桌？</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html" target="_blank" rel="noopener noreferrer">Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/" target="_blank" rel="noopener noreferrer">Microsoft retreats in China, but AI boom helps it keep a window open</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://finance.caixin.com/2026-08-13/102473825.html" target="_blank" rel="noopener noreferrer">多省审计报告点名国企对外投资 风险管控不力、国有资产管理薄弱</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
 
 
 ---
@@ -32,40 +32,38 @@
 ### 财新
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
-- <a href="https://finance.caixin.com/2026-08-12/102473532.html" target="_blank" rel="noopener noreferrer">央行推动短端利率调控框架 综合运用、适时调整货币政策工具</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473552.html" target="_blank" rel="noopener noreferrer">填补中型民企融资短板 央行解读1万亿民营再贷款的逻辑与模式</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473537.html" target="_blank" rel="noopener noreferrer">为什么设立？政策目的何在？央行全解银行间市场数据报告库</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473497.html" target="_blank" rel="noopener noreferrer">富途老虎期权内幕交易案锁定45人 共获利1.55亿美元</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473458.html" target="_blank" rel="noopener noreferrer">香港首个合规稳定币正式发布 首批分销商及机构投资者获接入</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473418.html" target="_blank" rel="noopener noreferrer">独家｜银行老将杨兵兵“空降”光大资产任党委书记</a>
-- <a href="https://finance.caixin.com/2026-08-12/102473320.html" target="_blank" rel="noopener noreferrer">浙金中心“爆雷”兑付比例已超25% 主要融资方祥源集团资产处置加速</a>
-- <a href="https://finance.caixin.com/2026-08-11/102473239.html" target="_blank" rel="noopener noreferrer">银行理财热衷打新 底仓波动打破稳赚神话</a>
-- <a href="https://finance.caixin.com/2026-08-11/102473192.html" target="_blank" rel="noopener noreferrer">爆款LOF退市安排立竿见影 高换手猛“杀”溢价</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473825.html" target="_blank" rel="noopener noreferrer">多省审计报告点名国企对外投资 风险管控不力、国有资产管理薄弱</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473878.html" target="_blank" rel="noopener noreferrer">外资扫货韩股 淡马锡调仓布局</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473829.html" target="_blank" rel="noopener noreferrer">MSCI中国指数“换血” 纳入科技新贵剔除万科</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473820.html" target="_blank" rel="noopener noreferrer">“杉杉系”重整案余波 子公司及原实控人被国资债权人索债近20亿元</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473729.html" target="_blank" rel="noopener noreferrer">华裔币圈大佬在巴拉圭坠楼身亡 自称曾掌管逾20亿美元资产</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473713.html" target="_blank" rel="noopener noreferrer">可转债首日封板率飙升 曙26转债开盘五日坚守150元上方</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473610.html" target="_blank" rel="noopener noreferrer">今日开盘：两市双双高开 沪指涨幅0.27%</a>
+- <a href="https://finance.caixin.com/2026-08-12/102473297.html" target="_blank" rel="noopener noreferrer">今日开盘：两市平开 沪指跌幅0.01%</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3779328" target="_blank" rel="noopener noreferrer">特朗普宣称“已完全控制霍尔木兹”，但油轮还是不敢走</a>
-- <a href="https://wallstreetcn.com/articles/3779325" target="_blank" rel="noopener noreferrer">今年赚1亿美元！做“大空头”不如做“大V”</a>
-- <a href="https://wallstreetcn.com/articles/3779324" target="_blank" rel="noopener noreferrer">体育史上最高价！特朗普女婿之弟和迪士尼前CEO联手，125亿美元收购洛杉矶湖人</a>
-- <a href="https://wallstreetcn.com/articles/3779322" target="_blank" rel="noopener noreferrer">财报点燃“AI云”，CoreWeave、Nebius双双大涨</a>
-- <a href="https://wallstreetcn.com/articles/3779315" target="_blank" rel="noopener noreferrer">思科上季营收创纪录，AI订单爆发，但全年AI营收预测令市场失望，盘后股价跌超4%｜财报见闻</a>
-- <a href="https://wallstreetcn.com/articles/3779323" target="_blank" rel="noopener noreferrer">CoreWeave警告：如果必须放弃英伟达芯片，将会面临困难</a>
-- <a href="https://wallstreetcn.com/articles/3779257" target="_blank" rel="noopener noreferrer">美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨</a>
-- <a href="https://wallstreetcn.com/articles/3779319" target="_blank" rel="noopener noreferrer">美国7月预算赤字创同期纪录，本财年利息支出已破万亿</a>
-- <a href="https://wallstreetcn.com/articles/3779316" target="_blank" rel="noopener noreferrer">美国10年期国债发行收益率创2007年金融危机以来最高</a>
+- <a href="https://wallstreetcn.com/articles/3779418" target="_blank" rel="noopener noreferrer">网友热议DeepSeek Harness：“自进化软件”的雏形</a>
+- <a href="https://wallstreetcn.com/member/articles/3779367" target="_blank" rel="noopener noreferrer">从328MW到5GW：SOFC为何突然站上AI数据中心的主电源牌桌？</a>
+- <a href="https://wallstreetcn.com/articles/3779403" target="_blank" rel="noopener noreferrer">逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高</a>
+- <a href="https://wallstreetcn.com/articles/3779419" target="_blank" rel="noopener noreferrer">高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东</a>
+- <a href="https://wallstreetcn.com/articles/3779417" target="_blank" rel="noopener noreferrer">“AI云两强”CoreWeave和Nebius业绩强劲！算力租赁价格大涨，短期合同溢价显著</a>
+- <a href="https://wallstreetcn.com/member/articles/3779343" target="_blank" rel="noopener noreferrer">汇丰财富洞察：美联储减少前瞻性指引对美国利率意味着什么？|汇听环球财富</a>
+- <a href="https://wallstreetcn.com/articles/3779415" target="_blank" rel="noopener noreferrer">真正的“油价危机”：全球炼油中心大面积停摆，华尔街警告“成品油完美风暴”</a>
+- <a href="https://wallstreetcn.com/articles/3779413" target="_blank" rel="noopener noreferrer">冲刺IPO，OpenAI年化收入已达400亿美元</a>
 
 ### Reuters 中国
 > 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
 
-- <a href="https://www.reuters.com/world/china/taiwan-holds-anti-blockade-naval-drill-during-war-games-china-steps-up-maritime-2026-08-13/" target="_blank" rel="noopener noreferrer">Taiwan holds anti-blockade naval drill during war games as China steps up maritime pressure</a>
-- <a href="https://www.reuters.com/business/energy/india-fuels-global-growth-planned-coal-mining-capacity-report-says-2026-08-13/" target="_blank" rel="noopener noreferrer">India fuels global growth in planned coal mining capacity, report says</a>
-- <a href="https://www.reuters.com/world/china/india-says-border-peace-critical-ties-with-china-amid-reports-military-tensions-2026-08-12/" target="_blank" rel="noopener noreferrer">India says border peace critical to ties with China amid reports of military tensions</a>
-- <a href="https://www.reuters.com/world/china/taiwan-condemns-dangerous-planned-chinese-navy-drill-with-indonesia-its-east-2026-08-12/" target="_blank" rel="noopener noreferrer">Indonesia says navy drill with China that angered Taiwan was routine</a>
-- <a href="https://www.reuters.com/world/asia-pacific/former-chinese-premier-zhu-rongji-dies-aged-98-xinhua-reports-2026-08-12/" target="_blank" rel="noopener noreferrer">Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97</a>
-- <a href="https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/" target="_blank" rel="noopener noreferrer">Ford to move production of some Lincoln models from China to US</a>
-- <a href="https://www.reuters.com/legal/government/chinas-londian-wason-valued-2-billion-shares-rise-nyse-debut-2026-08-12/" target="_blank" rel="noopener noreferrer">Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year</a>
-- <a href="https://www.reuters.com/legal/transactional/sheins-slowing-growth-tests-investor-appetite-ahead-hong-kong-ipo-2026-08-12/" target="_blank" rel="noopener noreferrer">Shein's slowing growth tests investor appetite ahead of Hong Kong IPO</a>
+- <a href="https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/" target="_blank" rel="noopener noreferrer">Iran war a boon for China's e-trucks, fuelling export surge</a>
+- <a href="https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/" target="_blank" rel="noopener noreferrer">Microsoft retreats in China, but AI boom helps it keep a window open</a>
+- <a href="https://www.reuters.com/world/china/china-keep-imposing-anti-dumping-duties-indian-single-mode-optical-fibre-imports-2026-08-13/" target="_blank" rel="noopener noreferrer">China to keep imposing anti-dumping duties on Indian single-mode optical fibre imports</a>
+- <a href="https://www.reuters.com/business/finance/china-chip-designer-kiwimoore-plans-hong-kong-ipo-2-billion-valuation-sources-2026-08-13/" target="_blank" rel="noopener noreferrer">China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation, sources say</a>
+- <a href="https://www.reuters.com/world/china/shipyard-explosion-southeastern-china-kills-fire-rescue-worker-2026-08-13/" target="_blank" rel="noopener noreferrer">Shipyard explosion in southeastern China kills fire and rescue worker</a>
+- <a href="https://www.reuters.com/business/energy/eu-curbs-chinese-solar-inverters-bolster-european-suppliers-sma-solar-says-2026-08-13/" target="_blank" rel="noopener noreferrer">EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says</a>
+- <a href="https://www.reuters.com/business/autos-transportation/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-2026-08-13/" target="_blank" rel="noopener noreferrer">China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2</a>
+- <a href="https://www.reuters.com/legal/transactional/shein-eyes-hong-kong-market-debut-august-28-source-says-2026-08-13/" target="_blank" rel="noopener noreferrer">Shein eyes Hong Kong market debut on August 28, source says</a>
 
 
 
@@ -74,26 +72,26 @@
 ### BBC Business
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
-- <a href="https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump sued over Truth Social's $100,000 early access service</a>
-- <a href="https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Discord ordered to suspend livestreams in Brazil</a>
-- <a href="https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Burnham warned Iran war could hit UK growth next year</a>
-- <a href="https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US inflation eases as food and fuel costs cool</a>
-- <a href="https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat</a>
+- <a href="https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">I got an £89 refund – how to cancel and  avoid unwanted subscriptions</a>
+- <a href="https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings</a>
+- <a href="https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Water bills set to rise for many after firms permitted extra funding</a>
+- <a href="https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Harvey Nichols bought by owner of Sports Direct</a>
+- <a href="https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Flock boss admits surveillance firm took too long to act over police abuse</a>
 - <a href="https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Why Japanese firms are being so slow to use AI</a>
-- <a href="https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Bakery buys comedian's former sites after closure</a>
-- <a href="https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Homes near pylons to get £250 a year off energy bills – first sites revealed</a>
+- <a href="https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Zero hours crackdown could cost firms up to £2.9bn a year</a>
+- <a href="https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">UK economy grows but experts warn of challenging months ahead</a>
 
 ### CNBC Finance
 > 来源: <a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>
 
+- <a href="https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html" target="_blank" rel="noopener noreferrer">These charts show why stocks keep rallying. Profit margins are the highest on record</a>
+- <a href="https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html" target="_blank" rel="noopener noreferrer">Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars</a>
+- <a href="https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html" target="_blank" rel="noopener noreferrer">&apos;Big Short&apos; investor Steve Eisman sees an Achilles&apos; heel in the AI boom</a>
+- <a href="https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html" target="_blank" rel="noopener noreferrer">Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on</a>
+- <a href="https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-premarket-.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: Tapestry, Yeti, Bullish, StubHub, Cerebras &amp; more</a>
+- <a href="https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html" target="_blank" rel="noopener noreferrer">This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips</a>
 - <a href="https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-after-hours-csco-jack-cbrs-stub.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub &amp; more</a>
 - <a href="https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html" target="_blank" rel="noopener noreferrer">SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low</a>
-- <a href="https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-midday-wen-hrb-qnt-crwv-cava.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves midday: Wendy&apos;s, H&amp;R Block, Quantinuum, CoreWeave, Cava &amp; more</a>
-- <a href="https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-premarket-crwv-smic-cohr.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves premarket: CoreWeave, Super Micro Computer, Nebius, Cava &amp; more</a>
-- <a href="https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html" target="_blank" rel="noopener noreferrer">New York City Council announces probe into prediction market platforms’ marketing strategies</a>
-- <a href="https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html" target="_blank" rel="noopener noreferrer">EVs dominate China’s car market: 5 takeaways from the country&apos;s latest auto sales data</a>
-- <a href="https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html" target="_blank" rel="noopener noreferrer">Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&amp;R Block and more</a>
-- <a href="https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html" target="_blank" rel="noopener noreferrer">Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China</a>
 
 ### WSJ Markets
 > 来源: <a href="https://www.wsj.com/market-data" target="_blank" rel="noopener noreferrer">WSJ Markets</a>
@@ -110,26 +108,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
-- <a href="https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html" target="_blank" rel="noopener noreferrer">Who Is Joshua Kushner, the New Lakers Co-Owner?</a>
-- <a href="https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html" target="_blank" rel="noopener noreferrer">Treasury Scales Back Scrutiny of U.S. Shell Companies</a>
-- <a href="https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html" target="_blank" rel="noopener noreferrer">Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment</a>
-- <a href="https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html" target="_blank" rel="noopener noreferrer">Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.</a>
-- <a href="https://www.nytimes.com/2026/08/12/business/home-depot-ceo.html" target="_blank" rel="noopener noreferrer">Ted Decker, CEO of Home Depot, Is Taking Medical Leave</a>
-- <a href="https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html" target="_blank" rel="noopener noreferrer">Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz</a>
-- <a href="https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html" target="_blank" rel="noopener noreferrer">Consumer Debt Data Shows ‘Overall’ Health Amid Persisting Divides</a>
-- <a href="https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html" target="_blank" rel="noopener noreferrer">Will Paramount’s Brinkmanship Work?</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html" target="_blank" rel="noopener noreferrer">Kalshi Ordered to Cease Most Operations in Washington State</a>
+- <a href="https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html" target="_blank" rel="noopener noreferrer">Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html" target="_blank" rel="noopener noreferrer">Flock Announces Privacy Updates to Its Car-Tracking Cameras</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/alfonso-fanjul-jr-dead.html" target="_blank" rel="noopener noreferrer">Alfonso Fanjul Jr., Cuban American Sugar Baron, Dies at 89</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html" target="_blank" rel="noopener noreferrer">In a Chinese Leader’s Death, Mourning for a More Hopeful Time</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html" target="_blank" rel="noopener noreferrer">How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html" target="_blank" rel="noopener noreferrer">Inside the $12.5 Billion Deal for the Lakers</a>
+- <a href="https://www.nytimes.com/2026/08/13/business/taylor-farms-recalls-cyclospora-salmonella.html" target="_blank" rel="noopener noreferrer">What We Know About Taylor Farms’ Food Recalls</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/stock-market-news/australia-provides-176-bln-lifeline-for-rio-tinto-aluminum-smelter-tomago-93CH-4856481" target="_blank" rel="noopener noreferrer">Australia provides $1.76 bln lifeline for Rio Tinto aluminum smelter Tomago</a>
-- <a href="https://www.investing.com/news/earnings/hyperion-defi-earnings-beat-by-189-revenue-fell-short-of-estimates-4856479" target="_blank" rel="noopener noreferrer">Hyperion DeFi earnings beat by $1.89, revenue fell short of estimates</a>
-- <a href="https://www.investing.com/news/earnings/connect-biopharma-holdings-earnings-beat-by-034-revenue-topped-estimates-4856480" target="_blank" rel="noopener noreferrer">Connect Biopharma Holdings earnings beat by ¥0.34, revenue topped estimates</a>
-- <a href="https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478" target="_blank" rel="noopener noreferrer">U.S. stock futures flat after in-line CPI, upbeat tech earnings</a>
-- <a href="https://www.investing.com/news/earnings/boxlight-a-earnings-beat-by-2050-revenue-fell-short-of-estimates-4856477" target="_blank" rel="noopener noreferrer">Boxlight A earnings beat by $20.50, revenue fell short of estimates</a>
-- <a href="https://www.investing.com/news/insider-trading-news/wheels-up-chief-growth-officer-meaghan-wells-sells-23576-in-shares-93CH-4856476" target="_blank" rel="noopener noreferrer">Wheels up chief growth officer Meaghan Wells sells $23,576 in shares</a>
-- <a href="https://www.investing.com/news/insider-trading-news/universal-technical-director-robert-devincenzi-buys-225k-in-stock-93CH-4856475" target="_blank" rel="noopener noreferrer">Universal technical director Robert DeVincenzi buys $225k in stock</a>
-- <a href="https://www.investing.com/news/insider-trading-news/apptech-payments-director-albert-lord-buys-22154-in-stock-93CH-4856474" target="_blank" rel="noopener noreferrer">AppTech Payments director Albert Lord buys $22,154 in stock</a>
+- <a href="https://www.investing.com/news/transcripts/earnings-call-transcript-qbe-posts-strong-h1-2026-results-as-shares-fall-53-93CH-4859614" target="_blank" rel="noopener noreferrer">Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3%</a>
+- <a href="https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-hits-record-high-on-soft-ppi-4859612" target="_blank" rel="noopener noreferrer">Wall St futures steady after S&amp;P 500 hits record high on soft PPI</a>
+- <a href="https://www.investing.com/news/company-news/baby-bunting-fy26-slides-record-margin-drives-34-profit-jump-93CH-4859611" target="_blank" rel="noopener noreferrer">Baby Bunting FY26 slides: record margin drives 34% profit jump</a>
+- <a href="https://www.investing.com/news/insider-trading-news/strata-critical-medical-director-reginald-love-disposes-of-29273-in-stock-93CH-4859610" target="_blank" rel="noopener noreferrer">Strata critical medical director Reginald Love disposes of $29,273 in stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/aehr-test-systems-president-and-ceo-gayn-erickson-sells-523m-in-shares-93CH-4859609" target="_blank" rel="noopener noreferrer">Aehr Test Systems president and CEO Gayn Erickson sells $5.23m in shares</a>
+- <a href="https://www.investing.com/news/insider-trading-news/txo-partners-director-bob-simpson-buys-215m-in-common-units-93CH-4859608" target="_blank" rel="noopener noreferrer">TXO Partners director Bob Simpson buys $2.15m in common units</a>
+- <a href="https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4859607" target="_blank" rel="noopener noreferrer">Why is Baby Bunting stock surging today?</a>
+- <a href="https://www.investing.com/news/insider-trading-news/chiron-real-estate-ceo-mark-decker-jr-buys-246950-in-stock-93CH-4859606" target="_blank" rel="noopener noreferrer">Chiron Real Estate CEO Mark Decker Jr. buys $246,950 in stock</a>
 
 
 
