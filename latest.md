@@ -1,6 +1,6 @@
-# 金融日报 - 2026-08-15
+# 金融日报 - 2026-08-16
 
-> 生成时间：2026/8/15 09:01:54
+> 生成时间：2026/8/16 09:01:29
 > 数据源：RSS 5 | 浏览器 3
 > ⚡ 自动追加模式：若报告已存在，手动编辑内容将被保留并追加新内容
 
@@ -10,19 +10,19 @@
 
 ### 高热度（TOP 5）
 
-- <a href="https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638" target="_blank" rel="noopener noreferrer">Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
-- <a href="https://wallstreetcn.com/articles/3779494" target="_blank" rel="noopener noreferrer">英伟达首度披露SpaceX持仓，借道xAI间接持有约210亿美元</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3779495" target="_blank" rel="noopener noreferrer">Anthropic Q2营收飙升至逾115亿美元，同比涨超14倍</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490" target="_blank" rel="noopener noreferrer">Iran defiant on strait as Trump tells Americans to accept high gas prices</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
-- <a href="https://finance.caixin.com/2026-08-14/102474251.html" target="_blank" rel="noopener noreferrer">被撤销审计资格 深圳堂堂会计所继续“叫板”监管</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
+- <a href="https://wallstreetcn.com/articles/3779517" target="_blank" rel="noopener noreferrer">洪灝：中国AI行情进入第二阶段，高质量公司表现更好</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779516" target="_blank" rel="noopener noreferrer">林肯调整美国供应，中国市场仍是关键</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779514" target="_blank" rel="noopener noreferrer">最优“AI泡沫交易”：同时做多“傲慢”与“偏见”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779512" target="_blank" rel="noopener noreferrer">博通一夜跌6%：AI的下一道坎，是融资成本</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://wallstreetcn.com/articles/3779510" target="_blank" rel="noopener noreferrer">a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
 
 ### 中热度（TOP 5-10）
 
-- <a href="https://wallstreetcn.com/articles/3779492" target="_blank" rel="noopener noreferrer">美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://finance.caixin.com/2026-08-13/102473829.html" target="_blank" rel="noopener noreferrer">MSCI中国指数“换血” 纳入科技新贵剔除万科</a>（来源：<a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>）
-- <a href="https://wallstreetcn.com/articles/3779493" target="_blank" rel="noopener noreferrer">“AI股神”爆仓拖累，Jane Street7月巨亏150亿，十年来首次单月亏损！</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3779489" target="_blank" rel="noopener noreferrer">甲骨文一度跌5%，“星际之门”关键AI数据中心配套天然气管道延期</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
-- <a href="https://wallstreetcn.com/articles/3779486" target="_blank" rel="noopener noreferrer">AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟</a>（来源：<a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>）
+- <a href="https://www.reuters.com/world/china/philippine-defence-chief-rejects-china-criticism-calls-response-squid-tactic-2026-08-15/" target="_blank" rel="noopener noreferrer">Philippine defence chief rejects China criticism, calls response a 'squid tactic'</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html" target="_blank" rel="noopener noreferrer">Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on</a>（来源：<a href="https://www.cnbc.com/finance/" target="_blank" rel="noopener noreferrer">CNBC Finance</a>）
+- <a href="https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886" target="_blank" rel="noopener noreferrer">Iran war commander visits USS Abraham Lincoln as carrier prepares to return home</a>（来源：<a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>）
+- <a href="https://www.reuters.com/world/china/taliban-mark-five-years-power-aid-groups-warn-crisis-2026-08-15/" target="_blank" rel="noopener noreferrer">Taliban mark five years in power as aid groups warn of crisis</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
+- <a href="https://www.reuters.com/world/china/taiwan-passes-annual-budget-after-long-delay-including-drone-spending-2026-08-15/" target="_blank" rel="noopener noreferrer">Taiwan passes annual budget after long delay, including drone spending</a>（来源：<a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>）
 
 
 ---
@@ -32,42 +32,38 @@
 ### 财新
 > 来源: <a href="https://www.caixin.com/" target="_blank" rel="noopener noreferrer">财新</a>
 
-- <a href="https://finance.caixin.com/2026-08-14/102474246.html" target="_blank" rel="noopener noreferrer">7月新增社融1.4万亿元、贷款负增长3400亿元 债券融资成主力</a>
+- <a href="https://finance.caixin.com/2026-08-15/102474412.html" target="_blank" rel="noopener noreferrer">跨境资金集中运营试点推向全国 更低门槛惠及更多中小跨国公司</a>
+- <a href="https://finance.caixin.com/2026-08-14/102473980.html" target="_blank" rel="noopener noreferrer">今日开盘：小幅高开 沪指涨幅0.08%</a>
+- <a href="https://finance.caixin.com/2026-08-13/102473610.html" target="_blank" rel="noopener noreferrer">今日开盘：两市双双高开 沪指涨幅0.27%</a>
+- <a href="https://finance.caixin.com/2026-08-15/102474577.html" target="_blank" rel="noopener noreferrer">段永平、张磊、李录等大佬二季度买了什么？ 半导体投资分歧大</a>
+- <a href="https://finance.caixin.com/2026-08-15/102474476.html" target="_blank" rel="noopener noreferrer">摊余成本法债基重启 15家中小公募集中上报</a>
 - <a href="https://finance.caixin.com/2026-08-14/102474301.html" target="_blank" rel="noopener noreferrer">二季度银行业息差触底反弹 盈利指标现改善迹象</a>
 - <a href="https://finance.caixin.com/2026-08-14/102474290.html" target="_blank" rel="noopener noreferrer">农村中小银行减少670家 减量与提质如何并行？</a>
-- <a href="https://finance.caixin.com/2026-08-14/102474255.html" target="_blank" rel="noopener noreferrer">银行存款利率总体延续下行趋势 五年期平均利率环比上涨</a>
-- <a href="https://finance.caixin.com/2026-08-14/102474251.html" target="_blank" rel="noopener noreferrer">被撤销审计资格 深圳堂堂会计所继续“叫板”监管</a>
-- <a href="https://finance.caixin.com/2026-08-14/102474203.html" target="_blank" rel="noopener noreferrer">“报行合一”新政落地 7月银保市场新单收入骤降</a>
-- <a href="https://finance.caixin.com/2026-08-14/102473990.html" target="_blank" rel="noopener noreferrer">主权基金集中现身SpaceX股东名单 持仓规模首次曝光</a>
-- <a href="https://finance.caixin.com/2026-08-13/102473878.html" target="_blank" rel="noopener noreferrer">外资扫货韩股 淡马锡调仓布局</a>
-- <a href="https://finance.caixin.com/2026-08-13/102473829.html" target="_blank" rel="noopener noreferrer">MSCI中国指数“换血” 纳入科技新贵剔除万科</a>
-- <a href="https://finance.caixin.com/2026-08-13/102473825.html" target="_blank" rel="noopener noreferrer">多省审计报告点名国企对外投资 风险管控不力、国有资产管理薄弱</a>
+- <a href="https://finance.caixin.com/2026-08-14/102474246.html" target="_blank" rel="noopener noreferrer">7月新增社融1.4万亿元、贷款负增长3400亿元 债券融资成主力</a>
 
 ### 华尔街见闻
 > 来源: <a href="https://www.wallstreetcn.com/news" target="_blank" rel="noopener noreferrer">华尔街见闻</a>
 
-- <a href="https://wallstreetcn.com/articles/3779496" target="_blank" rel="noopener noreferrer">华尔街见闻早餐FM-Radio | 2026年8月15日</a>
-- <a href="https://wallstreetcn.com/articles/3779493" target="_blank" rel="noopener noreferrer">“AI股神”爆仓拖累，Jane Street7月巨亏150亿，十年来首次单月亏损！</a>
-- <a href="https://wallstreetcn.com/articles/3779437" target="_blank" rel="noopener noreferrer">美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌</a>
-- <a href="https://wallstreetcn.com/articles/3779489" target="_blank" rel="noopener noreferrer">甲骨文一度跌5%，“星际之门”关键AI数据中心配套天然气管道延期</a>
-- <a href="https://wallstreetcn.com/articles/3779495" target="_blank" rel="noopener noreferrer">Anthropic Q2营收飙升至逾115亿美元，同比涨超14倍</a>
-- <a href="https://wallstreetcn.com/articles/3779494" target="_blank" rel="noopener noreferrer">英伟达首度披露SpaceX持仓，借道xAI间接持有约210亿美元</a>
-- <a href="https://wallstreetcn.com/articles/3779492" target="_blank" rel="noopener noreferrer">美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定</a>
-- <a href="https://wallstreetcn.com/articles/3779491" target="_blank" rel="noopener noreferrer">SK集团“天价离婚案”再起波澜，董事长崔泰源就6.43亿美元判决提起上诉</a>
-- <a href="https://wallstreetcn.com/articles/3779490" target="_blank" rel="noopener noreferrer">阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股</a>
-- <a href="https://wallstreetcn.com/articles/3779486" target="_blank" rel="noopener noreferrer">AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟</a>
+- <a href="https://wallstreetcn.com/articles/3779517" target="_blank" rel="noopener noreferrer">洪灝：中国AI行情进入第二阶段，高质量公司表现更好</a>
+- <a href="https://wallstreetcn.com/articles/3779516" target="_blank" rel="noopener noreferrer">林肯调整美国供应，中国市场仍是关键</a>
+- <a href="https://wallstreetcn.com/member/articles/3779502" target="_blank" rel="noopener noreferrer">博通暴跌20% 市场在怕什么？</a>
+- <a href="https://wallstreetcn.com/articles/3779514" target="_blank" rel="noopener noreferrer">最优“AI泡沫交易”：同时做多“傲慢”与“偏见”</a>
+- <a href="https://wallstreetcn.com/articles/3779513" target="_blank" rel="noopener noreferrer">中期选举压力是否还能触发“TACO”？</a>
+- <a href="https://wallstreetcn.com/articles/3779512" target="_blank" rel="noopener noreferrer">博通一夜跌6%：AI的下一道坎，是融资成本</a>
+- <a href="https://wallstreetcn.com/articles/3779510" target="_blank" rel="noopener noreferrer">a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”</a>
+- <a href="https://wallstreetcn.com/articles/3779509" target="_blank" rel="noopener noreferrer">520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？</a>
 
 ### Reuters 中国
 > 来源: <a href="https://www.reuters.com/news/helipad/china" target="_blank" rel="noopener noreferrer">Reuters 中国</a>
 
-- <a href="https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/" target="_blank" rel="noopener noreferrer">US to tell partners they must pick sides in AI race with China</a>
+- <a href="https://www.reuters.com/world/china/taliban-mark-five-years-power-aid-groups-warn-crisis-2026-08-15/" target="_blank" rel="noopener noreferrer">Taliban mark five years in power as aid groups warn of crisis</a>
+- <a href="https://www.reuters.com/world/china/philippine-defence-chief-rejects-china-criticism-calls-response-squid-tactic-2026-08-15/" target="_blank" rel="noopener noreferrer">Philippine defence chief rejects China criticism, calls response a 'squid tactic'</a>
+- <a href="https://www.reuters.com/world/china/xi-calls-improving-disaster-prevention-floods-landslides-batter-china-2026-08-15/" target="_blank" rel="noopener noreferrer">Xi calls for improving disaster prevention as floods, landslides batter China</a>
+- <a href="https://www.reuters.com/world/china/japan-defence-minister-visits-contentious-yasukuni-shrine-war-dead-2026-08-15/" target="_blank" rel="noopener noreferrer">Japan defence minister visits contentious Yasukuni Shrine to war dead</a>
+- <a href="https://www.reuters.com/world/china/taiwan-passes-annual-budget-after-long-delay-including-drone-spending-2026-08-15/" target="_blank" rel="noopener noreferrer">Taiwan passes annual budget after long delay, including drone spending</a>
 - <a href="https://www.reuters.com/legal/litigation/court-must-reconsider-drone-maker-djis-inclusion-pentagons-chinese-military-list-2026-08-14/" target="_blank" rel="noopener noreferrer">Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist</a>
-- <a href="https://www.reuters.com/world/india/gold-heads-weekly-loss-investors-unwind-inflation-fuelled-rally-2026-08-14/" target="_blank" rel="noopener noreferrer">Gold rises on weaker dollar as inflation data cements rate-hold bets</a>
+- <a href="https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/" target="_blank" rel="noopener noreferrer">US to tell partners they must pick sides in AI race with China</a>
 - <a href="https://www.reuters.com/world/china/global-markets-flows-graphic-2026-08-14/" target="_blank" rel="noopener noreferrer">Global equity funds extend inflow streak as earnings optimism and reduced rate-hike bets lift sentiment</a>
-- <a href="https://www.reuters.com/world/china/china-calls-taiwans-annual-military-drills-wasteful-charade-2026-08-14/" target="_blank" rel="noopener noreferrer">China calls Taiwan's annual military drills a 'wasteful charade'</a>
-- <a href="https://www.reuters.com/world/china/deepseek-releases-official-v4-pro-model-it-steps-up-expansion-2026-08-13/" target="_blank" rel="noopener noreferrer">DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash</a>
-- <a href="https://www.reuters.com/business/autos-transportation/chinese-car-sales-are-booming-almost-everywhere-just-not-home-2026-08-14/" target="_blank" rel="noopener noreferrer">Chinese car sales are booming almost everywhere - just not at home</a>
-- <a href="https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/" target="_blank" rel="noopener noreferrer">Apple trains its own AI model for China market</a>
 
 
 
@@ -77,7 +73,7 @@
 > 来源: <a href="https://www.bbc.com/news/business" target="_blank" rel="noopener noreferrer">BBC Business</a>
 
 - <a href="https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Electric vehicle sales targets could be cut after pressure from car makers</a>
-- <a href="https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Temporary ban on sale of disposable BBQs over wildfire risk</a>
+- <a href="https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Temporary ban on disposable BBQs as military deployed to help battle wildfires</a>
 - <a href="https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Selena Gomez sued for alleged fraud over mental health company</a>
 - <a href="https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">I got an £89 refund – how to cancel and  avoid unwanted subscriptions</a>
 - <a href="https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US says dozens of countries helped China dodge Trump's tariffs</a>
@@ -112,26 +108,26 @@
 ### NYTimes Business
 > 来源: <a href="https://www.nytimes.com/section/business" target="_blank" rel="noopener noreferrer">NYTimes Business</a>
 
+- <a href="https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html" target="_blank" rel="noopener noreferrer">2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’</a>
+- <a href="https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html" target="_blank" rel="noopener noreferrer">The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness</a>
+- <a href="https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html" target="_blank" rel="noopener noreferrer">Sports Team Sale Prices Keep Hitting New Highs</a>
+- <a href="https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html" target="_blank" rel="noopener noreferrer">Worker Pay Isn’t Keeping Up With Inflation Once Again</a>
+- <a href="https://www.nytimes.com/2026/08/15/your-money/vacation-protecting-home.html" target="_blank" rel="noopener noreferrer">How to Protect Your Home While You’re on Vacation</a>
+- <a href="https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html" target="_blank" rel="noopener noreferrer">How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands</a>
 - <a href="https://www.nytimes.com/2026/08/14/health/fda-egg-recall-salmonella.html" target="_blank" rel="noopener noreferrer">FDA Classifies Egg Recall as Class I for Highest Health Risk</a>
 - <a href="https://www.nytimes.com/2026/08/14/automobiles/hiroshi-okuda-dead.html" target="_blank" rel="noopener noreferrer">Hiroshi Okuda, Disrupter Who Revived Toyota in the 1990s, Dies at 93</a>
-- <a href="https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html" target="_blank" rel="noopener noreferrer">Lawsuit Accuses Selena Gomez of Defrauding Investors in Mental Health Site</a>
-- <a href="https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html" target="_blank" rel="noopener noreferrer">Google Turns On Gemini A.I. for Students Using Its Classroom App</a>
-- <a href="https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html" target="_blank" rel="noopener noreferrer">Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing</a>
-- <a href="https://www.nytimes.com/2026/08/14/business/jeff-bezos-liverpool-football-club.html" target="_blank" rel="noopener noreferrer">Jeff Bezos Buys a Piece of Liverpool Football Club</a>
-- <a href="https://www.nytimes.com/2026/08/14/business/retail-sales-july.html" target="_blank" rel="noopener noreferrer">July Retail Sales Notch Biggest Drop in Over a Year</a>
-- <a href="https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html" target="_blank" rel="noopener noreferrer">Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</a>
 
 ### Investing.com
 > 来源: <a href="https://www.investing.com" target="_blank" rel="noopener noreferrer">Investing.com</a>
 
-- <a href="https://www.investing.com/news/insider-trading-news/infleqtion-director-maverick-capital-sells-597k-buys-646k-common-stock-93CH-4861658" target="_blank" rel="noopener noreferrer">Infleqtion director Maverick Capital sells $597k, buys $646k common stock</a>
-- <a href="https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4861650" target="_blank" rel="noopener noreferrer">Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say</a>
-- <a href="https://www.investing.com/news/insider-trading-news/public-storage-chief-legal-officer-sells-463133-in-shares-93CH-4861657" target="_blank" rel="noopener noreferrer">Public Storage chief legal officer sells $463,133 in shares</a>
-- <a href="https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638" target="_blank" rel="noopener noreferrer">Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports</a>
-- <a href="https://www.investing.com/news/insider-trading-news/universal-technical-institute-director-devincenzi-buys-25945-in-shares-93CH-4861656" target="_blank" rel="noopener noreferrer">Universal Technical Institute director DeVincenzi buys $25,945 in shares</a>
-- <a href="https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-189m-in-company-stock-93CH-4861655" target="_blank" rel="noopener noreferrer">TKO director Nick Khan sells $1.89m in company stock</a>
-- <a href="https://www.investing.com/news/stock-market-news/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-4861654" target="_blank" rel="noopener noreferrer">JPMorgan debanked Polymarket last year over regulatory concerns, source says</a>
-- <a href="https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490" target="_blank" rel="noopener noreferrer">Iran defiant on strait as Trump tells Americans to accept high gas prices</a>
+- <a href="https://www.investing.com/news/stock-market-news/how-can-disney-get-back-its-narrative-momentum-4861890" target="_blank" rel="noopener noreferrer">How can Disney get back its narrative momentum?</a>
+- <a href="https://www.investing.com/news/insider-trading-news/amalgamated-financial-director-mark-finser-sells-39880-in-shares-93CH-4861889" target="_blank" rel="noopener noreferrer">Amalgamated Financial director Mark Finser sells $39,880 in shares</a>
+- <a href="https://www.investing.com/news/insider-trading-news/ufp-technologies-executive-chairman-bailly-sells-41m-in-shares-93CH-4861888" target="_blank" rel="noopener noreferrer">UFP Technologies executive chairman Bailly sells $4.1m in shares</a>
+- <a href="https://www.investing.com/news/insider-trading-news/arlo-technologies-director-amy-rothstein-sells-149218-in-stock-93CH-4861887" target="_blank" rel="noopener noreferrer">Arlo technologies director Amy Rothstein sells $149,218 in stock</a>
+- <a href="https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886" target="_blank" rel="noopener noreferrer">Iran war commander visits USS Abraham Lincoln as carrier prepares to return home</a>
+- <a href="https://www.investing.com/news/insider-trading-news/extreme-networks-director-raj-khanna-sells-363001-in-stock-93CH-4861884" target="_blank" rel="noopener noreferrer">Extreme Networks director Raj Khanna sells $363,001 in stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/phillips-66-svp-and-controller-kluppel-sells-165m-in-stock-93CH-4861883" target="_blank" rel="noopener noreferrer">Phillips 66 SVP and controller Kluppel sells $1.65m in stock</a>
+- <a href="https://www.investing.com/news/insider-trading-news/viasat-svp-robert-blair-sells-215m-in-common-stock-93CH-4861882" target="_blank" rel="noopener noreferrer">Viasat SVP Robert Blair sells $2.15m in common stock</a>
 
 
 
